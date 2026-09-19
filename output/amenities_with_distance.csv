@@ -1,19 +1,4 @@
-property_id,name,type,distance_km
-P001,Demo School,school,0.5301722723187208
-P001,Demo Hospital,hospital,0.88876482138525
-P001,Demo Market,market,0.5876980790825883
-P001,Demo Bank,bank,0.7842840037175707
-P001,Demo Park,park,0.7351115626069008
-P001,Demo Main Road,main_road,1.0180023273542882
-P002,Demo School,school,363.3763662945783
-P002,Demo Hospital,hospital,362.59088269950126
-P002,Demo Market,market,362.8903058395783
-P002,Demo Bank,bank,363.63386078767047
-P002,Demo Park,park,362.25174457673387
-P002,Demo Main Road,main_road,363.39142466582075
-P003,Demo School,school,1158.6678478308313
-P003,Demo Hospital,hospital,1157.9221801350889
-P003,Demo Market,market,1158.1340233825695
-P003,Demo Bank,bank,1158.8979444379684
-P003,Demo Park,park,1157.5101249990394
-P003,Demo Main Road,main_road,1158.7239558532278
+property_id,name,type,distance_km,source
+P001,Demo Main Road,main_road,1.0180023273542882,DEMO
+P002,Demo Main Road,main_road,363.39142466582075,DEMO
+P003,Demo Main Road,main_road,1158.7239558532278,DEMO

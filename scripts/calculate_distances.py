@@ -49,13 +49,13 @@ for _, property_row in properties.iterrows():
             amenity["longitude"]
         )
 
-        results.append({
-            "property_id": property_id,
-            "name": amenity["name"],
-            "type": amenity["type"],
-            "distance_km": distance
-        })
-
+    results.append({
+    "property_id": property_id,
+    "name": amenity["name"],
+    "type": amenity["type"],
+    "distance_km": distance,
+    "source": amenity["source"]
+})
 
 result_df = pd.DataFrame(results)
 

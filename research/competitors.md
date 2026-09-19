@@ -36,8 +36,15 @@ ValueMap AI can differentiate itself by combining:
 
 ### Source
 
-Housing.com - Property Rates in India:
+Housing.com - Property Rates in India
+
+URL:
+
 https://housing.com/price-trends/property-rates-for-buy-in-india-P6vubelwbhsrl3yvi
+
+Accessed: 2026-09-20
+
+---
 
 ## 2. Magicbricks
 
@@ -78,8 +85,15 @@ Instead of only showing the average price of a locality, ValueMap AI can use mul
 
 ### Source
 
-Magicbricks - Property Rates & Trends:
+Magicbricks - Property Rates & Trends
+
+URL:
+
 https://www.magicbricks.com/Property-Rates-Trends
+
+Accessed: 2026-09-20
+
+---
 
 ## 3. PropWorth by Magicbricks
 
@@ -121,5 +135,10 @@ The goal is to help users understand not only the estimated value, but also the 
 
 ### Source
 
-Magicbricks PropWorth:
+Magicbricks PropWorth
+
+URL:
+
 https://www.magicbricks.com/home-worth-edit.html
+
+Accessed: 2026-09-20

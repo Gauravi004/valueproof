@@ -2,6 +2,19 @@ import pandas as pd
 
 df = pd.read_csv("output/amenities_with_distance.csv")
 
+expected_types = [
+    "school",
+    "hospital",
+    "market",
+    "highway",
+    "railway",
+    "bank",
+    "park",
+    "food",
+    "retail",
+    "main_road"
+]
+
 results = []
 
 for property_id in df["property_id"].unique():
@@ -10,24 +23,35 @@ for property_id in df["property_id"].unique():
 
     features = {}
 
-    for place_type in property_data["type"].unique():
+    for place_type in expected_types:
 
         places = property_data[
             property_data["type"] == place_type
         ]
 
-        features[place_type] = places["distance_km"].min()
+        if len(places) > 0:
+            features[place_type] = places["distance_km"].min()
+        else:
+            features[place_type] = None
 
     results.append({
         "property_id": property_id,
-        "school_km": features.get("school"),
-        "hospital_km": features.get("hospital"),
-        "market_km": features.get("market"),
-        "bank_km": features.get("bank"),
-        "park_km": features.get("park"),
-        "main_road_km": features.get("main_road")
-    })
 
+        "school_km": features["school"],
+        "hospital_km": features["hospital"],
+        "market_km": features["market"],
+
+        "highway_km": features["highway"],
+        "railway_km": features["railway"],
+
+        "bank_km": features["bank"],
+        "park_km": features["park"],
+
+        "food_km": features["food"],
+        "retail_km": features["retail"],
+
+        "main_road_km": features["main_road"]
+    })
 
 result = pd.DataFrame(results)
 
