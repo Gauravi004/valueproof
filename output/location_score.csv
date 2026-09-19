@@ -1,0 +1,2 @@
+property_id,school_km,hospital_km,market_km,bank_km,park_km,main_road_km,school_score,hospital_score,market_score,bank_score,park_score,main_road_score,location_score
+P001,0.5301722723187208,0.88876482138525,0.5876980790825883,0.7842840037175707,0.7351115626069008,1.0180023273542882,8,8,8,8,8,6,7.666666666666667
