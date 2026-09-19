@@ -131,6 +131,77 @@ Survey results will be stored separately in:
 survey/survey_results.csv
 
 ---
+## 8A. Preliminary User Validation
+
+A Google Form was created to collect initial feedback from potential property buyers and sellers.
+
+### Response count
+
+**Responses collected: 1 (n=1)**
+
+Because only one response has been collected, these findings are treated as preliminary qualitative validation and are not considered statistically representative.
+
+### Respondent profile
+
+The respondent identified as:
+
+* Both a property buyer and seller
+* Primarily dealing with a Tier-II city
+
+### Key observations
+
+The respondent reported using:
+
+* Friends/family
+* Government records
+* Recent nearby property deals
+
+when trying to understand property prices.
+
+The respondent indicated that the following information would be useful:
+
+* Recent transaction prices
+* Distance from schools
+* Distance from hospitals
+* Distance from markets
+
+For an online valuation to be trustworthy, the respondent selected:
+
+* Location factors
+* Nearby amenities
+* Explanation of how the estimate was calculated
+* Confidence/data-quality information
+
+The respondent preferred a **price range** rather than only a single estimated price.
+
+The respondent also considered the proposed ValueMap AI concept useful and indicated that they would probably use such a tool before buying or selling property.
+
+The most valuable proposed feature selected by the respondent was:
+
+**Location/amenity analysis**
+
+### Initial validation insight
+
+The initial response supports the product hypothesis that property valuation can be more useful when an estimated price is accompanied by understandable evidence.
+
+In particular, the response supports exploring:
+
+* Comparable-property evidence
+* Recent transaction information
+* Location intelligence
+* Nearby amenities
+* Price ranges
+* Explainable valuation
+* Data-quality indicators
+
+### Limitation
+
+This is an initial response from **one respondent (n=1)**.
+
+It cannot be used to claim that these preferences represent the wider population of property buyers or sellers.
+
+Further responses would be required for quantitative validation.
+
 
 ## 9. Product Hypothesis
 
@@ -182,3 +253,63 @@ rather than presenting every estimate as equally certain.
 
 4. ANAROCK — Q1 2025 Pan-India Residential Market Viewpoints
    https://websitemedia.anarock.com/media/Q1_2025_Pan_India_Residential_Market_Viewpoints_d53ed5e813.pdf
+
+# Market & Problem Research
+
+## 1. Property Information and Transparency
+
+### Evidence from NITI Aayog
+
+NITI Aayog has documented challenges in India's real-estate sector including lack of transparency and a high number of informal transactions.
+
+NITI Aayog has also described challenges related to land and property records, including records being maintained across different departments and cases where older records are manual or difficult to access.
+
+### Why this matters for ValueMap AI
+
+Property valuation requires reliable evidence.
+
+A buyer or seller may need to consider:
+
+- Comparable properties
+- Location
+- Property characteristics
+- Nearby amenities
+- Market trends
+- Property records and available information
+
+When information is fragmented, understanding whether an asking price is reasonable can become difficult.
+
+### Our problem statement
+
+Existing platforms provide property listings, locality trends and valuation tools.
+
+ValueMap AI focuses on bringing multiple evidence sources together and explaining the estimated value of an individual property.
+
+The system can show:
+
+- Comparable properties
+- Location intelligence
+- Nearby amenities
+- Observed market evidence
+- Price breakdown
+- Data quality
+- Estimated value range
+- Explanation of the factors affecting the estimate
+
+### Important limitation
+
+The ValueMap AI prototype uses synthetic/demo data for demonstration.
+
+The prototype does not claim to provide official government valuation, circle rates, registry values or guaranteed market prices.
+
+### Sources
+
+NITI Aayog - Real Estate Sector:
+https://www.niti.gov.in/node/339
+
+NITI Aayog - Land Records and Titles:
+https://www.niti.gov.in/node/296
+
+Ministry of Housing & Urban Affairs - Implementation of RERA:
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291961
+

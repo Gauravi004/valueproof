@@ -1,80 +1,125 @@
-# Property Valuation Competitor Research
+# Competitor Research
 
 ## 1. Housing.com
 
-Housing.com provides property listings and property-related information.
+### What Housing.com provides
 
-Relevant capability:
-- Property search
-- Property listings
-- Price information
-- Location-based property discovery
+Housing.com provides property price and trend information for different locations in India.
 
-Limitation / opportunity for ValueMap AI:
-- ValueMap AI focuses on combining comparable properties, location intelligence,
-  and transparent evidence into one explainable valuation.
+The Housing.com property rates page displays:
 
-Source:
-https://housing.com/
+- Locality
+- Average Price per Sqft
+- Price Range per Sqft
+- Price Trend
+- Number of properties available
 
----
+The platform also provides property listings for different locations.
+
+### What we learned
+
+Housing.com already provides property price information and locality-level price trends.
+
+Therefore, ValueMap AI should not claim that it is the first platform to provide property price information.
+
+### ValueMap AI opportunity
+
+ValueMap AI can differentiate itself by combining:
+
+- Comparable-property evidence
+- Location intelligence
+- Nearby amenity information
+- Transparent price breakdown
+- Data-quality information
+- Explainable valuation
+- Buyer and seller reference pricing
+
+### Source
+
+Housing.com - Property Rates in India:
+https://housing.com/price-trends/property-rates-for-buy-in-india-P6vubelwbhsrl3yvi
 
 ## 2. Magicbricks
 
-Magicbricks provides property listings and property-related market information.
+### What Magicbricks provides
 
-Relevant capability:
-- Property listings
-- Locality information
-- Property prices
-- Market insights
+Magicbricks provides property rate and trend information for different cities and localities.
 
-Limitation / opportunity for ValueMap AI:
-- ValueMap AI focuses on an explainable valuation workflow where the user can
-  see the evidence and factors contributing to the estimated value.
+The Property Rates & Trends page displays:
 
-Source:
-https://www.magicbricks.com/
+- Locality
+- Average Price per Sqft
+- Price Range per Sqft
+- Quarter-on-Quarter (Q-o-Q) trend
+- Locality price trends
 
----
+Users can also search for a locality and view its property trends.
 
-## 3. PropWorth
+### What we learned
 
-PropWorth is associated with property valuation and property price estimation.
+Magicbricks already provides locality-level property prices and market trends.
 
-Relevant capability:
-- Property valuation / price estimation
-- Property-related market information
+Therefore, ValueMap AI should not claim that it is the first platform to provide property price information.
 
-Limitation / opportunity for ValueMap AI:
-- ValueMap AI is designed around a transparent evidence layer including
-  comparable properties and location factors.
+### ValueMap AI opportunity
 
-Source:
-https://www.propworth.in/
+ValueMap AI can combine:
 
----
+- Comparable-property evidence
+- Property-specific characteristics
+- Location intelligence
+- Nearby amenities
+- Observed market data
+- Transparent price breakdown
+- Data-quality information
+- Explainable valuation
 
-# ValueMap AI Differentiation
+Instead of only showing the average price of a locality, ValueMap AI can use multiple evidence sources to explain why a particular property may fall within a certain estimated value range.
 
-ValueMap AI is not claiming that existing platforms do not provide
-property valuation.
+### Source
 
-Our focus is:
+Magicbricks - Property Rates & Trends:
+https://www.magicbricks.com/Property-Rates-Trends
 
-1. Small-town and less-served markets
-2. Comparable-property evidence
-3. Dynamic location intelligence
-4. Transparent price breakdown
-5. Confidence score
-6. Buyer and seller shared reference price
-7. AI explanation of the valuation
+## 3. PropWorth by Magicbricks
 
-Core idea:
+### What PropWorth provides
 
-Property data
-→ Comparable properties
-→ Location factors
-→ Valuation engine
-→ Evidence
-→ Explainable result
+PropWorth is Magicbricks' property valuation tool.
+
+It allows users to enter property information and receive an estimated property value.
+
+The valuation considers factors such as:
+
+- Property type
+- Location
+- Area
+- Amenities
+- Property age
+- Demand and supply
+- Similar properties
+
+### What we learned
+
+Individual-property valuation already exists in the market.
+
+Therefore, ValueMap AI should not claim that AI property valuation itself is a completely new idea.
+
+### ValueMap AI opportunity
+
+Our focus can be on making the valuation more transparent and evidence-based by showing:
+
+- Which comparable properties were used
+- Location and nearby amenity evidence
+- Price breakdown
+- Data quality
+- Estimated value range
+- Reasons affecting the estimate
+- Buyer and seller reference price
+
+The goal is to help users understand not only the estimated value, but also the evidence behind that estimate.
+
+### Source
+
+Magicbricks PropWorth:
+https://www.magicbricks.com/home-worth-edit.html
