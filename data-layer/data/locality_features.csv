@@ -1,0 +1,7 @@
+locality,schools_count,hospitals_count,markets_count,food_places_count,highway_distance_km,railway_distance_km,pollution_level,source
+Rajpura,4,2,3,4,1.2,0.8,moderate,DEMO
+Banur,2,1,1,1,1.0,11.9,moderate,DEMO
+Ghanaur,1,1,1,1,8.0,6.9,low,DEMO
+Sarai Banjara,1,0,0,0,7.9,0.2,low,DEMO
+Shambhu,1,1,1,2,0.8,0.7,moderate,DEMO
+Patiala Road,2,2,1,2,4.6,2.9,high,DEMO

@@ -1,0 +1,51 @@
+name,type,latitude,longitude,distance_km,source
+"Govt Senior Secondary School, Rajpura",school,30.4811,76.5962,0.385,DEMO
+"Patel Public School, Rajpura",school,30.4881,76.5912,0.53,DEMO
+"Scholars Public School, Rajpura",school,30.4791,76.5902,0.675,DEMO
+"Mukat Public School, Rajpura",school,30.4901,76.5992,0.821,DEMO
+"AP Jain Civil Hospital, Rajpura",hospital,30.4821,76.5982,0.443,DEMO
+"Neelam Hospital, Rajpura",hospital,30.4891,76.5972,0.626,DEMO
+"Kasturba Main Market, Rajpura",market,30.4831,76.5932,0.147,DEMO
+"Old Grain Market (Anaj Mandi), Rajpura",market,30.4801,76.6002,0.727,DEMO
+"Focal Point Market, Rajpura",market,30.4911,76.5922,0.802,DEMO
+"Haveli Traditional Dhaba, Rajpura",food,30.4921,76.6002,1.059,DEMO
+"Amritsari Kulcha Junction, Rajpura",food,30.4821,76.5912,0.363,DEMO
+"Sindhi Sweet & Restaurant, Rajpura",food,30.4851,76.5962,0.222,DEMO
+"Verka Milk Bar & Fast Food, Rajpura",food,30.4801,76.5952,0.455,DEMO
+"NH-44 (GT Road) Junction, Rajpura",highway,30.4941,76.5992,1.211,DEMO
+"Rajpura Junction Railway Station, Rajpura",railway,30.4781,76.5892,0.821,DEMO
+"State Bank of India Main Branch, Rajpura",bank,30.4861,76.5922,0.294,DEMO
+"Reliance Trends Rajpura Mall, Rajpura",retail,30.4871,76.5982,0.508,DEMO
+"DAV Public School, Patiala Road",school,30.473,76.558,3.682,DEMO
+"Heritage Public School, Patiala Road",school,30.466,76.563,3.604,DEMO
+"Prime Hospital, Patiala Road",hospital,30.472,76.564,3.192,DEMO
+"Amar Hospital, Patiala Road",hospital,30.467,76.557,4.04,DEMO
+"Patiala Road Commercial Complex, Patiala Road",market,30.471,76.561,3.499,DEMO
+"Urban Tandoor, Patiala Road",food,30.474,76.562,3.284,DEMO
+"Chai Shai Cafe, Patiala Road",food,30.468,76.558,3.904,DEMO
+"Punjab & Sind Bank, Patiala Road",bank,30.471,76.557,3.851,DEMO
+"Patiala Road Walkers Park, Patiala Road",park,30.465,76.564,3.59,DEMO
+"Easyday Club Retail, Patiala Road",retail,30.472,76.559,3.632,DEMO
+"Govt High School, Banur",school,30.542,76.707,12.578,DEMO
+"Holy Mary International School, Banur",school,30.537,76.714,12.896,DEMO
+"Community Health Centre, Banur",hospital,30.541,76.712,12.937,DEMO
+"Town Centre Sabzi Mandi, Banur",market,30.538,76.709,12.525,DEMO
+"Royal Food Plaza, Banur",food,30.545,76.713,13.243,DEMO
+"NH-7 (Zirakpur-Patiala Highway), Banur",highway,30.548,76.706,12.852,DEMO
+"Punjab National Bank, Banur",bank,30.542,76.711,12.909,DEMO
+"Town Green Ecological Park, Banur",park,30.536,76.708,12.335,DEMO
+"Banur Mega Mart, Banur",retail,30.543,76.712,13.048,DEMO
+"Saraswati Vidya Mandir, Shambhu",school,30.442,76.688,10.136,DEMO
+"Rural Health Sub-Centre, Shambhu",hospital,30.437,76.693,10.822,DEMO
+"Highway Retail Mandi, Shambhu",market,30.444,76.692,10.38,DEMO
+"Highway King Dhaba, Shambhu",food,30.446,76.695,10.549,DEMO
+"Kalsi Punjabi Rasoi, Shambhu",food,30.438,76.687,10.266,DEMO
+"NH-44 Border Toll Plaza, Shambhu",highway,30.447,76.691,10.153,DEMO
+"Shambhu Halt Railway Station, Shambhu",railway,30.435,76.686,10.355,DEMO
+"Canara Bank Rural Branch, Shambhu",bank,30.441,76.689,10.273,DEMO
+"Govt Girls High School, Ghanaur",school,30.412,76.621,8.419,DEMO
+"Civil Dispensary, Ghanaur",hospital,30.408,76.622,8.872,DEMO
+"Local Bazaar, Ghanaur",market,30.411,76.618,8.442,DEMO
+"Bishan Dhaba & Bakers, Ghanaur",food,30.413,76.624,8.406,DEMO
+"Sarai Banjara Railway Station, Sarai Banjara",railway,30.453,76.529,7.142,DEMO
+"Govt Primary School, Sarai Banjara",school,30.458,76.532,6.63,DEMO
