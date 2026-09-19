@@ -1,19 +1,13 @@
 import pandas as pd
 import json
 
-# Read location features
 features = pd.read_csv("output/location_features.csv")
-
-# Read location scores
 scores = pd.read_csv("output/location_score.csv")
-
-# Read data quality
 quality = pd.read_csv("output/location_quality.csv")
 
 result = []
 
 for _, row in features.iterrows():
-
     property_id = row["property_id"]
 
     score_row = scores[
@@ -43,11 +37,8 @@ for _, row in features.iterrows():
 
     result.append(property_data)
 
-
 with open("output/location_api.json", "w") as file:
     json.dump(result, file, indent=4)
 
-
 print("Location API data created!")
-
 print(json.dumps(result, indent=4))
