@@ -1,10 +1,4 @@
 name,type,latitude,longitude,source
-Demo School,school,30.124,76.463,DEMO
-Demo Hospital,hospital,30.116,76.468,DEMO
-Demo Market,market,30.121,76.454,DEMO
-Demo Bank,bank,30.127,76.459,DEMO
-Demo Park,park,30.115,76.455,DEMO
-Demo Main Road,main_road,30.123,76.47,DEMO
 Devgarh Road,highway,30.0749193,76.5451391,OpenStreetMap
 Devgarh Road,highway,30.0895629,76.5384716,OpenStreetMap
 Devgarh Road,highway,30.0709973,76.5495293,OpenStreetMap

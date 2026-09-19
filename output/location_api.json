@@ -2,25 +2,25 @@
     {
         "property_id": "P001",
         "location": {
-            "source": "DEMO",
-            "school_km": null,
-            "hospital_km": null,
-            "market_km": null,
-            "highway_km": null,
+            "source": "DEMO + OpenStreetMap",
+            "school_km": 0.53,
+            "hospital_km": 0.889,
+            "market_km": 0.588,
+            "highway_km": 1.155,
             "railway_km": null,
-            "bank_km": null,
-            "park_km": null,
+            "bank_km": 0.784,
+            "park_km": 0.735,
             "food_km": null,
             "retail_km": null,
-            "main_road_km": 1.0180023273542882
+            "main_road_km": 1.018
         },
         "location_signals": {
-            "education_accessibility": null,
-            "education_evidence": "No verified data available",
-            "healthcare_accessibility": null,
-            "healthcare_evidence": "No verified data available",
-            "market_accessibility": null,
-            "market_evidence": "No verified data available",
+            "education_accessibility": 4.0,
+            "education_evidence": "1 school(s) within 3 km",
+            "healthcare_accessibility": 4.0,
+            "healthcare_evidence": "1 hospital(s) within 3 km",
+            "market_accessibility": 4.0,
+            "market_evidence": "1 market(s) within 3 km",
             "transport_connectivity": 3,
             "transport_evidence": "Verified transport data available",
             "food_retail_availability": null,
@@ -29,29 +29,29 @@
             "pollution_evidence": "No verified pollution data available"
         },
         "locality_snapshot": {
-            "education": null,
-            "healthcare": null,
-            "markets": null,
+            "education": "\u25cf\u25cf\u25cf\u25cf\u25cb",
+            "healthcare": "\u25cf\u25cf\u25cf\u25cf\u25cb",
+            "markets": "\u25cf\u25cf\u25cf\u25cf\u25cb",
             "connectivity": "\u25cf\u25cf\u25cf\u25cb\u25cb",
             "food_retail": null,
             "pollution": null
         },
-        "data_quality": "DEMO"
+        "data_quality": "MIXED"
     },
     {
         "property_id": "P002",
         "location": {
-            "source": "DEMO",
+            "source": "DEMO + OpenStreetMap",
             "school_km": null,
             "hospital_km": null,
             "market_km": null,
-            "highway_km": null,
-            "railway_km": null,
+            "highway_km": 0.334,
+            "railway_km": 0.868,
             "bank_km": null,
             "park_km": null,
-            "food_km": null,
-            "retail_km": null,
-            "main_road_km": 363.3914246658208
+            "food_km": 0.142,
+            "retail_km": 0.177,
+            "main_road_km": null
         },
         "location_signals": {
             "education_accessibility": null,
@@ -60,10 +60,10 @@
             "healthcare_evidence": "No verified data available",
             "market_accessibility": null,
             "market_evidence": "No verified data available",
-            "transport_connectivity": 1,
+            "transport_connectivity": 5,
             "transport_evidence": "Verified transport data available",
-            "food_retail_availability": null,
-            "food_retail_evidence": "No verified food/retail data available",
+            "food_retail_availability": 5.0,
+            "food_retail_evidence": "Verified food/retail data available",
             "pollution": null,
             "pollution_evidence": "No verified pollution data available"
         },
@@ -71,26 +71,26 @@
             "education": null,
             "healthcare": null,
             "markets": null,
-            "connectivity": "\u25cf\u25cb\u25cb\u25cb\u25cb",
-            "food_retail": null,
+            "connectivity": "\u25cf\u25cf\u25cf\u25cf\u25cf",
+            "food_retail": "\u25cf\u25cf\u25cf\u25cf\u25cf",
             "pollution": null
         },
-        "data_quality": "DEMO"
+        "data_quality": "MIXED"
     },
     {
         "property_id": "P003",
         "location": {
-            "source": "DEMO",
+            "source": "DEMO + OpenStreetMap",
             "school_km": null,
             "hospital_km": null,
             "market_km": null,
-            "highway_km": null,
-            "railway_km": null,
+            "highway_km": 0.062,
+            "railway_km": 7.991,
             "bank_km": null,
             "park_km": null,
-            "food_km": null,
-            "retail_km": null,
-            "main_road_km": 1158.7239558532278
+            "food_km": 0.475,
+            "retail_km": 0.566,
+            "main_road_km": null
         },
         "location_signals": {
             "education_accessibility": null,
@@ -99,10 +99,10 @@
             "healthcare_evidence": "No verified data available",
             "market_accessibility": null,
             "market_evidence": "No verified data available",
-            "transport_connectivity": 1,
+            "transport_connectivity": 5,
             "transport_evidence": "Verified transport data available",
-            "food_retail_availability": null,
-            "food_retail_evidence": "No verified food/retail data available",
+            "food_retail_availability": 5.0,
+            "food_retail_evidence": "Verified food/retail data available",
             "pollution": null,
             "pollution_evidence": "No verified pollution data available"
         },
@@ -110,10 +110,10 @@
             "education": null,
             "healthcare": null,
             "markets": null,
-            "connectivity": "\u25cf\u25cb\u25cb\u25cb\u25cb",
-            "food_retail": null,
+            "connectivity": "\u25cf\u25cf\u25cf\u25cf\u25cf",
+            "food_retail": "\u25cf\u25cf\u25cf\u25cf\u25cf",
             "pollution": null
         },
-        "data_quality": "DEMO"
+        "data_quality": "MIXED"
     }
 ]

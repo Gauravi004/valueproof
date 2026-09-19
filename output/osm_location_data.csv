@@ -1,0 +1,3133 @@
+property_id,name,type,latitude,longitude,source
+P001,Devgarh Road,highway,30.0749193,76.5451391,OpenStreetMap
+P001,Devgarh Road,highway,30.0895629,76.5384716,OpenStreetMap
+P001,Devgarh Road,highway,30.0709973,76.5495293,OpenStreetMap
+P001,Devgarh Road,highway,30.1887314,76.5196682,OpenStreetMap
+P001,Devgarh Road,highway,30.1042377,76.5322206,OpenStreetMap
+P001,Devgarh Road,highway,30.1598921,76.5226752,OpenStreetMap
+P001,Unnamed,highway,30.0600552,76.4055735,OpenStreetMap
+P001,Unnamed,highway,30.0520179,76.4670919,OpenStreetMap
+P001,Unnamed,highway,30.0600327,76.3941291,OpenStreetMap
+P001,Unnamed,highway,30.0573974,76.4610646,OpenStreetMap
+P001,Unnamed,highway,30.060586,76.4169174,OpenStreetMap
+P001,Unnamed,highway,30.0467165,76.4731345,OpenStreetMap
+P001,Unnamed,highway,30.0610446,76.4389878,OpenStreetMap
+P001,Unnamed,highway,30.0386059,76.4936705,OpenStreetMap
+P001,Pewoha Road,highway,30.0544347,76.3640022,OpenStreetMap
+P001,Unnamed,highway,30.1152901,76.4996755,OpenStreetMap
+P001,Unnamed,highway,30.136604,76.4623587,OpenStreetMap
+P001,Unnamed,highway,30.1699332,76.4537625,OpenStreetMap
+P001,Unnamed,highway,30.1917637,76.4556954,OpenStreetMap
+P001,Devgarh Road,highway,30.2083101,76.4753976,OpenStreetMap
+P001,Devgarh Road,highway,30.20133,76.492928,OpenStreetMap
+P001,Unnamed,highway,30.1486978,76.4540286,OpenStreetMap
+P001,Unnamed,highway,30.1593066,76.454425,OpenStreetMap
+P001,Unnamed,highway,30.1218613,76.4729265,OpenStreetMap
+P001,Unnamed,highway,30.1247301,76.4706934,OpenStreetMap
+P001,Devgarh Road,highway,30.1312959,76.5246811,OpenStreetMap
+P001,Devgarh Road,highway,30.1180784,76.5282342,OpenStreetMap
+P001,Devgarh Road,highway,30.191755,76.5146248,OpenStreetMap
+P001,Devgarh Road,highway,30.194414,76.5103847,OpenStreetMap
+P001,Devgarh Road,highway,30.2104783,76.4698446,OpenStreetMap
+P002,Getor Jagatpura,railway,26.837001,75.8320226,OpenStreetMap
+P002,Dahar-Ka-Balaji,railway,26.9445145,75.766114,OpenStreetMap
+P002,Natraj vegetarian Restaurant,food,26.9161855,75.8109776,OpenStreetMap
+P002,Anokhi Cafe,food,26.9106803,75.7985655,OpenStreetMap
+P002,Ambabadi Metro (u/c),railway,26.9397287,75.7777965,OpenStreetMap
+P002,Relaince Fresh,retail,26.9459398,75.7977858,OpenStreetMap
+P002,Book Wise,retail,26.9154598,75.8091107,OpenStreetMap
+P002,Unnamed,food,26.9152206,75.8099046,OpenStreetMap
+P002,Unnamed,retail,26.9168756,75.812973,OpenStreetMap
+P002,Unnamed,retail,26.916933,75.8130589,OpenStreetMap
+P002,metropolitian mall,retail,26.9026707,75.7936885,OpenStreetMap
+P002,Gandhi Nagar Jaipur,railway,26.8728017,75.7992199,OpenStreetMap
+P002,Bais Godam,railway,26.9017919,75.7895065,OpenStreetMap
+P002,Kanakpura,railway,26.9291996,75.703282,OpenStreetMap
+P002,Durgapura,railway,26.855093,75.7870163,OpenStreetMap
+P002,Gaurav Tower I,retail,26.8556371,75.8065846,OpenStreetMap
+P002,Gaurav Tower II,retail,26.855521,75.8072377,OpenStreetMap
+P002,Ganesh Restaurant,food,26.9168711,75.8201955,OpenStreetMap
+P002,Jaipur Junction,railway,26.9207888,75.7866539,OpenStreetMap
+P002,Cotton Curio,retail,26.9129392,75.7901959,OpenStreetMap
+P002,Spice Court,food,26.9108905,75.7889678,OpenStreetMap
+P002,Rukhmani,retail,26.9111225,75.7887318,OpenStreetMap
+P002,Cottons,retail,26.9112283,75.788814,OpenStreetMap
+P002,Suvasa,retail,26.9113566,75.7876528,OpenStreetMap
+P002,Laxmi Mishthan Bhandar,food,26.9196343,75.8254983,OpenStreetMap
+P002,Old Green Tandori Dhaba,food,26.9173942,75.8046009,OpenStreetMap
+P002,वर्ल्ड ट्रेड पार्क,retail,26.8534541,75.8049509,OpenStreetMap
+P002,Hotel Raj Style Inn,food,26.8499173,75.7686683,OpenStreetMap
+P002,Neelam Dhaba,food,26.8481625,75.770165,OpenStreetMap
+P002,Mahadev Dhaba,food,26.847881,75.7702746,OpenStreetMap
+P002,Saras Parlour,food,26.8624615,75.8063864,OpenStreetMap
+P002,United Colors of Benetton,retail,26.8918043,75.8063897,OpenStreetMap
+P002,Big Bazar,retail,26.8645463,75.7958423,OpenStreetMap
+P002,Chitra Café,food,26.9206156,75.8041948,OpenStreetMap
+P002,Vishal,retail,26.917067,75.8004209,OpenStreetMap
+P002,Crystal Court,retail,26.8561781,75.8069328,OpenStreetMap
+P002,Kanha,food,26.8544337,75.8082444,OpenStreetMap
+P002,Toyota,retail,26.9182098,75.7999559,OpenStreetMap
+P002,Levi's,retail,26.9167734,75.8065005,OpenStreetMap
+P002,Nibs,food,26.915555,75.7949393,OpenStreetMap
+P002,Pizza Hut,food,26.9194775,75.7996659,OpenStreetMap
+P002,Unnamed,retail,26.9201268,75.7986396,OpenStreetMap
+P002,McDonald's,food,26.9159839,75.8098987,OpenStreetMap
+P002,Vitthal's Kitchen,food,26.8808849,75.7980181,OpenStreetMap
+P002,M&M FASHION,retail,26.8273094,75.7930653,OpenStreetMap
+P002,Chandni Crafts,retail,26.9269138,75.7946963,OpenStreetMap
+P002,Sanjay Medical Store,retail,26.9161685,75.8107981,OpenStreetMap
+P002,Shimla Hair Art And Spa,retail,26.9161528,75.8105168,OpenStreetMap
+P002,Krishna Gems And Jewellery,retail,26.9161697,75.8105934,OpenStreetMap
+P002,Jaipur Medicals,retail,26.9293417,75.7972483,OpenStreetMap
+P002,Doodh Misthan Bhandar,food,26.9313342,75.800266,OpenStreetMap
+P002,Shree Ganesh Namkeen Bhandar,food,26.9311763,75.8004455,OpenStreetMap
+P002,Unnamed,retail,26.9312628,75.8008247,OpenStreetMap
+P002,Yo China,food,26.9164285,75.8094487,OpenStreetMap
+P002,Rasav Jewels,retail,26.9164387,75.8069991,OpenStreetMap
+P002,Ram Babu's Silver Mountain,retail,26.9164505,75.806845,OpenStreetMap
+P002,Bata,retail,26.9164883,75.8092421,OpenStreetMap
+P002,Jewels Emporium,retail,26.9165665,75.8087345,OpenStreetMap
+P002,Shri Jewellery,retail,26.9162671,75.8085424,OpenStreetMap
+P002,Tanishq,retail,26.9166321,75.8080866,OpenStreetMap
+P002,Amrapali Jewels,retail,26.9164215,75.8101087,OpenStreetMap
+P002,Shoppers' Paradise,retail,26.9068342,75.7955088,OpenStreetMap
+P002,Corner 10,food,26.9170881,75.743631,OpenStreetMap
+P002,Kanyi Restaurant,food,26.9216983,75.7968445,OpenStreetMap
+P002,Cafe Coffee Day,food,26.9060748,75.7970467,OpenStreetMap
+P002,Unnamed,retail,26.9227938,75.7993799,OpenStreetMap
+P002,Sun n Moon,retail,26.9698926,75.7731906,OpenStreetMap
+P002,Vishal Mega Mart,retail,26.969883,75.7732925,OpenStreetMap
+P002,Aditya's,retail,26.9240775,75.8179852,OpenStreetMap
+P002,Jaipur Textile Market,retail,26.837253,75.8335656,OpenStreetMap
+P002,"Cheel Gadi, Sanganer",food,26.8219982,75.8109285,OpenStreetMap
+P002,JTM,retail,26.8376142,75.833536,OpenStreetMap
+P002,Mohan Restaurant,food,26.9198945,75.7987261,OpenStreetMap
+P002,Palika Bazaar,retail,26.8907248,75.7728969,OpenStreetMap
+P002,Big Bazaar,retail,26.8906866,75.7724248,OpenStreetMap
+P002,Shades Beauty Parlor,retail,26.891165,75.7727359,OpenStreetMap
+P002,Balaji enterprises,retail,26.9515978,75.7019402,OpenStreetMap
+P002,Unnamed,retail,26.9167996,75.8215636,OpenStreetMap
+P002,Unnamed,retail,26.9078018,75.7493368,OpenStreetMap
+P002,Unnamed,retail,26.8487041,75.8090081,OpenStreetMap
+P002,Unnamed,food,26.9170942,75.8200153,OpenStreetMap
+P002,Kailash Restaurant,food,26.9270367,75.8281377,OpenStreetMap
+P002,bella italia,food,26.9209213,75.8039303,OpenStreetMap
+P002,vaishali stationary,retail,26.928155,75.7975336,OpenStreetMap
+P002,Unnamed,food,26.8930025,75.8320808,OpenStreetMap
+P002,Jaighar,food,26.983062,75.8444611,OpenStreetMap
+P002,"Rainbow Cafe, Jaipur",food,26.9483121,75.8404444,OpenStreetMap
+P002,Unnamed,food,26.921112,75.796593,OpenStreetMap
+P002,Peacock rooftop restaurant,food,26.9163329,75.7956078,OpenStreetMap
+P002,Jal Mahal Ice Cream Parlour,retail,26.9162117,75.811188,OpenStreetMap
+P002,Rathore plaza,retail,26.937456,75.752033,OpenStreetMap
+P002,Unnamed,food,26.8978763,75.8147386,OpenStreetMap
+P002,Unnamed,food,26.9196661,75.7913021,OpenStreetMap
+P002,Shree Jagannath gajak bhandar,retail,26.919787,75.826617,OpenStreetMap
+P002,Western Motorsports,retail,26.8982636,75.7610938,OpenStreetMap
+P002,Panache Tours,retail,26.9136138,75.7433561,OpenStreetMap
+P002,Unnamed,food,26.9157551,75.8101207,OpenStreetMap
+P002,India Coffe House,food,26.9171606,75.8145919,OpenStreetMap
+P002,coffey Day,food,26.9164507,75.7991333,OpenStreetMap
+P002,Unnamed,food,26.89131,75.7590683,OpenStreetMap
+P002,Unnamed,retail,26.9194086,75.8213213,OpenStreetMap
+P002,Unnamed,retail,26.9173464,75.8187803,OpenStreetMap
+P002,Unnamed,food,26.917149,75.8145028,OpenStreetMap
+P002,Unnamed,food,26.9122319,75.8037901,OpenStreetMap
+P002,Unnamed,retail,26.9192989,75.8171771,OpenStreetMap
+P002,V2 FINE DINING,food,26.9078828,75.8126688,OpenStreetMap
+P002,Unnamed,food,26.916173,75.8106707,OpenStreetMap
+P002,Cheap food places,food,26.9120381,75.7920659,OpenStreetMap
+P002,Liquor store,retail,26.9082703,75.7995749,OpenStreetMap
+P002,Dhaba,food,26.9063152,75.7966924,OpenStreetMap
+P002,Unnamed,food,26.9200803,75.795336,OpenStreetMap
+P002,Hotel Marc Inn,food,26.9110124,75.7421695,OpenStreetMap
+P002,CYU Cloth Yourself Urban,retail,26.9298363,75.7901259,OpenStreetMap
+P002,Unnamed,food,26.9198326,75.824478,OpenStreetMap
+P002,Unnamed,retail,26.9195222,75.8255987,OpenStreetMap
+P002,Green Restaurant Pure Vegetarian,food,26.9170712,75.8047235,OpenStreetMap
+P002,Unnamed,food,26.9247396,75.7895873,OpenStreetMap
+P002,"Samode Haveli , Jaipur",food,26.9331035,75.8372573,OpenStreetMap
+P002,Unnamed,food,26.9130736,75.7853986,OpenStreetMap
+P002,Unnamed,food,26.8978423,75.8079481,OpenStreetMap
+P002,Copper Chimney,food,26.9169731,75.80407,OpenStreetMap
+P002,"Tapri Central , JAIPUR",food,26.9056742,75.8111596,OpenStreetMap
+P002,Parampara,food,26.9408543,75.8384138,OpenStreetMap
+P002,Unnamed,retail,26.8528829,75.807512,OpenStreetMap
+P002,Unnamed,retail,26.9163632,75.8105086,OpenStreetMap
+P002,Unnamed,food,26.942206,75.8374738,OpenStreetMap
+P002,Midtown Multicuisine Restaurant,food,26.9237826,75.820574,OpenStreetMap
+P002,Unnamed,food,26.9050829,75.7946411,OpenStreetMap
+P002,Unnamed,food,26.8945386,75.7683878,OpenStreetMap
+P002,Unnamed,food,26.9060714,75.795372,OpenStreetMap
+P002,Unnamed,retail,26.9192779,75.7994243,OpenStreetMap
+P002,saraf carpet and textiles (LLP),retail,26.9380385,75.8354625,OpenStreetMap
+P002,Unnamed,retail,26.9387415,75.8403941,OpenStreetMap
+P002,Lazy Mozo Backpackers,food,26.9069676,75.789381,OpenStreetMap
+P002,Unnamed,food,26.9212149,75.7969429,OpenStreetMap
+P002,Unnamed,retail,26.9310309,75.8316446,OpenStreetMap
+P002,Unnamed,retail,26.9384407,75.835113,OpenStreetMap
+P002,"RESTAURANT , JAIPUR",food,26.9498381,75.8421508,OpenStreetMap
+P002,Unnamed,retail,26.921038,75.797693,OpenStreetMap
+P002,Bapu Bazaar,retail,26.9167713,75.821309,OpenStreetMap
+P002,Unnamed,food,26.8951343,75.8290109,OpenStreetMap
+P002,Gulab Ji Chai,food,26.9194326,75.7997638,OpenStreetMap
+P002,The Tattoo Cafe,food,26.923806,75.827314,OpenStreetMap
+P002,Hawk View Roof Top Restaurant,food,26.9304622,75.8283513,OpenStreetMap
+P002,Shama Bhojnyala,food,26.9244566,75.78773,OpenStreetMap
+P002,"Maggie rooftop restaurant , Jaipur",food,26.9241359,75.7897529,OpenStreetMap
+P002,Street food and chai corner,food,26.925004,75.8159025,OpenStreetMap
+P002,Wind view cafe,food,26.9237491,75.8272853,OpenStreetMap
+P002,Unnamed,food,26.9214607,75.790038,OpenStreetMap
+P002,Ratnavali,retail,26.9459906,75.8412685,OpenStreetMap
+P002,Sindhi Camp,railway,26.9224737,75.799635,OpenStreetMap
+P002,Railway Station,railway,26.9181132,75.790129,OpenStreetMap
+P002,Unnamed,food,26.9169628,75.8053859,OpenStreetMap
+P002,CIP Lounge Airport Jaipur,food,26.8279302,75.8062494,OpenStreetMap
+P002,Airr Toast,food,26.8277778,75.8061437,OpenStreetMap
+P002,Curious Life Coffee Roasters,food,26.9042168,75.7969605,OpenStreetMap
+P002,Unnamed,retail,26.9176731,75.8564865,OpenStreetMap
+P002,Unnamed,food,26.9023809,75.8015211,OpenStreetMap
+P002,Cafe Coffee Day,food,26.9112425,75.8197191,OpenStreetMap
+P002,Monkey Temple Ticket Office,retail,26.9167554,75.8602457,OpenStreetMap
+P002,Sisodia Rani Garden and Palace Ticket Office,retail,26.8992474,75.8585967,OpenStreetMap
+P002,"Rajasthali, Government handicraft emporium",retail,26.9167411,75.8160472,OpenStreetMap
+P002,Unnamed,retail,26.9460971,75.8382593,OpenStreetMap
+P002,Unnamed,food,26.9342829,75.8253191,OpenStreetMap
+P002,Unnamed,food,26.930591,75.8278325,OpenStreetMap
+P002,"Kapda Ghar , Jaipur",retail,26.9461759,75.8415746,OpenStreetMap
+P002,Royal Sheritan Rooftop Bar,food,26.9304449,75.8284459,OpenStreetMap
+P002,"Restaurant , Jaipur",food,26.94956,75.837543,OpenStreetMap
+P002,Unnamed,retail,26.9285973,75.7892338,OpenStreetMap
+P002,Unnamed,retail,26.9207081,75.7909211,OpenStreetMap
+P002,Umaid Bhawan,food,26.9284344,75.7923832,OpenStreetMap
+P002,Unnamed,food,26.9334401,75.8347763,OpenStreetMap
+P002,Unnamed,food,26.9247436,75.7906405,OpenStreetMap
+P002,Unnamed,food,26.9157256,75.7963116,OpenStreetMap
+P002,Jaipur modern,food,26.9140104,75.7987636,OpenStreetMap
+P002,Unnamed,food,26.9396438,75.8369237,OpenStreetMap
+P002,Green pigeon,food,26.9397188,75.8369813,OpenStreetMap
+P002,Unnamed,food,26.9397212,75.8370234,OpenStreetMap
+P002,Unnamed,retail,26.9471615,75.8387638,OpenStreetMap
+P002,Unnamed,retail,26.9344837,75.7942966,OpenStreetMap
+P002,Unnamed,retail,26.9063205,75.8009137,OpenStreetMap
+P002,jtm mall jagatpura,retail,26.8374374,75.8335685,OpenStreetMap
+P002,Lassiwara,food,26.9164866,75.8111981,OpenStreetMap
+P002,CHANMAN,food,26.8615784,75.7956052,OpenStreetMap
+P002,Unnamed,food,26.9288163,75.82832,OpenStreetMap
+P002,Unnamed,food,26.9162394,75.8112696,OpenStreetMap
+P002,Unnamed,retail,26.916053,75.81002,OpenStreetMap
+P002,Unnamed,retail,26.9275122,75.8279291,OpenStreetMap
+P002,Unnamed,retail,26.9274651,75.828248,OpenStreetMap
+P002,Kalyan Rooftop Restaurant,food,26.9162022,75.7958659,OpenStreetMap
+P002,Unnamed,food,26.9455632,75.840143,OpenStreetMap
+P002,Unnamed,food,26.9237416,75.8268257,OpenStreetMap
+P002,Unnamed,food,26.9263484,75.8276354,OpenStreetMap
+P002,Unnamed,retail,26.9248726,75.8147176,OpenStreetMap
+P002,Unnamed,retail,26.9221372,75.7864927,OpenStreetMap
+P002,dasaprakash,food,26.9163003,75.8080015,OpenStreetMap
+P002,Shri Krishna Restaurant,food,26.9242783,75.7883111,OpenStreetMap
+P002,Atithiya,food,26.9253797,75.7909073,OpenStreetMap
+P002,Unnamed,retail,26.8912386,75.8058237,OpenStreetMap
+P002,Reme Lifestyle,retail,26.9005433,75.796941,OpenStreetMap
+P002,Unnamed,retail,26.9163888,75.8071226,OpenStreetMap
+P002,Puma,retail,26.9161838,75.8110601,OpenStreetMap
+P002,Unnamed,retail,26.9457765,75.8364112,OpenStreetMap
+P002,Unnamed,retail,26.9458742,75.838521,OpenStreetMap
+P002,Sahu Ki Chai,food,26.9183926,75.8213095,OpenStreetMap
+P002,Nibs Restaurant Cafe,food,26.9024904,75.7943953,OpenStreetMap
+P002,Tasty King,food,26.9214409,75.8192213,OpenStreetMap
+P002,Civil Lines,railway,26.9096783,75.7812494,OpenStreetMap
+P002,Amarnath Café,food,26.8549744,75.8054398,OpenStreetMap
+P002,Unnamed,food,26.9398195,75.8165576,OpenStreetMap
+P002,Unnamed,food,26.9174489,75.8185448,OpenStreetMap
+P002,Unnamed,retail,26.9006494,75.7966037,OpenStreetMap
+P002,Brown Bites bakes and cafe,food,26.9053917,75.7943144,OpenStreetMap
+P002,McDonald's,food,26.8949234,75.7484689,OpenStreetMap
+P002,Royal Bakery JTM mall,retail,26.8367694,75.8341023,OpenStreetMap
+P002,Venus Bakery,retail,26.902208,75.7537728,OpenStreetMap
+P002,Bajaj & Ktm bikes,retail,26.8988742,75.7581949,OpenStreetMap
+P002,Kanha Restaurant,food,26.9034635,75.7531462,OpenStreetMap
+P002,Indian Sweets shop,retail,26.905766,75.7391259,OpenStreetMap
+P002,KFC,food,26.9112339,75.7434521,OpenStreetMap
+P002,Pizza Hut,food,26.9112988,75.7433748,OpenStreetMap
+P002,Tanishq,retail,26.9111407,75.7392242,OpenStreetMap
+P002,Jodhpur Sweets,retail,26.9123293,75.7381331,OpenStreetMap
+P002,Big Bazaar,retail,26.9153299,75.7437592,OpenStreetMap
+P002,Domino's,food,26.9124759,75.7435624,OpenStreetMap
+P002,The Crust,retail,26.9112249,75.7440669,OpenStreetMap
+P002,Royal Bakery,retail,26.9104383,75.7440869,OpenStreetMap
+P002,Reliance Fresh,retail,26.9100083,75.743752,OpenStreetMap
+P002,Chinkara Canteen,retail,26.9170247,75.7657726,OpenStreetMap
+P002,Advance Honda,retail,26.9054487,75.7407765,OpenStreetMap
+P002,Unnamed,food,26.9165311,75.8095597,OpenStreetMap
+P002,Surabhi,food,26.932025,75.8313405,OpenStreetMap
+P002,Unnamed,food,26.9297256,75.8025622,OpenStreetMap
+P002,Aanandam,food,26.9388107,75.8379353,OpenStreetMap
+P002,Grab A Coffee,food,26.8631143,75.7916013,OpenStreetMap
+P002,Tan-Sukh,food,26.8645183,75.7966356,OpenStreetMap
+P002,Vipul Motors (Maruti Suzuki Arena),retail,26.8983634,75.7653087,OpenStreetMap
+P002,Chanakya,food,26.8931734,75.7393253,OpenStreetMap
+P002,Sankalp,food,26.8968558,75.7519657,OpenStreetMap
+P002,Renault,retail,26.9303474,75.7875106,OpenStreetMap
+P002,Unnamed,food,26.929569,75.7886838,OpenStreetMap
+P002,Virasat Heritage Restaurant,food,26.899449,75.7929487,OpenStreetMap
+P002,McDonald's,food,26.9032872,75.7929498,OpenStreetMap
+P002,Pizza Hut Delivery,food,26.9033421,75.7923228,OpenStreetMap
+P002,Unnamed,retail,26.9182605,75.8440069,OpenStreetMap
+P002,Reliance Footprint,retail,26.9112212,75.752773,OpenStreetMap
+P002,Unnamed,retail,26.916398,75.8046447,OpenStreetMap
+P002,Godrej interio,retail,26.9149505,75.7529894,OpenStreetMap
+P002,Jharkand electronics,retail,26.9212043,75.7544029,OpenStreetMap
+P002,Goodyear dealer,retail,26.9069649,75.7526626,OpenStreetMap
+P002,Jodhpur sweets,retail,26.8350018,75.8348815,OpenStreetMap
+P002,Masala Chowk,food,26.9102996,75.8205896,OpenStreetMap
+P002,Chai Chaskaa,food,26.9011834,75.7342422,OpenStreetMap
+P002,Kullad - The Teafe',food,26.9011858,75.7363862,OpenStreetMap
+P002,Vinayak Stationery,retail,26.90165,75.7359278,OpenStreetMap
+P002,Shree Radhe,food,26.9016025,75.7358029,OpenStreetMap
+P002,Tempties,food,26.9004765,75.7364033,OpenStreetMap
+P002,Cafe 48,food,26.9002805,75.7363985,OpenStreetMap
+P002,North West Corner,food,26.9017683,75.7368578,OpenStreetMap
+P002,Agrawal Traders,retail,26.9024354,75.7742514,OpenStreetMap
+P002,Sadi Center,retail,26.902434,75.7741944,OpenStreetMap
+P002,NEXA KP Automotive,retail,26.9180508,75.7530272,OpenStreetMap
+P002,Renault Jaipur West,retail,26.9178997,75.7529805,OpenStreetMap
+P002,The Royal Ship,food,26.9209197,75.7533318,OpenStreetMap
+P002,Unnamed,retail,26.9111729,75.7442089,OpenStreetMap
+P002,Dhaliwal & Company,retail,26.922,75.749731,OpenStreetMap
+P002,Reliance Fresh,retail,26.9238925,75.7455491,OpenStreetMap
+P002,Easy day,retail,26.8969771,75.7390024,OpenStreetMap
+P002,Dell Store,retail,26.8971316,75.7390472,OpenStreetMap
+P002,Kebabs & Curries Company,food,26.8987716,75.7387686,OpenStreetMap
+P002,Kesar Kanha,food,26.8991232,75.7385392,OpenStreetMap
+P002,Unnamed,retail,26.8973569,75.7392878,OpenStreetMap
+P002,Barasana Cycle,retail,26.9052096,75.7392125,OpenStreetMap
+P002,Unnamed,retail,26.9049951,75.7390857,OpenStreetMap
+P002,Jaipur Farms,retail,26.9037079,75.7391351,OpenStreetMap
+P002,map Acres,food,26.9289947,75.8252613,OpenStreetMap
+P002,Bata,retail,26.9152859,75.7433084,OpenStreetMap
+P002,Candra Furniture,retail,26.9152619,75.7432944,OpenStreetMap
+P002,Mandakini Sarees,retail,26.9151526,75.7432113,OpenStreetMap
+P002,CREO kitchens,retail,26.9050646,75.7446028,OpenStreetMap
+P002,The Drapery Store,retail,26.9057939,75.7427025,OpenStreetMap
+P002,SIS security,retail,26.9056854,75.7426779,OpenStreetMap
+P002,KK Sports,retail,26.9111559,75.7398086,OpenStreetMap
+P002,Reliance Digital,retail,26.9059064,75.7516754,OpenStreetMap
+P002,Unnamed,retail,26.9302774,75.8268726,OpenStreetMap
+P002,Unnamed,food,26.8978764,75.8150251,OpenStreetMap
+P002,Samrat street food,food,26.921071,75.822143,OpenStreetMap
+P002,Samsung Service Center,retail,26.8850398,75.7673284,OpenStreetMap
+P002,"Ashirwad Study Point , JAIPUR",retail,26.9451488,75.8443796,OpenStreetMap
+P002,Molly Moo,food,26.9113009,75.8017201,OpenStreetMap
+P002,Unnamed,retail,26.9210805,75.7941698,OpenStreetMap
+P002,Charis cafe,food,26.9132795,75.7940823,OpenStreetMap
+P002,Shweta Kothari,retail,26.8974155,75.7901477,OpenStreetMap
+P002,Mayori Conscious Clothing Store,retail,26.9115677,75.7876801,OpenStreetMap
+P002,Local market,retail,26.9236218,75.8158119,OpenStreetMap
+P002,Unnamed,food,26.9053514,75.7949791,OpenStreetMap
+P002,"Blue door Cafe  , Jaipur",food,26.9266184,75.8269278,OpenStreetMap
+P002,Bhandari Jewellers,retail,26.9390673,75.8382958,OpenStreetMap
+P002,Unnamed,retail,26.9116565,75.7868488,OpenStreetMap
+P002,Unnamed,retail,26.9186957,75.8144736,OpenStreetMap
+P002,burger singh,food,26.9165819,75.8096329,OpenStreetMap
+P002,Unnamed,retail,26.9266566,75.8247702,OpenStreetMap
+P002,JSS Makeovers & Makeup Academy,retail,26.8543705,75.7833188,OpenStreetMap
+P002,The Hungry Owl,food,26.8487827,75.7691477,OpenStreetMap
+P002,Ashoka Jewellers,retail,26.9207377,75.8263842,OpenStreetMap
+P002,Sri Motu Ram Prasadam,food,26.8436065,75.8024609,OpenStreetMap
+P002,The Block Story,retail,26.9020449,75.7941709,OpenStreetMap
+P002,Chandpole,railway,26.9266005,75.807892,OpenStreetMap
+P002,Choti Chaupar,railway,26.9247317,75.8184589,OpenStreetMap
+P002,Badi Chaupar,railway,26.9229585,75.8268223,OpenStreetMap
+P002,DMart,retail,26.9413387,75.7706274,OpenStreetMap
+P002,Chinkara Gas Agency,retail,26.9206058,75.7654465,OpenStreetMap
+P002,Flora International,retail,26.8594306,75.8092909,OpenStreetMap
+P002,IIFL Goal Loan,retail,26.8594585,75.8092138,OpenStreetMap
+P002,Muthoot Finance Ltd.,retail,26.8594089,75.8093683,OpenStreetMap
+P002,D.K.Jewellers,retail,26.8594201,75.8093368,OpenStreetMap
+P002,Cafe Coffee Day,food,26.8593503,75.8083773,OpenStreetMap
+P002,Lakme Salon,retail,26.859291,75.8083662,OpenStreetMap
+P002,Style N Scissors,retail,26.8592029,75.8086432,OpenStreetMap
+P002,Unnamed,food,26.9142475,75.7379941,OpenStreetMap
+P002,South Indian Dosa Corner,food,26.9143066,75.7379933,OpenStreetMap
+P002,Unnamed,food,26.9143082,75.7380258,OpenStreetMap
+P002,Unnamed,retail,26.9141369,75.7380043,OpenStreetMap
+P002,National Handloom - Vaishali Nagar,retail,26.9141322,75.7379587,OpenStreetMap
+P002,Liverpool,retail,26.9148152,75.738215,OpenStreetMap
+P002,Shyam Sweets,retail,26.9148058,75.7380264,OpenStreetMap
+P002,Jagdamba Jewellers,retail,26.9148163,75.7379271,OpenStreetMap
+P002,Lal kothi Shopping centre,retail,26.8811277,75.7987952,OpenStreetMap
+P002,Shreeram Flowers,retail,26.9024196,75.7864895,OpenStreetMap
+P002,Brown Sugar,retail,26.9024065,75.7865482,OpenStreetMap
+P002,ShuchiVC,retail,26.9013659,75.7856806,OpenStreetMap
+P002,Cafe Coffee Day,food,26.9016256,75.7849972,OpenStreetMap
+P002,Unnamed,retail,26.901191,75.7807994,OpenStreetMap
+P002,Sunshine Honda,retail,26.9012453,75.7825353,OpenStreetMap
+P002,Saras Dairy,retail,26.9054236,75.7388882,OpenStreetMap
+P002,Harish Cycles,retail,26.8735366,75.7770059,OpenStreetMap
+P002,Santosh Shekhawati Furniture & Home Decor,retail,26.8734452,75.7771253,OpenStreetMap
+P002,Ridhi Sidhi Sweets,retail,26.8734967,75.7760574,OpenStreetMap
+P002,Adarsh Sports & Fitness,retail,26.8733699,75.7759653,OpenStreetMap
+P002,Gulnar Juice,food,26.8735628,75.7761313,OpenStreetMap
+P002,Mobile Wale,retail,26.8735863,75.7761479,OpenStreetMap
+P002,Lee Optics,retail,26.8966752,75.7392064,OpenStreetMap
+P002,One Two Ka Four,retail,26.896566,75.7391914,OpenStreetMap
+P002,ShoeExpress,retail,26.8966256,75.7391754,OpenStreetMap
+P002,Jodhpur Sweet Centre,retail,26.8965433,75.7388928,OpenStreetMap
+P002,Mama wheel repairing center,retail,26.9171591,75.8009252,OpenStreetMap
+P002,JAYANTI CAR WORLD,retail,26.9043395,75.728965,OpenStreetMap
+P002,Coffee Break,food,26.9091075,75.738462,OpenStreetMap
+P002,Rajlaxmi designer studio,retail,26.9004443,75.7390468,OpenStreetMap
+P002,Mittal Garments,retail,26.9027966,75.775386,OpenStreetMap
+P002,Saas Bahu Ladies Tailor,retail,26.8991013,75.7847228,OpenStreetMap
+P002,Bhairu Sahu Matka Kulfi Juice & Ice Cream,retail,26.8993887,75.7838445,OpenStreetMap
+P002,Cafe Coffee Day,food,26.9031,75.8365725,OpenStreetMap
+P002,Levi's,retail,26.9030476,75.8365108,OpenStreetMap
+P002,Puma,retail,26.9029847,75.836458,OpenStreetMap
+P002,United Colors of Benetton,retail,26.9029245,75.8363874,OpenStreetMap
+P002,Girls Paradise,retail,26.903176,75.836646,OpenStreetMap
+P002,spykar,retail,26.9032127,75.8367224,OpenStreetMap
+P002,U.S. Polo Assn.,retail,26.9033044,75.8367606,OpenStreetMap
+P002,Mufti,retail,26.9028563,75.8363933,OpenStreetMap
+P002,Juicy Fruity,food,26.9031105,75.8366548,OpenStreetMap
+P002,Big Bazaar,retail,26.9032441,75.8368135,OpenStreetMap
+P002,Domino's,food,26.9033096,75.8368752,OpenStreetMap
+P002,American Grill,food,26.9033299,75.836829,OpenStreetMap
+P002,Provogue,retail,26.9028261,75.836488,OpenStreetMap
+P002,ISLIE by priya jain,retail,26.8900989,75.7725741,OpenStreetMap
+P002,Evershine Tower,retail,26.9110073,75.7431778,OpenStreetMap
+P002,Unnamed,food,26.9075297,75.815063,OpenStreetMap
+P002,Manasarovar,railway,26.8794402,75.7502389,OpenStreetMap
+P002,Frontier Biscuits,retail,26.9109947,75.7440542,OpenStreetMap
+P002,Easyday Club,retail,26.9114999,75.7458821,OpenStreetMap
+P002,VLCC,retail,26.9096351,75.7436706,OpenStreetMap
+P002,Dengri's - The Restro Lounge,food,26.9102046,75.7434242,OpenStreetMap
+P002,Choco Cheri,retail,26.9102837,75.7437465,OpenStreetMap
+P002,Cityvibes,retail,26.9097619,75.7433492,OpenStreetMap
+P002,Shyam Nagar,railway,26.8964768,75.7706279,OpenStreetMap
+P002,Vivek Vihar,railway,26.8884539,75.768407,OpenStreetMap
+P002,New Aatish Market,railway,26.880154,75.764466,OpenStreetMap
+P002,Prem Motors - Maruti Servce Center,retail,26.8989935,75.7900783,OpenStreetMap
+P002,Firstcry Shop,retail,26.844601,75.8009634,OpenStreetMap
+P002,Firstcry,retail,26.8770315,75.752954,OpenStreetMap
+P002,Firstcry,retail,26.9151007,75.7413166,OpenStreetMap
+P002,Vijay Udhyog,retail,26.8950038,75.7937603,OpenStreetMap
+P002,Hakim Alam's,retail,26.8949717,75.7937637,OpenStreetMap
+P002,Coffee America,food,26.8613782,75.7735375,OpenStreetMap
+P002,Ticket Counter,retail,26.981559,75.8438712,OpenStreetMap
+P002,"""Pandey Moorti Kala Kendra"", ""Pandey Moorti Bhandar"", ""Pandey Exports""",retail,26.922043,75.8140908,OpenStreetMap
+P002,Spykar,retail,26.9027523,75.7938524,OpenStreetMap
+P002,Find My Tour,retail,26.9185705,75.8068167,OpenStreetMap
+P002,Mehta Pustak Bhandar,food,26.9194619,75.8216071,OpenStreetMap
+P002,Black Pizza,food,26.9061335,75.822165,OpenStreetMap
+P002,Herbs On Pizza,food,26.9700049,75.7623864,OpenStreetMap
+P002,WORLD OF TITAN,retail,26.9108849,75.7382967,OpenStreetMap
+P002,Tan-Sukh,food,26.9035157,75.7530934,OpenStreetMap
+P002,Unnamed,retail,26.9057792,75.7524951,OpenStreetMap
+P002,Unnamed,retail,26.9049935,75.8036996,OpenStreetMap
+P002,Wrangler,retail,26.8665372,75.7963517,OpenStreetMap
+P002,Trendswheel,retail,26.8445554,75.8012169,OpenStreetMap
+P002,Starbucks,food,26.9108631,75.7952607,OpenStreetMap
+P002,Café BAE,food,26.899789,75.7929507,OpenStreetMap
+P002,Shop N Save Departmental Store,retail,26.9544709,75.775459,OpenStreetMap
+P002,Unnamed,food,26.9053547,75.794676,OpenStreetMap
+P002,Fabindia,retail,26.9140181,75.8067179,OpenStreetMap
+P002,thali and more,food,26.9109569,75.805667,OpenStreetMap
+P002,Unnamed,food,26.9103022,75.8035336,OpenStreetMap
+P002,Unnamed,food,26.9154568,75.8015928,OpenStreetMap
+P002,Unnamed,food,26.8512734,75.8104302,OpenStreetMap
+P002,Reservation Counter,retail,26.9181723,75.7880593,OpenStreetMap
+P002,Reservation Counter,retail,26.9181927,75.7881341,OpenStreetMap
+P002,Reservation Counter,retail,26.918214,75.7882172,OpenStreetMap
+P002,Hawa Mahal tickets,retail,26.9241294,75.8263893,OpenStreetMap
+P002,Unnamed,food,26.9170949,75.8192314,OpenStreetMap
+P002,Shree OmBana Jewellers,retail,26.9840301,75.7369082,OpenStreetMap
+P002,Ekna Car Care,retail,26.8582286,75.736206,OpenStreetMap
+P002,Unnamed,retail,26.9197298,75.7888964,OpenStreetMap
+P002,Vinay Restaurant,food,26.9280901,75.7970653,OpenStreetMap
+P002,Pietre del mondo since 1963,retail,26.9253706,75.8277766,OpenStreetMap
+P002,Shyam Jewellers,retail,26.9208752,75.8264404,OpenStreetMap
+P002,Lal Kothi Sabji Mandi,retail,26.8834365,75.7981772,OpenStreetMap
+P002,Terrazzo,food,26.881962,75.7974672,OpenStreetMap
+P002,"Talk Of The Town, Lal Kothi",food,26.8824325,75.797106,OpenStreetMap
+P002,The Khopcha Cafe,food,26.8819484,75.7975186,OpenStreetMap
+P002,Kabul Chicken Sajji,food,26.9221585,75.8300509,OpenStreetMap
+P002,Arun Silver,retail,26.9163635,75.8038573,OpenStreetMap
+P002,Unnamed,food,26.9223163,75.8224376,OpenStreetMap
+P002,Domino's,food,26.8375444,75.8337353,OpenStreetMap
+P002,Unnamed,retail,26.9252539,75.7909552,OpenStreetMap
+P002,Rajastani Thali Dal Baati Churma,food,26.9274262,75.7908643,OpenStreetMap
+P002,Unnamed,retail,26.9836769,75.8451596,OpenStreetMap
+P002,Unnamed,retail,26.9223252,75.8208457,OpenStreetMap
+P002,Tribes India,retail,26.9164898,75.8159158,OpenStreetMap
+P002,The Warehouse Cafe,food,26.8860135,75.8036761,OpenStreetMap
+P002,Bike Servicing and Repairing Shop,retail,26.8863516,75.8034614,OpenStreetMap
+P002,Adarsh Sports,retail,26.8912884,75.8015457,OpenStreetMap
+P002,Khandelwal Book Depot,retail,26.8800002,75.7994118,OpenStreetMap
+P002,the doors restaurant,food,26.91579,75.81012,OpenStreetMap
+P002,matti indian cafe house,food,26.9160713,75.8015668,OpenStreetMap
+P002,Unnamed,food,26.9151658,75.8099241,OpenStreetMap
+P002,DMart,retail,26.8495456,75.826321,OpenStreetMap
+P002,Burger King,food,26.8372637,75.8339069,OpenStreetMap
+P002,"music intruments shop, JAIPUR",retail,26.912026,75.8126898,OpenStreetMap
+P002,city mart,retail,26.9119686,75.8121705,OpenStreetMap
+P002,salon,food,26.9113372,75.8118529,OpenStreetMap
+P002,nains nail salon,retail,26.9117298,75.8127619,OpenStreetMap
+P002,Roseberry,food,26.8685465,75.7969727,OpenStreetMap
+P002,Darshan,retail,26.9449982,75.8281455,OpenStreetMap
+P002,B L Enterprises- Laptop Repair,retail,26.9086334,75.7439453,OpenStreetMap
+P002,JODHPUR SWEET HOME,retail,26.9518146,75.7018663,OpenStreetMap
+P002,JODHPUR SWEET HOME EXTENSION,retail,26.9519183,75.7017179,OpenStreetMap
+P002,BOMBAY BAGS,retail,26.9518258,75.7017429,OpenStreetMap
+P002,RAVI MOBILE STORE,retail,26.951939,75.7016392,OpenStreetMap
+P002,OM MEDCAL STORE,retail,26.9515717,75.7014911,OpenStreetMap
+P002,SHREE SHYAM OPTICS,retail,26.9520013,75.7015193,OpenStreetMap
+P002,KANHA SWEETS AND BAKERY,retail,26.9541898,75.7028711,OpenStreetMap
+P002,SHAKAMBHARI TRADERS,retail,26.9543305,75.7029534,OpenStreetMap
+P002,VIDYA ELECTRONICS,retail,26.9522468,75.7020902,OpenStreetMap
+P002,GOVINDPURA LIQUOR SHOP,retail,26.9530814,75.7027552,OpenStreetMap
+P002,LUCKY NON VEG RESTRAUNT,food,26.9531851,75.7027962,OpenStreetMap
+P002,PALIWAL BOOK DEPOT,retail,26.9520064,75.7022695,OpenStreetMap
+P002,RADHEY  BAKERS,retail,26.9517058,75.7014027,OpenStreetMap
+P002,Domino's,food,26.9476397,75.7241495,OpenStreetMap
+P002,NR MART,retail,26.9478421,75.7232867,OpenStreetMap
+P002,EYEWORLD OPTICIANS,retail,26.94516,75.7399154,OpenStreetMap
+P002,kgn cafe,food,26.9726124,75.7675594,OpenStreetMap
+P002,Mother Dairy,retail,26.9703762,75.7611297,OpenStreetMap
+P002,Wine Shop,retail,26.9705144,75.7612326,OpenStreetMap
+P002,Apollo Tyres,retail,26.9705486,75.7618729,OpenStreetMap
+P002,FAST FOOD CORNER,food,26.968325,75.7629053,OpenStreetMap
+P002,CHAT KA CHAURAHA,food,26.9695114,75.7630294,OpenStreetMap
+P002,PARASRAMPURIA MART,retail,26.970707,75.7718241,OpenStreetMap
+P002,DMart,retail,26.9416428,75.7708275,OpenStreetMap
+P002,Reliance Fresh,retail,26.9700273,75.7610783,OpenStreetMap
+P002,roof top cafe,food,26.9704518,75.7606957,OpenStreetMap
+P002,glorious restaurent,food,26.9705699,75.7626812,OpenStreetMap
+P002,R.D. Honda,retail,26.9723972,75.7668705,OpenStreetMap
+P002,Unnamed,food,26.899658,75.8590105,OpenStreetMap
+P002,Shri Balaji Mobile Store,retail,26.9507349,75.7065115,OpenStreetMap
+P002,Jaipur Chaupati,food,26.8406321,75.7739393,OpenStreetMap
+P002,Unnamed,food,26.9369262,75.8322312,OpenStreetMap
+P002,Half Light Coffee Roasters,food,26.9073957,75.7954528,OpenStreetMap
+P002,"Ali Gems , Jaipur",retail,26.9308448,75.8354143,OpenStreetMap
+P002,Daisy and Jade Jaipur,food,26.9022301,75.7125581,OpenStreetMap
+P002,Unnamed,food,26.9073874,75.7954138,OpenStreetMap
+P002,Airtel,retail,26.9189353,75.7992695,OpenStreetMap
+P002,BTS Burger To Shakei,food,26.8416823,75.770054,OpenStreetMap
+P002,Unnamed,retail,26.9634197,75.8480282,OpenStreetMap
+P002,The Curry Spoon,food,26.9361784,75.8348424,OpenStreetMap
+P002,Govindam Sweets & Bakery,retail,26.9286259,75.8255219,OpenStreetMap
+P002,Unnamed,food,26.9113223,75.8196136,OpenStreetMap
+P002,Unnamed,food,26.9239758,75.8155246,OpenStreetMap
+P002,LRS Jewellers,retail,26.9588234,75.7701793,OpenStreetMap
+P002,Unnamed,retail,26.9254009,75.8244412,OpenStreetMap
+P002,Unnamed,retail,26.9257887,75.8243417,OpenStreetMap
+P002,Кафе,food,26.9175489,75.8169087,OpenStreetMap
+P002,new chinar,retail,26.9051939,75.7358084,OpenStreetMap
+P002,Unnamed,retail,26.9254743,75.8244888,OpenStreetMap
+P002,Dharan Clothing,retail,26.9290395,75.7356173,OpenStreetMap
+P002,Shubham Kirana and General Store,retail,26.957559,75.7050947,OpenStreetMap
+P002,Anup Kirana And General Store,retail,26.957804,75.7046816,OpenStreetMap
+P002,AMBER TOWER,retail,26.9556224,75.7036638,OpenStreetMap
+P002,NIKKI PHOTO STUDIO,retail,26.9560352,75.7035233,OpenStreetMap
+P002,Rajdhani Tools,retail,26.9512293,75.7043432,OpenStreetMap
+P002,Jaipur Jayka,retail,26.9513819,75.7021679,OpenStreetMap
+P002,Salasar Misthan Bhandar,retail,26.951753,75.7020828,OpenStreetMap
+P002,DMart,retail,26.9555824,75.7093703,OpenStreetMap
+P002,Unnamed,retail,26.8859438,75.7848058,OpenStreetMap
+P002,Unnamed,retail,26.8855578,75.7847301,OpenStreetMap
+P002,Unnamed,retail,26.8858589,75.7848794,OpenStreetMap
+P002,Unnamed,retail,26.884348,75.7843246,OpenStreetMap
+P002,Unnamed,retail,26.8815247,75.7810998,OpenStreetMap
+P002,Unnamed,retail,26.8876792,75.7859074,OpenStreetMap
+P002,Unnamed,retail,26.885774,75.7847084,OpenStreetMap
+P002,Unnamed,retail,26.8814226,75.7804806,OpenStreetMap
+P002,tanwar photostudio,retail,26.8853396,75.7846781,OpenStreetMap
+P002,Unnamed,retail,26.8852412,75.7846586,OpenStreetMap
+P002,Unnamed,retail,26.885301,75.7847993,OpenStreetMap
+P002,chakki,retail,26.8854361,75.7847041,OpenStreetMap
+P002,Unnamed,retail,26.8810776,75.782115,OpenStreetMap
+P002,Unnamed,retail,26.8811982,75.7826957,OpenStreetMap
+P002,Unnamed,retail,26.8813047,75.7820275,OpenStreetMap
+P002,Unnamed,retail,26.881035,75.7823218,OpenStreetMap
+P002,Unnamed,retail,26.8812018,75.7825764,OpenStreetMap
+P002,Unnamed,retail,26.8816453,75.7807043,OpenStreetMap
+P002,Unnamed,retail,26.8811024,75.7818326,OpenStreetMap
+P002,Unnamed,retail,26.8849938,75.7846939,OpenStreetMap
+P002,Unnamed,retail,26.8815479,75.7799342,OpenStreetMap
+P002,Rangoli Bakery,retail,26.8843583,75.7844685,OpenStreetMap
+P002,Unnamed,retail,26.8849717,75.784579,OpenStreetMap
+P002,Unnamed,retail,26.8849406,75.7846692,OpenStreetMap
+P002,Unnamed,retail,26.8804685,75.7847086,OpenStreetMap
+P002,Unnamed,retail,26.8810137,75.7825525,OpenStreetMap
+P002,Unnamed,retail,26.881106,75.7829225,OpenStreetMap
+P002,Unnamed,retail,26.8815107,75.7809801,OpenStreetMap
+P002,Unnamed,retail,26.8815386,75.7813131,OpenStreetMap
+P002,Unnamed,retail,26.8807205,75.783476,OpenStreetMap
+P002,Unnamed,retail,26.8806707,75.7840597,OpenStreetMap
+P002,Unnamed,retail,26.8805068,75.7854467,OpenStreetMap
+P002,Unnamed,retail,26.8814179,75.7817346,OpenStreetMap
+P002,Unnamed,retail,26.8810344,75.7833086,OpenStreetMap
+P002,Unnamed,retail,26.8815432,75.7801735,OpenStreetMap
+P002,Unnamed,retail,26.8810634,75.7822065,OpenStreetMap
+P002,Unnamed,retail,26.8810528,75.7831492,OpenStreetMap
+P002,Unnamed,retail,26.8809924,75.7826122,OpenStreetMap
+P002,Unnamed,retail,26.8811734,75.7828628,OpenStreetMap
+P002,Unnamed,retail,26.8808647,75.7827594,OpenStreetMap
+P002,Unnamed,retail,26.8810102,75.7827276,OpenStreetMap
+P002,Unnamed,retail,26.8805719,75.7850175,OpenStreetMap
+P002,Unnamed,retail,26.8812869,75.7804841,OpenStreetMap
+P002,Unnamed,retail,26.8808506,75.7842184,OpenStreetMap
+P002,Unnamed,retail,26.8808718,75.7830657,OpenStreetMap
+P002,Unnamed,retail,26.8813559,75.7802016,OpenStreetMap
+P002,Unnamed,retail,26.8809693,75.7836434,OpenStreetMap
+P002,Unnamed,retail,26.8808698,75.784021,OpenStreetMap
+P002,Unnamed,retail,26.8814217,75.7814706,OpenStreetMap
+P002,Unnamed,retail,26.8811308,75.7830577,OpenStreetMap
+P002,Unnamed,retail,26.8806484,75.7848802,OpenStreetMap
+P002,Unnamed,retail,26.8808468,75.7831713,OpenStreetMap
+P002,Unnamed,retail,26.8806592,75.7838923,OpenStreetMap
+P002,Unnamed,retail,26.8804838,75.7845026,OpenStreetMap
+P002,Unnamed,retail,26.8807747,75.7844983,OpenStreetMap
+P002,Unnamed,retail,26.8807702,75.7842914,OpenStreetMap
+P002,Unnamed,retail,26.8809961,75.783785,OpenStreetMap
+P002,Unnamed,retail,26.880702,75.7846613,OpenStreetMap
+P002,Unnamed,retail,26.880392,75.7849703,OpenStreetMap
+P002,Unnamed,retail,26.8802924,75.7852622,OpenStreetMap
+P002,Unnamed,retail,26.8807212,75.7835756,OpenStreetMap
+P002,Unnamed,retail,26.8805253,75.7841283,OpenStreetMap
+P002,Unnamed,retail,26.8803996,75.7847987,OpenStreetMap
+P002,Unnamed,retail,26.880614,75.785069,OpenStreetMap
+P002,Unnamed,retail,26.8805145,75.7842794,OpenStreetMap
+P002,Unnamed,retail,26.8809164,75.7839275,OpenStreetMap
+P002,Unnamed,retail,26.8802963,75.7853566,OpenStreetMap
+P002,Unnamed,retail,26.88048,75.785657,OpenStreetMap
+P002,Unnamed,retail,26.8805642,75.7843524,OpenStreetMap
+P002,gopiram sdevillal,retail,26.9232319,75.826168,OpenStreetMap
+P002,choudhry work waale,retail,26.9235679,75.8246229,OpenStreetMap
+P002,roop lakshmi,retail,26.923341,75.8257328,OpenStreetMap
+P002,radhe kirpa;jaipur saree centre,retail,26.9236731,75.8242195,OpenStreetMap
+P002,tattoo cafe,food,26.922633,75.827839,OpenStreetMap
+P002,vind view cafe,food,26.92264,75.827818,OpenStreetMap
+P002,roop nihar saree,retail,26.9236597,75.824301,OpenStreetMap
+P002,hari narayanashop,retail,26.9226353,75.8278573,OpenStreetMap
+P002,hari narayana shop,retail,26.9229685,75.8274614,OpenStreetMap
+P002,arjun textiles,retail,26.923608,75.8243825,OpenStreetMap
+P002,moghalal madangopal bajaj,retail,26.9235247,75.8248574,OpenStreetMap
+P002,rajasthan nagarsa centre,retail,26.9227163,75.8274601,OpenStreetMap
+P002,jaipur saree clothes,retail,26.9229629,75.8274941,OpenStreetMap
+P002,shree govind store,retail,26.9229454,75.8275256,OpenStreetMap
+P002,rana saree centre,retail,26.9232874,75.8259538,OpenStreetMap
+P002,gyarsilal omprakash,retail,26.9233008,75.8258702,OpenStreetMap
+P002,moghalal or ram gopal bajaj,retail,26.9233506,75.8256685,OpenStreetMap
+P002,ratan trading company,retail,26.9235564,75.8246722,OpenStreetMap
+P002,trilok sarees,retail,26.9232568,75.8261105,OpenStreetMap
+P002,fab heritage llp,retail,26.9233104,75.8258187,OpenStreetMap
+P002,sai kapda mojdi,retail,26.9233735,75.8256277,OpenStreetMap
+P002,sardar clothes stores,retail,26.9235113,75.8248917,OpenStreetMap
+P002,jaipur textile traders,retail,26.9232607,75.8260697,OpenStreetMap
+P002,rajesh union,retail,26.9232199,75.8262838,OpenStreetMap
+P002,rajwesh union,retail,26.9232276,75.826228,OpenStreetMap
+P002,rashid karim baksh,retail,26.9235966,75.8245499,OpenStreetMap
+P002,sri sai kirpa,retail,26.9235271,75.8247501,OpenStreetMap
+P002,bhatia clothes store,retail,26.9233238,75.8257715,OpenStreetMap
+P002,ratan sareee centre,retail,26.9235194,75.8247973,OpenStreetMap
+P002,ram nivas ram gopal,retail,26.9238376,75.8233268,OpenStreetMap
+P002,G.R> general store,retail,26.9235985,75.8244898,OpenStreetMap
+P002,rajasthan opticals,retail,26.9235966,75.8244298,OpenStreetMap
+P002,V.C. jwellery,retail,26.9237668,75.8236187,OpenStreetMap
+P002,radhana clothes,retail,26.923608,75.8243117,OpenStreetMap
+P002,roop sagar,retail,26.9236272,75.8242581,OpenStreetMap
+P002,rana jewellers,retail,26.9237802,75.8235521,OpenStreetMap
+P002,manirathum jewellery,retail,26.9236903,75.8239899,OpenStreetMap
+P002,ashok readymade,retail,26.9237075,75.8239298,OpenStreetMap
+P002,sshree sai kripa,retail,26.9238529,75.8232324,OpenStreetMap
+P002,modi export house,retail,26.9238931,75.8230329,OpenStreetMap
+P002,maliram  radheshyam jewelers,retail,26.9229419,75.8261375,OpenStreetMap
+P002,lakshmi narayana jewellers,retail,26.9237611,75.8236744,OpenStreetMap
+P002,bombay boot house,retail,26.9237458,75.823741,OpenStreetMap
+P002,aggarsen market,retail,26.9233322,75.8242023,OpenStreetMap
+P002,shree shyam baba jewelers,retail,26.9234087,75.8238075,OpenStreetMap
+P002,M.D. pandya,retail,26.9237305,75.8237989,OpenStreetMap
+P002,gulaab chand mohanlal jewelers,retail,26.9231791,75.8249405,OpenStreetMap
+P002,fashion jewelry mart,retail,26.9238261,75.8233719,OpenStreetMap
+P002,shree krishnam jwelery,retail,26.9238395,75.8232796,OpenStreetMap
+P002,bombay dying retail showroom,retail,26.9238701,75.8231702,OpenStreetMap
+P002,silver   centre,retail,26.9237347,75.8217353,OpenStreetMap
+P002,fancy jeweler store,retail,26.9238835,75.8230994,OpenStreetMap
+P002,fab heritage,retail,26.9237955,75.8234963,OpenStreetMap
+P002,agarwal jain jwelers,retail,26.9235638,75.8235691,OpenStreetMap
+P002,indian gota works,retail,26.9234412,75.8236756,OpenStreetMap
+P002,ram ratan clothes centre,retail,26.9233934,75.8240478,OpenStreetMap
+P002,mohan lal jewelers,retail,26.9230434,75.8256018,OpenStreetMap
+P002,shree govindam jewelers,retail,26.9231562,75.8251207,OpenStreetMap
+P002,Ram gopal jewelers,retail,26.9232174,75.8247688,OpenStreetMap
+P002,mihini collection,retail,26.9230076,75.8258161,OpenStreetMap
+P002,sultan singh jwellers,retail,26.9230076,75.8259634,OpenStreetMap
+P002,rana collection,retail,26.9232404,75.8245885,OpenStreetMap
+P002,prakash jewelers,retail,26.9237659,75.8213781,OpenStreetMap
+P002,lrs jewellers,retail,26.9235411,75.8231852,OpenStreetMap
+P002,radha krishna jewelers,retail,26.9237847,75.8215252,OpenStreetMap
+P002,SK Opticals,retail,26.9512378,75.7028745,OpenStreetMap
+P002,Hero,retail,26.9510967,75.7051064,OpenStreetMap
+P002,Hero,retail,26.9504196,75.7061525,OpenStreetMap
+P002,TEA TIME CAFE,food,26.9561705,75.7090258,OpenStreetMap
+P002,Baker's Heart,retail,26.9536647,75.7026994,OpenStreetMap
+P002,Rajdhani Cafe,food,26.9549117,75.7031055,OpenStreetMap
+P002,Drishti Opticals,retail,26.9519269,75.7016684,OpenStreetMap
+P002,SS Sports,retail,26.9512938,75.7042055,OpenStreetMap
+P002,Neha Stationery,retail,26.952321,75.7009504,OpenStreetMap
+P002,Burger Farm,food,26.9474638,75.7249773,OpenStreetMap
+P002,Bell Pepper Pizza,food,26.9476578,75.7240065,OpenStreetMap
+P002,Blue Scissors,retail,26.9569563,75.7039744,OpenStreetMap
+P002,Mangalam Aanchal,retail,26.9479743,75.7218755,OpenStreetMap
+P002,Mahima Telecom,retail,26.9481103,75.7208642,OpenStreetMap
+P002,Unnamed,retail,26.9481147,75.720943,OpenStreetMap
+P002,Sristi Stationery,retail,26.9557609,75.70323,OpenStreetMap
+P002,Somra juice and icecream corner,food,26.952,75.7019616,OpenStreetMap
+P002,Kumawat Garments,retail,26.9504744,75.7059683,OpenStreetMap
+P002,Shree Shyam Enterprises,retail,26.9512335,75.7030476,OpenStreetMap
+P002,Nirankari Tiles,retail,26.9525214,75.7022576,OpenStreetMap
+P002,KK Tiles,retail,26.956649,75.7039622,OpenStreetMap
+P002,"Tirupati Plywood, Sanitary and Electricals",retail,26.954768,75.7030586,OpenStreetMap
+P002,Kishore Textiles,retail,26.950504,75.7058886,OpenStreetMap
+P002,Harish Telecom,retail,26.9509547,75.7040185,OpenStreetMap
+P002,Jagdamba Plywood And Hardware,retail,26.9524311,75.7022417,OpenStreetMap
+P002,Govind Collection,retail,26.9574446,75.7059613,OpenStreetMap
+P002,Vaibhav Collection,retail,26.9511479,75.7034489,OpenStreetMap
+P002,VR Fashion,retail,26.9510705,75.7036445,OpenStreetMap
+P002,Shopping Mall,retail,26.9520419,75.7022808,OpenStreetMap
+P002,RV Dry Cleaners,retail,26.9572492,75.7062844,OpenStreetMap
+P002,Chhotilal Nemichand Sogani,retail,26.9234055,75.826333,OpenStreetMap
+P002,Karodiya Kachori Bhandar,food,26.92088,75.8271023,OpenStreetMap
+P002,Prakash Jewellers,retail,26.9208918,75.826443,OpenStreetMap
+P002,Roop Basant Pavitra Bhojanalaya,food,26.92059,75.7888677,OpenStreetMap
+P002,Khandelwal,food,26.9205952,75.7888436,OpenStreetMap
+P002,Ramkrishna Agarwal,retail,26.9233649,75.8263263,OpenStreetMap
+P002,Raghunandan (Khaatu Waale),retail,26.9233196,75.8263169,OpenStreetMap
+P002,Fine Bangles Store,retail,26.923285,75.8263038,OpenStreetMap
+P002,Vandanam,retail,26.9234616,75.8263501,OpenStreetMap
+P002,Shri Narayan Madholal,retail,26.9235046,75.8263635,OpenStreetMap
+P002,Prahlad Das Bajaj,retail,26.9235823,75.8263877,OpenStreetMap
+P002,Bota traders,retail,26.9235596,75.8263769,OpenStreetMap
+P002,Ramesh Chand Poonam Chand Bajaj,retail,26.9235345,75.8263662,OpenStreetMap
+P002,Vinayak Art Jewellery,retail,26.9208936,75.8270437,OpenStreetMap
+P002,Shri Shyam Baba Jewellers,retail,26.9208983,75.8269887,OpenStreetMap
+P002,Mittal Jewellery Store,retail,26.920911,75.8264407,OpenStreetMap
+P002,Baywala Jewellers,retail,26.9207714,75.8269894,OpenStreetMap
+P002,Creation,retail,26.920778,75.8269451,OpenStreetMap
+P002,Krishna Jewellers,retail,26.9207863,75.8269156,OpenStreetMap
+P002,McDonald's,food,26.9034396,75.7929249,OpenStreetMap
+P002,Laxmi,food,26.9021987,75.7726597,OpenStreetMap
+P002,NOTHING BEFORE COFFEE,food,26.9238475,75.824011,OpenStreetMap
+P002,Annpoornam,food,26.9148703,75.8047591,OpenStreetMap
+P002,Danika Enterprises,retail,26.9093856,75.6927555,OpenStreetMap
+P002,Grain Mill,retail,26.9092548,75.6943933,OpenStreetMap
+P002,Unnamed,retail,26.9092352,75.6946294,OpenStreetMap
+P002,Jodhpur Misthan Bhandar,retail,26.9092688,75.6941393,OpenStreetMap
+P002,Unnamed,retail,26.9092464,75.6945793,OpenStreetMap
+P002,Unnamed,retail,26.9092473,75.6945301,OpenStreetMap
+P002,Unnamed,retail,26.9093096,75.6950069,OpenStreetMap
+P002,Unnamed,retail,26.9093778,75.6927943,OpenStreetMap
+P002,Sarojani Enterprises,retail,26.8899827,75.7808838,OpenStreetMap
+P002,Shree Laxmi Jodhpur Sweets,food,26.95653,75.7412095,OpenStreetMap
+P002,Zudio,retail,26.8996617,75.8132673,OpenStreetMap
+P002,Unnamed,retail,26.9220741,75.7970685,OpenStreetMap
+P002,Unnamed,retail,26.929212,75.7972945,OpenStreetMap
+P002,Unnamed,retail,26.9243072,75.7975406,OpenStreetMap
+P002,Shivam Brothers,retail,26.9296244,75.7969394,OpenStreetMap
+P002,Vishnu Medical,retail,26.9293915,75.7971851,OpenStreetMap
+P002,Unnamed,retail,26.9245132,75.7882715,OpenStreetMap
+P002,Shree Sanwariya Sarkar,food,26.9247973,75.7899824,OpenStreetMap
+P002,Unnamed,food,26.925014,75.7905416,OpenStreetMap
+P002,Unnamed,retail,26.924903,75.7902095,OpenStreetMap
+P002,Shri Shyam Pavitra Bhojnalaya,food,26.924693,75.7906604,OpenStreetMap
+P002,street food,food,26.9244746,75.7891214,OpenStreetMap
+P002,Ajanta Medical,retail,26.924856,75.7900999,OpenStreetMap
+P002,Anjani,food,26.9244798,75.7905539,OpenStreetMap
+P002,The Mama Bhanja's,food,26.9254591,75.7912713,OpenStreetMap
+P002,Unnamed,retail,26.9291977,75.7973001,OpenStreetMap
+P002,chai,food,26.9241837,75.8203002,OpenStreetMap
+P002,Kebabs and Curries Company Family Restaurant,food,26.928008,75.8283941,OpenStreetMap
+P002,Samosa,food,26.9277497,75.8280203,OpenStreetMap
+P002,Biryani,food,26.9197437,75.7897154,OpenStreetMap
+P002,Unnamed,food,26.9216613,75.7900876,OpenStreetMap
+P002,Unnamed,retail,26.921902,75.7899544,OpenStreetMap
+P002,Unnamed,retail,26.9235673,75.7907573,OpenStreetMap
+P002,"Maa Bakery , Jaipur",retail,26.9244808,75.7907088,OpenStreetMap
+P002,Unnamed,retail,26.9245102,75.7906831,OpenStreetMap
+P002,Fresh Bites,food,26.9256027,75.7910741,OpenStreetMap
+P002,Hair Story,retail,26.927512,75.7908507,OpenStreetMap
+P002,Unnamed,retail,26.9286103,75.789333,OpenStreetMap
+P002,Unnamed,food,26.9248476,75.8167048,OpenStreetMap
+P002,Crazy mood Coffee,food,26.9264938,75.827716,OpenStreetMap
+P002,Krishna Bhojnalya,food,26.9179347,75.7903436,OpenStreetMap
+P002,Shri Purnanand Store,retail,26.9301176,75.7907964,OpenStreetMap
+P002,"Lens Shop , Jaipur",retail,26.929353,75.8030185,OpenStreetMap
+P002,street food street,food,26.919879,75.7894725,OpenStreetMap
+P002,Unnamed,retail,26.9249867,75.8161389,OpenStreetMap
+P002,Unnamed,retail,26.9236717,75.7908488,OpenStreetMap
+P002,Unnamed,food,26.924985,75.7905473,OpenStreetMap
+P002,Ayurveda,retail,26.9260846,75.7902617,OpenStreetMap
+P002,Atithi,food,26.9177934,75.7904291,OpenStreetMap
+P002,Unnamed,food,26.9215478,75.7900794,OpenStreetMap
+P002,Unnamed,retail,26.923662,75.7905843,OpenStreetMap
+P002,Unnamed,retail,26.9240517,75.7907764,OpenStreetMap
+P002,Thai Spa,retail,26.9268608,75.7902586,OpenStreetMap
+P002,Unnamed,retail,26.9287364,75.7932585,OpenStreetMap
+P002,Unnamed,retail,26.928341,75.8276592,OpenStreetMap
+P002,Unnamed,food,26.9215409,75.7899902,OpenStreetMap
+P002,Unnamed,food,26.9216327,75.7899951,OpenStreetMap
+P002,Unnamed,food,26.9217378,75.790092,OpenStreetMap
+P002,Unnamed,retail,26.9217932,75.7900061,OpenStreetMap
+P002,Kebabs and Curries Company,food,26.9286951,75.7891802,OpenStreetMap
+P002,Unnamed,retail,26.9303379,75.7909668,OpenStreetMap
+P002,Unnamed,retail,26.9336009,75.8045928,OpenStreetMap
+P002,Unnamed,retail,26.9336356,75.8052903,OpenStreetMap
+P002,Unnamed,retail,26.934203,75.8176664,OpenStreetMap
+P002,Unnamed,food,26.9343608,75.817633,OpenStreetMap
+P002,Unnamed,retail,26.9348814,75.81737,OpenStreetMap
+P002,Unnamed,retail,26.9348994,75.8175924,OpenStreetMap
+P002,Unnamed,retail,26.935037,75.7992987,OpenStreetMap
+P002,Unnamed,retail,26.9329989,75.8145946,OpenStreetMap
+P002,Unnamed,retail,26.9342688,75.8176424,OpenStreetMap
+P002,Unnamed,retail,26.9343307,75.8177183,OpenStreetMap
+P002,Unnamed,retail,26.9336804,75.8080715,OpenStreetMap
+P002,Unnamed,retail,26.933742,75.8077109,OpenStreetMap
+P002,Unnamed,retail,26.9319949,75.8071172,OpenStreetMap
+P002,chai,retail,26.9326934,75.8049478,OpenStreetMap
+P002,Unnamed,retail,26.9335062,75.8038128,OpenStreetMap
+P002,Unnamed,retail,26.9323592,75.8037233,OpenStreetMap
+P002,Unnamed,retail,26.9322438,75.8037149,OpenStreetMap
+P002,Unnamed,retail,26.9321277,75.8036823,OpenStreetMap
+P002,Unnamed,retail,26.9308548,75.8024922,OpenStreetMap
+P002,Unnamed,retail,26.9325734,75.8118145,OpenStreetMap
+P002,Unnamed,retail,26.9326202,75.810238,OpenStreetMap
+P002,Unnamed,retail,26.9335512,75.8086284,OpenStreetMap
+P002,Unnamed,retail,26.9315314,75.8062815,OpenStreetMap
+P002,Unnamed,retail,26.9321428,75.8057952,OpenStreetMap
+P002,Unnamed,retail,26.9326242,75.8049788,OpenStreetMap
+P002,Unnamed,retail,26.9329111,75.8038117,OpenStreetMap
+P002,Unnamed,retail,26.9318427,75.8034753,OpenStreetMap
+P002,Unnamed,retail,26.9309318,75.8025442,OpenStreetMap
+P002,Dry Cleaner,retail,26.9290754,75.798808,OpenStreetMap
+P002,Unnamed,food,26.9325276,75.8051602,OpenStreetMap
+P002,Unnamed,food,26.9326626,75.805048,OpenStreetMap
+P002,Unnamed,retail,26.9334933,75.8039254,OpenStreetMap
+P002,Unnamed,retail,26.9320958,75.8036979,OpenStreetMap
+P002,"clothes shopping street , Jaipur",retail,26.9306838,75.802885,OpenStreetMap
+P002,Unnamed,food,26.9320583,75.8059259,OpenStreetMap
+P002,Unnamed,retail,26.9320749,75.8057521,OpenStreetMap
+P002,Unnamed,retail,26.9327185,75.8050141,OpenStreetMap
+P002,fried chicken,food,26.9332474,75.8045387,OpenStreetMap
+P002,"Medical Center and Provisions , Jaipur",retail,26.9303282,75.8020142,OpenStreetMap
+P002,Unnamed,food,26.9231,75.8004776,OpenStreetMap
+P002,Unnamed,retail,26.9231623,75.8252878,OpenStreetMap
+P002,sculpture shop road,retail,26.9220157,75.8134814,OpenStreetMap
+P002,Unnamed,retail,26.9250409,75.8114627,OpenStreetMap
+P002,Unnamed,retail,26.9254223,75.8115587,OpenStreetMap
+P002,Unnamed,retail,26.9257574,75.8116851,OpenStreetMap
+P002,Unnamed,food,26.9230523,75.8003477,OpenStreetMap
+P002,Rajasthan Craft Plaza Family Restaurant,food,26.9228362,75.7999201,OpenStreetMap
+P002,Unnamed,retail,26.9256528,75.8115189,OpenStreetMap
+P002,Unnamed,retail,26.9253072,75.8114347,OpenStreetMap
+P002,Unnamed,retail,26.9256219,75.8119653,OpenStreetMap
+P002,Unnamed,retail,26.9260352,75.8110856,OpenStreetMap
+P002,Unnamed,retail,26.9261919,75.8101125,OpenStreetMap
+P002,Unnamed,retail,26.9231121,75.8110642,OpenStreetMap
+P002,Unnamed,retail,26.9253246,75.8115279,OpenStreetMap
+P002,Unnamed,retail,26.9256591,75.8118739,OpenStreetMap
+P002,Unnamed,retail,26.9234161,75.7883429,OpenStreetMap
+P002,J. K,food,26.9228991,75.7881135,OpenStreetMap
+P002,Unnamed,food,26.921957,75.7874144,OpenStreetMap
+P002,Unnamed,food,26.920586,75.7889612,OpenStreetMap
+P002,Unnamed,food,26.921734,75.7899982,OpenStreetMap
+P002,Unnamed,retail,26.922457,75.7910215,OpenStreetMap
+P002,Unnamed,retail,26.9239299,75.7907919,OpenStreetMap
+P002,Unnamed,food,26.9227264,75.7879904,OpenStreetMap
+P002,Unnamed,retail,26.9207218,75.7885039,OpenStreetMap
+P002,Unnamed,food,26.9205585,75.7894701,OpenStreetMap
+P002,Unnamed,food,26.9216858,75.7899975,OpenStreetMap
+P002,Unnamed,retail,26.9230387,75.7909998,OpenStreetMap
+P002,Unnamed,retail,26.9271937,75.7912721,OpenStreetMap
+P002,Unnamed,food,26.9215132,75.787464,OpenStreetMap
+P002,Unnamed,food,26.9205665,75.7895717,OpenStreetMap
+P002,Unnamed,food,26.9202667,75.7897862,OpenStreetMap
+P002,Unnamed,food,26.9164407,75.8612012,OpenStreetMap
+P002,Unnamed,food,26.9257211,75.8078159,OpenStreetMap
+P002,Rajasthani Thali,food,26.9228662,75.8013105,OpenStreetMap
+P002,Thali House,food,26.9225559,75.7991003,OpenStreetMap
+P002,Unnamed,retail,26.9202162,75.789534,OpenStreetMap
+P002,Unnamed,retail,26.9201237,75.7893676,OpenStreetMap
+P002,Unnamed,retail,26.9252255,75.7908696,OpenStreetMap
+P002,Unnamed,retail,26.9232521,75.7973808,OpenStreetMap
+P002,Unnamed,retail,26.9221539,75.7970965,OpenStreetMap
+P002,Unnamed,food,26.9222337,75.7982649,OpenStreetMap
+P002,Unnamed,retail,26.9216448,75.8007439,OpenStreetMap
+P002,Unnamed,food,26.9219696,75.8003686,OpenStreetMap
+P002,Unnamed,food,26.9219484,75.7974906,OpenStreetMap
+P002,Unnamed,retail,26.922117,75.7968989,OpenStreetMap
+P002,Unnamed,retail,26.9238521,75.7974749,OpenStreetMap
+P002,The Rajasthan Textile Development Corporation,retail,26.9272271,75.7982979,OpenStreetMap
+P002,Unnamed,retail,26.9227469,75.7972984,OpenStreetMap
+P002,Unique Medical,retail,26.922631,75.7972968,OpenStreetMap
+P002,Unnamed,retail,26.9227912,75.7996667,OpenStreetMap
+P002,Unnamed,retail,26.9217506,75.796719,OpenStreetMap
+P002,Unnamed,retail,26.923053,75.797225,OpenStreetMap
+P002,Unnamed,retail,26.9231037,75.7972271,OpenStreetMap
+P002,Jaipur Textile Corporation Manufacture and Wholesale,retail,26.9258458,75.7973629,OpenStreetMap
+P002,Unnamed,retail,26.9226256,75.7971381,OpenStreetMap
+P002,Unnamed,retail,26.9224527,75.7971207,OpenStreetMap
+P002,Bikaner Misthan Bhandar,retail,26.9217588,75.7969706,OpenStreetMap
+P002,Bikaner Bhojnalaya,food,26.9218853,75.7973434,OpenStreetMap
+P002,they offer Thali for 150inr and refill until you are full,food,26.9226018,75.7994137,OpenStreetMap
+P002,Unnamed,retail,26.921932,75.7970564,OpenStreetMap
+P002,Unnamed,retail,26.9229525,75.7973011,OpenStreetMap
+P002,Unnamed,retail,26.9212647,75.7937801,OpenStreetMap
+P002,Unnamed,food,26.9193192,75.7997258,OpenStreetMap
+P002,Shahar,food,26.9184451,75.799315,OpenStreetMap
+P002,mostly cell phone stores,retail,26.9193336,75.7992735,OpenStreetMap
+P002,Taluka Fashions,retail,26.9196614,75.7987516,OpenStreetMap
+P002,Unnamed,food,26.9194052,75.7997562,OpenStreetMap
+P002,Unnamed,retail,26.9170113,75.7969455,OpenStreetMap
+P002,Unnamed,retail,26.917311,75.7974383,OpenStreetMap
+P002,Unnamed,retail,26.9192903,75.7955215,OpenStreetMap
+P002,Unnamed,retail,26.9171908,75.7970188,OpenStreetMap
+P002,The Little French Home,food,26.9156131,75.795923,OpenStreetMap
+P002,rooftop,food,26.9161718,75.7959976,OpenStreetMap
+P002,rooftop,food,26.9156803,75.7959173,OpenStreetMap
+P002,RJ Jewellers,retail,26.849339,75.8004637,OpenStreetMap
+P002,TVG AMER RESTAURANT,food,26.9415187,75.8386718,OpenStreetMap
+P002,The Johri,food,26.9185848,75.8264162,OpenStreetMap
+P002,Sonis Cafe,food,26.941585,75.7874029,OpenStreetMap
+P002,Burger Queen,food,26.9421064,75.7885138,OpenStreetMap
+P002,NV Mart,retail,26.9425367,75.7864334,OpenStreetMap
+P002,Unnamed,retail,26.9421854,75.7851044,OpenStreetMap
+P002,Baskin RObins,food,26.9562051,75.7794177,OpenStreetMap
+P002,Fast M,retail,26.9558458,75.7793044,OpenStreetMap
+P002,Kalidoscope,food,26.9563366,75.7806167,OpenStreetMap
+P002,DK Mart,retail,26.9452269,75.7828657,OpenStreetMap
+P002,uj mARK,retail,26.9526608,75.7774813,OpenStreetMap
+P002,Unnamed,food,26.8356221,75.7783902,OpenStreetMap
+P002,Unnamed,food,26.847614,75.7772712,OpenStreetMap
+P002,Maruti Suzuki,retail,26.8379074,75.776879,OpenStreetMap
+P002,Hyundai,retail,26.8379691,75.7777557,OpenStreetMap
+P002,Unnamed,food,26.8476238,75.7768204,OpenStreetMap
+P002,Unnamed,retail,26.845648,75.7771905,OpenStreetMap
+P002,Unnamed,retail,26.842729,75.7698592,OpenStreetMap
+P002,Unnamed,food,26.8410838,75.7725838,OpenStreetMap
+P002,Unnamed,retail,26.8424221,75.7699968,OpenStreetMap
+P002,Unnamed,retail,26.8441041,75.7701895,OpenStreetMap
+P002,Unnamed,retail,26.8423116,75.7700656,OpenStreetMap
+P002,Choice Departmental Store,retail,26.9574309,75.7415359,OpenStreetMap
+P002,Vinayek Medical,retail,26.9639532,75.7427959,OpenStreetMap
+P002,Tharka Restauratnt,food,26.9541328,75.7464672,OpenStreetMap
+P002,Kunwar Customs,retail,26.9539506,75.7473267,OpenStreetMap
+P002,Service Center- Crossland Hyundai Cars,retail,26.9518103,75.7477135,OpenStreetMap
+P002,Volkswagen Service Centre,retail,26.9474089,75.763354,OpenStreetMap
+P002,OM Toyota,retail,26.9479162,75.7628073,OpenStreetMap
+P002,Tata Motors Cars Service Centre - Akar Fourwheel,retail,26.9516904,75.7523964,OpenStreetMap
+P002,"Mahindra KS Motors - Commercial Vehicles, Jhotwara",retail,26.9511509,75.7536439,OpenStreetMap
+P002,Maruti Suzuki True Value (KTL Automobile),retail,26.9478282,75.7630735,OpenStreetMap
+P002,Maruti Suzuki Service (KTL Automobile),retail,26.9477657,75.7623239,OpenStreetMap
+P002,Black Scissors,retail,26.9556742,75.7433442,OpenStreetMap
+P002,Bharat Gas Distribution & Loading Area,retail,26.9529704,75.7411936,OpenStreetMap
+P002,Jaipur Woods,retail,26.8710763,75.7413071,OpenStreetMap
+P002,Unnamed,retail,26.9341206,75.853069,OpenStreetMap
+P002,Unnamed,retail,26.934289,75.8522839,OpenStreetMap
+P002,Retreat,food,26.9154952,75.8064548,OpenStreetMap
+P002,Mehfil e Chaii,food,26.9096345,75.7180126,OpenStreetMap
+P002,jaipur traditional center,retail,26.8422328,75.8021621,OpenStreetMap
+P002,MDRegion,retail,26.8982837,75.8232031,OpenStreetMap
+P002,thadi,food,26.8588867,75.8154322,OpenStreetMap
+P002,Kiosk,retail,26.919654,75.8220956,OpenStreetMap
+P002,Kiosk,retail,26.9197935,75.8229207,OpenStreetMap
+P002,NR mart,retail,26.9566797,75.7767063,OpenStreetMap
+P002,MUDGAL WOOD INDUSTRIES,retail,26.9073005,75.7234963,OpenStreetMap
+P002,Spicy King,food,26.947482,75.7976766,OpenStreetMap
+P002,Kha'Ba bar and kitchen,food,26.9319385,75.7886818,OpenStreetMap
+P002,The Akky South Indian,food,26.9245268,75.8158137,OpenStreetMap
+P002,Rajmahal Restaurant,food,26.9210603,75.7972789,OpenStreetMap
+P002,Banana Leaf,food,26.9086334,75.8094777,OpenStreetMap
+P002,Foffee,food,26.9352447,75.8241841,OpenStreetMap
+P002,Noir Cafe,food,26.9147551,75.8125212,OpenStreetMap
+P002,Curious Life Coffee Roasters: RED,food,26.9093594,75.8086807,OpenStreetMap
+P002,Jaipur Adda,food,26.9211837,75.7948487,OpenStreetMap
+P002,Shree Paawan Sweets,retail,26.9812179,75.7447225,OpenStreetMap
+P002,Shree Raghvendra Sweets & Juice Center,retail,26.9813973,75.7446251,OpenStreetMap
+P002,Shree Shyam Sweets & Bakers,retail,26.9825373,75.73892,OpenStreetMap
+P002,Jai Shri Shyam Auto Parts,retail,26.9804986,75.7386227,OpenStreetMap
+P002,Unnamed,food,26.9227725,75.8010294,OpenStreetMap
+P002,Mr Macchiato,food,26.9334687,75.7939667,OpenStreetMap
+P002,Jio,retail,26.9353335,75.7947052,OpenStreetMap
+P002,Ambie Mobiles & Electronics,retail,26.9254954,75.8077497,OpenStreetMap
+P002,Shree Shyam communication,retail,26.9257891,75.8079973,OpenStreetMap
+P002,Once Upon at Gath,food,26.9375434,75.8158196,OpenStreetMap
+P002,Thé & Spices,retail,26.9457828,75.8371484,OpenStreetMap
+P002,Café Auberge,food,26.9114545,75.789028,OpenStreetMap
+P002,R.K Hotel,food,26.9488328,75.8059295,OpenStreetMap
+P002,Chaisa,food,26.8915909,75.7993874,OpenStreetMap
+P002,Town Coffee,food,26.8502125,75.8023122,OpenStreetMap
+P002,SARATHI - ANVI INFOTECH,retail,26.8974958,75.7795659,OpenStreetMap
+P002,Nest,food,26.938739,75.7838425,OpenStreetMap
+P002,Cafe Coffee Day,food,26.918498,75.8072435,OpenStreetMap
+P002,Al-Baik,food,26.9185204,75.8072441,OpenStreetMap
+P002,Cafe Coffee Day,food,26.9545707,75.8420329,OpenStreetMap
+P002,Unnamed,retail,26.9455998,75.8398073,OpenStreetMap
+P002,Haveli Carpets & Textiles,retail,26.9436338,75.8391854,OpenStreetMap
+P002,Battery Smart,retail,26.9339588,75.7948994,OpenStreetMap
+P002,Rawat Mishthan Bhandar,retail,26.924236,75.8217742,OpenStreetMap
+P002,Roōh Amēr,retail,26.9250565,75.8237512,OpenStreetMap
+P002,Unnamed,retail,26.9245244,75.8199589,OpenStreetMap
+P002,Unnamed,retail,26.925102,75.8238505,OpenStreetMap
+P002,Unnamed,retail,26.9174708,75.8183363,OpenStreetMap
+P002,A.K. Tailor,retail,26.9194862,75.8188687,OpenStreetMap
+P002,The Wheels,retail,26.9179572,75.8101968,OpenStreetMap
+P002,Honey Textiles,retail,26.9006708,75.8369992,OpenStreetMap
+P002,Ravi Textiles,retail,26.9005635,75.8369216,OpenStreetMap
+P002,SHIVAM SALES,retail,26.9805869,75.73864,OpenStreetMap
+P002,Jay Bhawani Namkeen Bhandar,food,26.9755036,75.7372481,OpenStreetMap
+P002,SRASH CAFE,food,26.9824941,75.7395953,OpenStreetMap
+P002,Royal Jewellers,retail,26.9825922,75.7391081,OpenStreetMap
+P002,Rathore Departmental Store,retail,26.9826252,75.7390055,OpenStreetMap
+P002,Shree Shyam car workshop and auto parts,retail,26.9821663,75.7389655,OpenStreetMap
+P002,Shri Shyam Sweets,food,26.9750245,75.7376813,OpenStreetMap
+P002,Satnam Bakery and Fast Food,retail,26.9726203,75.7248303,OpenStreetMap
+P002,Honey Textiles,retail,26.9007774,75.8370393,OpenStreetMap
+P002,Ravi Textiles,retail,26.900759,75.8370869,OpenStreetMap
+P002,Honey Textiles,retail,26.9007774,75.8370393,OpenStreetMap
+P002,Ravi Textorium,retail,26.8988807,75.8341648,OpenStreetMap
+P002,Royal Fashion,retail,26.8989028,75.8341785,OpenStreetMap
+P002,Decathlon,retail,26.8396507,75.7943047,OpenStreetMap
+P002,Unnamed,retail,26.9462065,75.7311349,OpenStreetMap
+P002,Sharma Cafe,food,26.964051,75.847085,OpenStreetMap
+P002,Pink City Treat Cafe,food,26.9192041,75.7958528,OpenStreetMap
+P002,McDonald's,food,26.9191598,75.797941,OpenStreetMap
+P002,Zudio,retail,26.9191845,75.7978378,OpenStreetMap
+P002,Xpose Tattoos,retail,26.9193248,75.7975136,OpenStreetMap
+P002,Bhagat Mishtan Bhandar,retail,26.9193414,75.7974257,OpenStreetMap
+P002,Ram Dalal Holidays,retail,26.9203294,75.7956703,OpenStreetMap
+P002,Domino's,food,26.9249215,75.7934745,OpenStreetMap
+P002,Jypore Jewelers,retail,26.9189962,75.7990141,OpenStreetMap
+P002,Mahindra,retail,26.9182234,75.8009254,OpenStreetMap
+P002,Puma,retail,26.9167649,75.8065535,OpenStreetMap
+P002,US Polo Association,retail,26.9167526,75.8066138,OpenStreetMap
+P002,Shankar Saree Centre,retail,26.916636,75.8216685,OpenStreetMap
+P002,Deepu Saree Emporium,retail,26.916628,75.8216968,OpenStreetMap
+P002,Shankar Saree Centre,retail,26.9166437,75.8216432,OpenStreetMap
+P002,Friends Saree Centre,retail,26.916643,75.8216047,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9175645,75.8020365,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9180857,75.8005607,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.9023793,75.847591,OpenStreetMap
+P002,Amer Road,highway,26.9264423,75.8293408,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.9424485,75.8487393,OpenStreetMap
+P002,Sawai Jai Singh Circle,highway,26.9261912,75.7930967,OpenStreetMap
+P002,Sawai Jai Singh Highway,highway,26.9272162,75.7913122,OpenStreetMap
+P002,Unnamed,highway,26.9231204,75.7932959,OpenStreetMap
+P002,Waterworks Road,highway,26.9353136,75.7853657,OpenStreetMap
+P002,Unnamed,highway,26.8791539,75.7695895,OpenStreetMap
+P002,Flyover,highway,26.8872993,75.7341628,OpenStreetMap
+P002,Motidungri Marg,highway,26.9159869,75.8171075,OpenStreetMap
+P002,Sawai Mansingh Road,highway,26.8837511,75.8008891,OpenStreetMap
+P002,Unnamed,highway,26.8785787,75.7168077,OpenStreetMap
+P002,Unnamed,highway,26.8787531,75.7480723,OpenStreetMap
+P002,GANDHI CIRCLE,highway,26.8844694,75.81247,OpenStreetMap
+P002,Unnamed,highway,26.8489265,75.8032161,OpenStreetMap
+P002,Calgiri Road,highway,26.8575366,75.8146919,OpenStreetMap
+P002,Unnamed,highway,26.859816,75.8064976,OpenStreetMap
+P002,Jawahar Circle,highway,26.8417994,75.8005701,OpenStreetMap
+P002,Unnamed,highway,26.8421869,75.8014166,OpenStreetMap
+P002,Unnamed,highway,26.840831,75.7962727,OpenStreetMap
+P002,Gandhi Marg,highway,26.8867466,75.8024611,OpenStreetMap
+P002,Unnamed,highway,26.9042326,75.8176297,OpenStreetMap
+P002,Unnamed,highway,26.9110655,75.8196112,OpenStreetMap
+P002,Unnamed,highway,26.9138295,75.8199879,OpenStreetMap
+P002,Unnamed,highway,26.9130478,75.819806,OpenStreetMap
+P002,Unnamed,highway,26.9157319,75.8204735,OpenStreetMap
+P002,Unnamed,highway,26.8985581,75.8009292,OpenStreetMap
+P002,Unnamed,highway,26.8968151,75.8044775,OpenStreetMap
+P002,Bhawani Singh Road,highway,26.89199,75.8144172,OpenStreetMap
+P002,Unnamed,highway,26.9014772,75.7947966,OpenStreetMap
+P002,Unnamed,highway,26.8625615,75.7974277,OpenStreetMap
+P002,New Sanganer Road,highway,26.9002816,75.7722983,OpenStreetMap
+P002,Station Road,highway,26.9211598,75.7954663,OpenStreetMap
+P002,Unnamed,highway,26.9213662,75.8348203,OpenStreetMap
+P002,Chhoti Chaupar,highway,26.9247612,75.8181581,OpenStreetMap
+P002,Tripolia Bazaar,highway,26.9235307,75.8238356,OpenStreetMap
+P002,Ramganj Bazaar,highway,26.9220096,75.8308817,OpenStreetMap
+P002,TeenMurti Circle,highway,26.8989926,75.8161827,OpenStreetMap
+P002,Unnamed,highway,26.8994894,75.812641,OpenStreetMap
+P002,Shanti Path,highway,26.8864376,75.8259119,OpenStreetMap
+P002,Unnamed,highway,26.8478609,75.821838,OpenStreetMap
+P002,Agra Jaipur Bikaner Bypass,highway,26.8898827,75.8700639,OpenStreetMap
+P002,Old Agra Jaipur Bikaner Road,highway,26.8920615,75.8676384,OpenStreetMap
+P002,Unnamed,highway,26.9515735,75.7043127,OpenStreetMap
+P002,Unnamed,highway,26.9023046,75.7933334,OpenStreetMap
+P002,Bais Godam Flyover,highway,26.9023774,75.7929439,OpenStreetMap
+P002,B2 Bypass,highway,26.8400057,75.7724468,OpenStreetMap
+P002,Unnamed,highway,26.8899558,75.819688,OpenStreetMap
+P002,Flyover,highway,26.9727305,75.7514754,OpenStreetMap
+P002,Flyover,highway,26.9845186,75.7595781,OpenStreetMap
+P002,Unnamed,highway,26.9525239,75.7338639,OpenStreetMap
+P002,Flyover,highway,26.9726644,75.7515589,OpenStreetMap
+P002,Gangauri Bazaar,highway,26.9267341,75.8189218,OpenStreetMap
+P002,Jai Lal Munshi Ka Rasta,highway,26.9291154,75.8147491,OpenStreetMap
+P002,Unnamed,highway,26.9390066,75.8011618,OpenStreetMap
+P002,Unnamed,highway,26.938114,75.8021318,OpenStreetMap
+P002,Powerhouse Road,highway,26.9332228,75.8028781,OpenStreetMap
+P002,Unnamed,highway,26.9394591,75.8015116,OpenStreetMap
+P002,Vidyadhar Nagar Road,highway,26.9424677,75.7997875,OpenStreetMap
+P002,Ram Mandir Road,highway,26.9224221,75.7861895,OpenStreetMap
+P002,Sirsi Road,highway,26.9232128,75.7126069,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.8917773,75.8727583,OpenStreetMap
+P002,Sujrapol Bazaar Road,highway,26.9199734,75.8408718,OpenStreetMap
+P002,Bikaner - Agra Road,highway,26.8388326,75.7953615,OpenStreetMap
+P002,Unnamed,highway,26.8406497,75.8325544,OpenStreetMap
+P002,Jagatpura Flyover,highway,26.8357476,75.8370976,OpenStreetMap
+P002,Kanwatia Circle,highway,26.945665,75.7983651,OpenStreetMap
+P002,Unnamed,highway,26.9008297,75.7956679,OpenStreetMap
+P002,Unnamed,highway,26.9005813,75.7962191,OpenStreetMap
+P002,Unnamed,highway,26.9007061,75.7962986,OpenStreetMap
+P002,Unnamed,highway,26.899504,75.798452,OpenStreetMap
+P002,Unnamed,highway,26.89964,75.7985682,OpenStreetMap
+P002,Sardar Patel Road,highway,26.9174123,75.8012076,OpenStreetMap
+P002,"Amer Road , JAIPUR",highway,26.9532769,75.8423217,OpenStreetMap
+P002,Amer Road,highway,26.9347378,75.8333039,OpenStreetMap
+P002,Amer Road,highway,26.9320516,75.8325508,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.9735814,75.8692722,OpenStreetMap
+P002,Unnamed,highway,26.9316045,75.8319217,OpenStreetMap
+P002,Acharya Shri Tulsi Setu,highway,26.9137592,75.7918608,OpenStreetMap
+P002,Acharya Shri Tulsi Setu,highway,26.9119442,75.7869845,OpenStreetMap
+P002,Gopalpura Bypass Road,highway,26.8676324,75.8057121,OpenStreetMap
+P002,JLN Marg Flyover,highway,26.8610799,75.8063885,OpenStreetMap
+P002,Bhaskar Flyover,highway,26.8650818,75.8011321,OpenStreetMap
+P002,JLN Marg Flyover,highway,26.8579923,75.8055827,OpenStreetMap
+P002,Tonk Road Flyover,highway,26.8763232,75.7982004,OpenStreetMap
+P002,Unnamed,highway,26.8630998,75.7931323,OpenStreetMap
+P002,Gopalpura Bypass Flyover,highway,26.8646259,75.7882988,OpenStreetMap
+P002,Tripolia Bazaar,highway,26.923941,75.8226909,OpenStreetMap
+P002,Sawai Mansingh Road,highway,26.8976003,75.8107596,OpenStreetMap
+P002,Unnamed,highway,26.8993868,75.8132308,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9160731,75.8196883,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9151199,75.8244491,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.916898,75.8161379,OpenStreetMap
+P002,Jhotwara Road flyover,highway,26.9420292,75.7663846,OpenStreetMap
+P002,Kalwad Road,highway,26.9428364,75.7605399,OpenStreetMap
+P002,Jhotwara Pulia,highway,26.9429481,75.7626272,OpenStreetMap
+P002,Unnamed,highway,26.9525662,75.7337624,OpenStreetMap
+P002,Unnamed,highway,26.9394401,75.7315603,OpenStreetMap
+P002,Flyover,highway,26.945827,75.7321388,OpenStreetMap
+P002,Flyover,highway,26.9458377,75.7320028,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.916547,75.8129352,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9151502,75.825069,OpenStreetMap
+P002,Unnamed,highway,26.9915041,75.7646164,OpenStreetMap
+P002,Flyover,highway,26.9978268,75.7709856,OpenStreetMap
+P002,Flyover,highway,26.9977937,75.7711011,OpenStreetMap
+P002,B2 Bypass,highway,26.8390057,75.7808129,OpenStreetMap
+P002,Ajmer Road,highway,26.8920005,75.7436232,OpenStreetMap
+P002,Flyover,highway,26.8863407,75.7322119,OpenStreetMap
+P002,Flyover,highway,26.9209178,75.730392,OpenStreetMap
+P002,Flyover,highway,26.9209315,75.7302462,OpenStreetMap
+P002,Unnamed,highway,26.9014161,75.7306543,OpenStreetMap
+P002,Flyover,highway,26.9320504,75.7308065,OpenStreetMap
+P002,Flyover,highway,26.9320259,75.7309352,OpenStreetMap
+P002,Unnamed,highway,26.8923158,75.7352369,OpenStreetMap
+P002,Unnamed,highway,26.9394598,75.7314304,OpenStreetMap
+P002,Unnamed,highway,26.889894,75.7362411,OpenStreetMap
+P002,Unnamed,highway,26.9259692,75.730638,OpenStreetMap
+P002,Unnamed,highway,26.9259872,75.7304991,OpenStreetMap
+P002,Unnamed,highway,26.8889795,75.7367045,OpenStreetMap
+P002,Unnamed,highway,26.8872344,75.7342216,OpenStreetMap
+P002,Flyover,highway,26.8889431,75.7363414,OpenStreetMap
+P002,Acharya Shri Tulsi Setu,highway,26.9120871,75.7869862,OpenStreetMap
+P002,Ajmer Road,highway,26.9145574,75.7939878,OpenStreetMap
+P002,Sikar Road,highway,26.9398666,75.779401,OpenStreetMap
+P002,Jhotwara Road flyover,highway,26.9407627,75.7712764,OpenStreetMap
+P002,Meera Marg,highway,26.936219,75.7915082,OpenStreetMap
+P002,Bais Godam Flyover,highway,26.9026477,75.789969,OpenStreetMap
+P002,Unnamed,highway,26.9026753,75.786633,OpenStreetMap
+P002,Bais Godam Flyover,highway,26.9028142,75.7868675,OpenStreetMap
+P002,Hawa sadak,highway,26.9025913,75.78651,OpenStreetMap
+P002,Hawa sadak,highway,26.902253,75.7805451,OpenStreetMap
+P002,Bais Godam Flyover,highway,26.9027018,75.7869202,OpenStreetMap
+P002,Unnamed,highway,26.9390444,75.7861219,OpenStreetMap
+P002,Meera Marg,highway,26.936065,75.7917745,OpenStreetMap
+P002,Ram Mandir Rd,highway,26.9274079,75.7848319,OpenStreetMap
+P002,Ram Mandir Road,highway,26.9273429,75.7849989,OpenStreetMap
+P002,Chandpol Bazaar,highway,26.9254151,75.8143874,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9167946,75.8168376,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9169185,75.8164415,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9152101,75.82507,OpenStreetMap
+P002,Agra Road,highway,26.9077306,75.8399682,OpenStreetMap
+P002,Jothwara Road,highway,26.9401269,75.7841661,OpenStreetMap
+P002,Unnamed,highway,26.9352666,75.7855654,OpenStreetMap
+P002,Unnamed,highway,26.9272382,75.8070737,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.9015517,75.8496226,OpenStreetMap
+P002,Old Agra Jaipur Bikaner Road,highway,26.897114,75.8593585,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.9017407,75.8501574,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.9013544,75.8523939,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.9019992,75.851038,OpenStreetMap
+P002,Agra Road,highway,26.9116558,75.8351171,OpenStreetMap
+P002,Agra Road,highway,26.9116225,75.8351095,OpenStreetMap
+P002,Agra Jaipur-Bikaner Road Underpass,highway,26.9036903,75.8448872,OpenStreetMap
+P002,Agra Road,highway,26.9091571,75.8381266,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9149386,75.8265819,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9140464,75.8302602,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9140796,75.8302677,OpenStreetMap
+P002,Unnamed,highway,26.951466,75.7051548,OpenStreetMap
+P002,Kalwad Road,highway,26.9450344,75.7380116,OpenStreetMap
+P002,Unnamed,highway,26.9989743,75.7728335,OpenStreetMap
+P002,Unnamed,highway,26.9966839,75.7683721,OpenStreetMap
+P002,Sikar Road,highway,26.9788866,75.7732232,OpenStreetMap
+P002,Jaipur Ajmer Road,highway,26.9966014,75.7690115,OpenStreetMap
+P002,Amer Road,highway,26.94077,75.8368136,OpenStreetMap
+P002,Amer Road,highway,26.9409136,75.8367935,OpenStreetMap
+P002,Unnamed,highway,26.9459291,75.8503303,OpenStreetMap
+P002,NH11,highway,26.8346613,75.7708637,OpenStreetMap
+P002,Unnamed,highway,26.8216278,75.7808141,OpenStreetMap
+P002,Amer Road,highway,26.9293216,75.8312346,OpenStreetMap
+P002,Jaipur Kishangarh Expressway,highway,26.8773519,75.7144129,OpenStreetMap
+P002,Jaipur Kishangarh Expressway,highway,26.873348,75.7039199,OpenStreetMap
+P002,Crystal Mall,retail,26.9232387,75.792862,OpenStreetMap
+P002,parking area near bus stand,food,26.9237098,75.8012964,OpenStreetMap
+P002,Laxmi Mandir Underpass,highway,26.8829163,75.7997027,OpenStreetMap
+P002,Unnamed,highway,26.8836586,75.7972746,OpenStreetMap
+P002,Unnamed,highway,26.9587055,75.789369,OpenStreetMap
+P002,Unnamed,highway,26.9660198,75.7730249,OpenStreetMap
+P002,Unnamed,highway,26.9586876,75.7891296,OpenStreetMap
+P002,Alka Circle,highway,26.9655254,75.7740676,OpenStreetMap
+P002,Unnamed,highway,26.9627506,75.7806633,OpenStreetMap
+P002,Unnamed,highway,26.9624436,75.7804869,OpenStreetMap
+P002,Unnamed,highway,26.9662197,75.77323,OpenStreetMap
+P002,Unnamed,highway,26.9595756,75.7868098,OpenStreetMap
+P002,Shanti Path,highway,26.8909559,75.8168238,OpenStreetMap
+P002,Unnamed,highway,26.8900438,75.819413,OpenStreetMap
+P002,JLN Marg,highway,26.895416,75.8153856,OpenStreetMap
+P002,Khatipura Road,highway,26.9277222,75.7485212,OpenStreetMap
+P002,Vidyadhar Nagar Road,highway,26.9564219,75.7922878,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9158164,75.8215668,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9166718,75.8168527,OpenStreetMap
+P002,Gopalpura Flyover,highway,26.8625205,75.7959572,OpenStreetMap
+P002,Unnamed,highway,26.8239806,75.7948832,OpenStreetMap
+P002,JLN Marg,highway,26.8633043,75.8069416,OpenStreetMap
+P002,JLN Marg,highway,26.8732921,75.8095203,OpenStreetMap
+P002,Gandhi Marg,highway,26.8801931,75.8166175,OpenStreetMap
+P002,Unnamed,highway,26.9494884,75.7625801,OpenStreetMap
+P002,Bais Godam Flyover,highway,26.9025593,75.7899333,OpenStreetMap
+P002,Bais Godam Flyover,highway,26.9024953,75.7930109,OpenStreetMap
+P002,Vidyadhar Nagar Road,highway,26.9498536,75.7961114,OpenStreetMap
+P002,Cafe Coffee Day,food,26.9117205,75.7440443,OpenStreetMap
+P002,Chandpol Bazaar,highway,26.9258482,75.8133185,OpenStreetMap
+P002,Khatipura Road,highway,26.9380574,75.758224,OpenStreetMap
+P002,Khatipura Road Flyover,highway,26.9343577,75.7542658,OpenStreetMap
+P002,Nice Cafe,food,26.9342754,75.8253565,OpenStreetMap
+P002,Annapurna Canteen,food,26.8632407,75.8106274,OpenStreetMap
+P002,Unnamed,highway,26.8397316,75.7780878,OpenStreetMap
+P002,Tonk Road Flyover Ramp,highway,26.840428,75.7939738,OpenStreetMap
+P002,Unnamed,highway,26.8409481,75.7963221,OpenStreetMap
+P002,Khasa Kothi Flyover,highway,26.9204931,75.7908383,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9194977,75.7971754,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9175665,75.8021777,OpenStreetMap
+P002,Mirza Ismael Road,highway,26.9231252,75.7935576,OpenStreetMap
+P002,B2 Bypass,highway,26.8401255,75.7721642,OpenStreetMap
+P002,Unnamed,highway,26.8216756,75.7811121,OpenStreetMap
+P002,Unnamed,highway,26.8392809,75.8333727,OpenStreetMap
+P002,Unnamed,highway,26.8447495,75.8294154,OpenStreetMap
+P002,JLN Marg,highway,26.8884953,75.8134278,OpenStreetMap
+P002,Unnamed,highway,26.9042672,75.817426,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.9023608,75.8437809,OpenStreetMap
+P002,Bhawani Singh Road,highway,26.8935104,75.8115142,OpenStreetMap
+P002,Ramganj Bazaar,highway,26.9221922,75.8309159,OpenStreetMap
+P002,Unnamed,highway,26.8911165,75.8168503,OpenStreetMap
+P002,Unnamed,highway,26.8901737,75.8193146,OpenStreetMap
+P002,JLN Marg,highway,26.879775,75.8113103,OpenStreetMap
+P002,Gopalpura Bypass Road,highway,26.867557,75.8055746,OpenStreetMap
+P002,Unnamed,highway,26.8624879,75.7975919,OpenStreetMap
+P002,Gopalpura Bypass,highway,26.8733523,75.7775027,OpenStreetMap
+P002,Bhaskar Flyover,highway,26.8671581,75.8033288,OpenStreetMap
+P002,Gopalpura Bypass Flyover,highway,26.8645622,75.7881969,OpenStreetMap
+P002,Bhaskar Flyover,highway,26.8649969,75.8012023,OpenStreetMap
+P002,Unnamed,highway,26.8801119,75.7665038,OpenStreetMap
+P002,Unnamed,highway,26.8796842,75.7560203,OpenStreetMap
+P002,Unnamed,highway,26.8797078,75.7443702,OpenStreetMap
+P002,Unnamed,highway,26.8796789,75.7668544,OpenStreetMap
+P002,Gopalpura Bypass Road,highway,26.8758874,75.7198327,OpenStreetMap
+P002,Gopalpura Bypass Road,highway,26.8759088,75.7197568,OpenStreetMap
+P002,Unnamed,highway,26.8865221,75.7385618,OpenStreetMap
+P002,Unnamed,highway,26.8864744,75.7383509,OpenStreetMap
+P002,Motidungri Marg,highway,26.8947648,75.8087117,OpenStreetMap
+P002,Gopalpura Flyover,highway,26.8647718,75.7962639,OpenStreetMap
+P002,Gopalpura Flyover,highway,26.862498,75.7960421,OpenStreetMap
+P002,Tonk Road,highway,26.8374102,75.7938992,OpenStreetMap
+P002,Durgapura Flyover,highway,26.8480825,75.7941791,OpenStreetMap
+P002,Gopalpura Flyover,highway,26.8595838,75.7956319,OpenStreetMap
+P002,Tonk Road,highway,26.8692026,75.7969408,OpenStreetMap
+P002,JLN Marg,highway,26.860879,75.8064222,OpenStreetMap
+P002,Unnamed,highway,26.867635,75.8220375,OpenStreetMap
+P002,Calgiri Road,highway,26.8593776,75.8089933,OpenStreetMap
+P002,Unnamed,highway,26.8523045,75.8041839,OpenStreetMap
+P002,Apex Circle,highway,26.8548854,75.8243634,OpenStreetMap
+P002,JLN Marg Flyover,highway,26.8585681,75.8058219,OpenStreetMap
+P002,Unnamed,highway,26.8572511,75.8238401,OpenStreetMap
+P002,Unnamed,highway,26.8607247,75.806791,OpenStreetMap
+P002,Unnamed,highway,26.9259396,75.8074228,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.8916761,75.8727459,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.9005758,75.8456685,OpenStreetMap
+P002,Gurjar Ki Thadi Underpass,highway,26.8799182,75.7672111,OpenStreetMap
+P002,Gurjar Ki Thadi Underpass,highway,26.8800987,75.7670536,OpenStreetMap
+P002,Unnamed,highway,26.8787465,75.7702824,OpenStreetMap
+P002,Unnamed,highway,26.8786769,75.7702556,OpenStreetMap
+P002,Gopalpura Bypass,highway,26.873618,75.777258,OpenStreetMap
+P002,Unnamed,highway,26.8790307,75.7696403,OpenStreetMap
+P002,Sirsi Road,highway,26.9218432,75.7239152,OpenStreetMap
+P002,Sirsi Road,highway,26.9218109,75.7239033,OpenStreetMap
+P002,Sirsi Road,highway,26.9210723,75.7413811,OpenStreetMap
+P002,Sirsi Road,highway,26.9211042,75.7415944,OpenStreetMap
+P002,Sirsi Road,highway,26.9212945,75.7274618,OpenStreetMap
+P002,Sirsi Road,highway,26.9204125,75.7353564,OpenStreetMap
+P002,Sirsi Road,highway,26.9204582,75.7353504,OpenStreetMap
+P002,Sirsi Road,highway,26.9222557,75.7432399,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.8974591,75.8480534,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.8944756,75.8529363,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.8951592,75.8610932,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.8947885,75.8531614,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.8950454,75.8610963,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.8941588,75.8589966,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.8938724,75.8588912,OpenStreetMap
+P002,Sirsi Road,highway,26.922676,75.7441563,OpenStreetMap
+P002,Tonk Road Flyover,highway,26.8763386,75.7981011,OpenStreetMap
+P002,Unnamed,highway,26.862998,75.7931566,OpenStreetMap
+P002,Bata,retail,26.9169618,75.8137728,OpenStreetMap
+P002,New Sanganer Road,highway,26.9002558,75.7722498,OpenStreetMap
+P002,Agra Jaipur-Bikaner Road Underpass,highway,26.9058716,75.8425903,OpenStreetMap
+P002,Gandhi Marg,highway,26.8801263,75.8165509,OpenStreetMap
+P002,Jamwa Ramgarh Road Flyover,highway,26.9023722,75.8436676,OpenStreetMap
+P002,Jamwa Ramgarh Road Flyover,highway,26.904716,75.8448969,OpenStreetMap
+P002,New Rambah Road,highway,26.946347,75.8506543,OpenStreetMap
+P002,Unnamed,highway,26.9054967,75.8455157,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.8910176,75.8383762,OpenStreetMap
+P002,Galta Road,highway,26.9183104,75.8489397,OpenStreetMap
+P002,Unnamed,highway,26.8795513,75.7504865,OpenStreetMap
+P002,Unnamed,highway,26.8795669,75.749107,OpenStreetMap
+P002,Unnamed,highway,26.8826878,75.7411544,OpenStreetMap
+P002,Unnamed,highway,26.880489,75.742734,OpenStreetMap
+P002,Unnamed,highway,26.8793513,75.7490073,OpenStreetMap
+P002,Durgapura Flyover,highway,26.8480973,75.7940771,OpenStreetMap
+P002,Jaipur - Jodhpur Highway,highway,26.838728,75.7881602,OpenStreetMap
+P002,Flyover,highway,26.8270988,75.7770877,OpenStreetMap
+P002,Flyover,highway,26.8270356,75.7770262,OpenStreetMap
+P002,Bikaner - Agra Road,highway,26.8391598,75.7960433,OpenStreetMap
+P002,Jaipur Road,highway,26.9789488,75.7734105,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.8997786,75.8437628,OpenStreetMap
+P002,Unnamed,highway,26.9009041,75.8441785,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.9005602,75.8435669,OpenStreetMap
+P002,80 Ft Road,highway,26.8717933,75.7433712,OpenStreetMap
+P002,80 Ft Road,highway,26.8718751,75.7433457,OpenStreetMap
+P002,Unnamed,highway,26.8604385,75.8060086,OpenStreetMap
+P002,Unnamed,highway,26.8619803,75.756077,OpenStreetMap
+P002,Ajmer Road,highway,26.8992122,75.7668308,OpenStreetMap
+P002,Ajmer Road,highway,26.8986753,75.7605346,OpenStreetMap
+P002,Ajmer Road,highway,26.8985268,75.7607156,OpenStreetMap
+P002,Ajmer Road,highway,26.9011052,75.7708322,OpenStreetMap
+P002,Ajmer Road,highway,26.907825,75.7811806,OpenStreetMap
+P002,Ajmer Road,highway,26.9081227,75.7815126,OpenStreetMap
+P002,Acharya Shri Tulsi Setu,highway,26.9052923,75.7762758,OpenStreetMap
+P002,Acharya Shri Tulsi Setu,highway,26.904672,75.773353,OpenStreetMap
+P002,Ajmer Road,highway,26.8989154,75.7660071,OpenStreetMap
+P002,Ajmer Road,highway,26.8985103,75.7640652,OpenStreetMap
+P002,Ajmer Road,highway,26.8986378,75.7640497,OpenStreetMap
+P002,Ajmer Road,highway,26.8925095,75.7442493,OpenStreetMap
+P002,Unnamed,highway,26.8478585,75.7421513,OpenStreetMap
+P002,Vande Mataram Road,highway,26.8519627,75.7392244,OpenStreetMap
+P002,Vande Mataram Road,highway,26.8545978,75.737042,OpenStreetMap
+P002,Unnamed,highway,26.8460268,75.7648284,OpenStreetMap
+P002,Khasa Kothi Flyover,highway,26.9209861,75.7940701,OpenStreetMap
+P002,Khasa Kothi Flyover,highway,26.9214819,75.7968174,OpenStreetMap
+P002,Khasa Kothi Flyover,highway,26.920911,75.7941191,OpenStreetMap
+P002,Unnamed,highway,26.9203263,75.7930875,OpenStreetMap
+P002,Waterworks Road,highway,26.9316116,75.7847652,OpenStreetMap
+P002,Unnamed,highway,26.8698774,75.7320069,OpenStreetMap
+P002,B2 Bypass,highway,26.8396049,75.7781087,OpenStreetMap
+P002,B2 Bypass Road,highway,26.8390976,75.7826731,OpenStreetMap
+P002,Unnamed,highway,26.8394395,75.7797503,OpenStreetMap
+P002,80 Ft Road,highway,26.8714056,75.7343277,OpenStreetMap
+P002,Unnamed,highway,26.8657715,75.7308694,OpenStreetMap
+P002,Unnamed,highway,26.8666456,75.7324606,OpenStreetMap
+P002,Vande Mataram Road,highway,26.8632743,75.730892,OpenStreetMap
+P002,Tonk Road,highway,26.8325756,75.7939188,OpenStreetMap
+P002,Flyover,highway,26.9954884,75.7673967,OpenStreetMap
+P002,Flyover,highway,26.9954673,75.7672597,OpenStreetMap
+P002,Jaipur Sikar Road,highway,26.9981504,75.7704403,OpenStreetMap
+P002,Unnamed,highway,26.9983271,75.7705462,OpenStreetMap
+P002,Ajmer Road,highway,26.8980489,75.7552812,OpenStreetMap
+P002,Unnamed,highway,26.8888629,75.7363102,OpenStreetMap
+P002,Unnamed,highway,26.8378909,75.8342966,OpenStreetMap
+P002,City Pulse Mall,retail,26.899798,75.8135192,OpenStreetMap
+P002,Pink Square Mall,retail,26.903032,75.8365788,OpenStreetMap
+P002,Unnamed,highway,26.9673106,75.7456356,OpenStreetMap
+P002,Agra Bikaner Road,highway,26.9672358,75.7457334,OpenStreetMap
+P002,Flyover,highway,26.9593045,75.7356563,OpenStreetMap
+P002,Flyover,highway,26.9592344,75.7357388,OpenStreetMap
+P002,Unnamed,highway,26.9394264,75.8013213,OpenStreetMap
+P002,Unnamed,highway,26.9771193,75.7548463,OpenStreetMap
+P002,Unnamed,highway,26.9830639,75.7589027,OpenStreetMap
+P002,Sikar Road,highway,26.9495109,75.7724729,OpenStreetMap
+P002,Unnamed,highway,26.9808976,75.7569073,OpenStreetMap
+P002,Unnamed,highway,26.9728926,75.7519756,OpenStreetMap
+P002,Unnamed,highway,26.9701744,75.7531931,OpenStreetMap
+P002,Unnamed,highway,26.9689979,75.7539326,OpenStreetMap
+P002,Unnamed,highway,26.9668787,75.7552066,OpenStreetMap
+P002,Unnamed,highway,26.9668771,75.7553357,OpenStreetMap
+P002,Vidyadhar Nagar Road,highway,26.9543166,75.7937067,OpenStreetMap
+P002,Vidyadhar Nagar Road,highway,26.9496194,75.7961258,OpenStreetMap
+P002,Unnamed,highway,26.9267227,75.8189913,OpenStreetMap
+P002,Unnamed,highway,26.9901182,75.7637589,OpenStreetMap
+P002,Unnamed,highway,26.9747258,75.7526439,OpenStreetMap
+P002,Unnamed,highway,26.9723849,75.7516516,OpenStreetMap
+P002,Unnamed,highway,26.9724306,75.7516519,OpenStreetMap
+P002,Dadi Ka Phatak Flyover,highway,26.9619549,75.7574637,OpenStreetMap
+P002,Benad Road,highway,26.9585081,75.758811,OpenStreetMap
+P002,Unnamed,highway,26.9652517,75.7562864,OpenStreetMap
+P002,Unnamed,highway,26.9292822,75.788557,OpenStreetMap
+P002,Sawai Jai Singh Highway,highway,26.9298557,75.7876079,OpenStreetMap
+P002,Khasa Kothi Flyover,highway,26.9204157,75.7908539,OpenStreetMap
+P002,Station Road,highway,26.9203372,75.7896529,OpenStreetMap
+P002,Unnamed,highway,26.9232622,75.7453451,OpenStreetMap
+P002,Unnamed,highway,26.929356,75.8308077,OpenStreetMap
+P002,surajmal ravindra kumar jewellers,retail,26.9238415,75.818493,OpenStreetMap
+P002,Tonk Road,highway,26.829707,75.794422,OpenStreetMap
+P002,Tonk Road,highway,26.835755,75.7938775,OpenStreetMap
+P002,Tonk Road,highway,26.8361267,75.7938879,OpenStreetMap
+P002,Tonk Road,highway,26.8373568,75.7937733,OpenStreetMap
+P002,Tonk Road,highway,26.83587,75.7937611,OpenStreetMap
+P002,Unnamed,retail,26.9010922,75.7834378,OpenStreetMap
+P002,Unnamed,highway,26.9229445,75.8264785,OpenStreetMap
+P002,JLN Marg Flyover,highway,26.8562968,75.8052348,OpenStreetMap
+P002,Ajmer Road,highway,26.8970411,75.7532714,OpenStreetMap
+P002,Unnamed,highway,26.8460716,75.7645898,OpenStreetMap
+P002,Muhana Mandi Road,highway,26.8412837,75.7614302,OpenStreetMap
+P002,Ajmer Road,highway,26.8986599,75.7574989,OpenStreetMap
+P002,Unnamed,highway,26.8793549,75.7461319,OpenStreetMap
+P002,Unnamed,highway,26.8793667,75.7499306,OpenStreetMap
+P002,Unnamed,highway,26.862442,75.7562507,OpenStreetMap
+P002,Sardar Patel Road,highway,26.9174247,75.8010964,OpenStreetMap
+P002,Ajmer Road,highway,26.9158608,75.7979964,OpenStreetMap
+P002,Unnamed,highway,26.9169501,75.8007958,OpenStreetMap
+P002,Unnamed,highway,26.8791575,75.7484827,OpenStreetMap
+P002,Narayan Singh Road,highway,26.8992549,75.8137258,OpenStreetMap
+P002,Sawai Mansingh Road,highway,26.9161951,75.8170611,OpenStreetMap
+P002,Sawai Mansingh Road,highway,26.9140345,75.8164863,OpenStreetMap
+P002,Church road,highway,26.9174026,75.7994133,OpenStreetMap
+P002,Ajmer Road,highway,26.9163894,75.7989066,OpenStreetMap
+P002,Ajmer Road,highway,26.9166103,75.7997587,OpenStreetMap
+P002,Unnamed,highway,26.8796671,75.7539781,OpenStreetMap
+P002,Unnamed,highway,26.8799426,75.7592059,OpenStreetMap
+P002,Unnamed,highway,26.923026,75.8015083,OpenStreetMap
+P002,Unnamed,highway,26.924948,75.8055184,OpenStreetMap
+P002,Station Road,highway,26.9222801,75.7986978,OpenStreetMap
+P002,Station Road,highway,26.9215694,75.7970681,OpenStreetMap
+P002,Ajmer Road,highway,26.9033483,75.7750509,OpenStreetMap
+P002,Station Road,highway,26.9209843,75.7955381,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9192488,75.7970467,OpenStreetMap
+P002,Sansar Chandra Road,highway,26.9178966,75.8012794,OpenStreetMap
+P002,Ajmer Road,highway,26.9031415,75.7747412,OpenStreetMap
+P002,Station Road,highway,26.9204797,75.7898122,OpenStreetMap
+P002,Unnamed,highway,26.9202218,75.7891724,OpenStreetMap
+P002,Unnamed,highway,26.9406196,75.7712687,OpenStreetMap
+P002,Jhotwara Road flyover,highway,26.9410646,75.7702316,OpenStreetMap
+P002,Jhotwara Road flyover,highway,26.9418884,75.766641,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9181125,75.8007789,OpenStreetMap
+P002,New Sanganer Road,highway,26.900731,75.773678,OpenStreetMap
+P002,New Sanganer Road,highway,26.8896707,75.7694549,OpenStreetMap
+P002,New Sanganer Road,highway,26.889584,75.7695968,OpenStreetMap
+P002,Flyover,highway,26.9425594,75.7657895,OpenStreetMap
+P002,Flyover,highway,26.9425768,75.7657138,OpenStreetMap
+P002,Unnamed,highway,26.9411392,75.7615112,OpenStreetMap
+P002,Ajmer Road,highway,26.9156251,75.7970735,OpenStreetMap
+P002,Unnamed,highway,26.8453582,75.8024409,OpenStreetMap
+P002,Unnamed,highway,26.8489222,75.8032791,OpenStreetMap
+P002,Kalwad Road,highway,26.9447752,75.7406979,OpenStreetMap
+P002,Unnamed,highway,26.9459188,75.7314025,OpenStreetMap
+P002,Unnamed,highway,26.8657009,75.7310556,OpenStreetMap
+P002,80 Ft Road,highway,26.8714572,75.7343277,OpenStreetMap
+P002,Unnamed,highway,26.8698843,75.732083,OpenStreetMap
+P002,Unnamed,highway,26.8713321,75.7371028,OpenStreetMap
+P002,Unnamed,highway,26.8351557,75.8432615,OpenStreetMap
+P002,Agra Jaipur Bikaner Bypass,highway,26.886265,75.8698157,OpenStreetMap
+P002,Agra Jaipur Bikaner Bypass,highway,26.8863152,75.8697601,OpenStreetMap
+P002,Green Leaf Cafe,food,26.8481857,75.7683043,OpenStreetMap
+P002,Benad Road,highway,26.9856681,75.7417641,OpenStreetMap
+P002,Vande Mataram Road,highway,26.8584971,75.7344015,OpenStreetMap
+P002,Unnamed,highway,26.8613977,75.7321327,OpenStreetMap
+P002,Vande Mataram Road,highway,26.8448401,75.7445195,OpenStreetMap
+P002,Vande Mataram Road,highway,26.8446798,75.7443675,OpenStreetMap
+P002,Benad Road,highway,26.9584581,75.7589729,OpenStreetMap
+P002,Benad Road,highway,26.9608647,75.7577589,OpenStreetMap
+P002,Unnamed,highway,26.9607976,75.7578611,OpenStreetMap
+P002,Benad Road,highway,26.956262,75.7599813,OpenStreetMap
+P002,Dadi Ka Phatak Flyover,highway,26.9619031,75.7575913,OpenStreetMap
+P002,Unnamed,highway,26.9652128,75.7561997,OpenStreetMap
+P002,Unnamed,highway,26.8796844,75.7620401,OpenStreetMap
+P002,Unnamed,highway,26.8795282,75.7620578,OpenStreetMap
+P002,Unnamed,highway,26.8797682,75.7631095,OpenStreetMap
+P002,Unnamed,highway,26.8799221,75.7630731,OpenStreetMap
+P002,Vande Mataram Road,highway,26.8631871,75.7307209,OpenStreetMap
+P002,Unnamed,highway,26.8419163,75.8117903,OpenStreetMap
+P002,Underpass,highway,26.8438401,75.8174598,OpenStreetMap
+P002,Underpass,highway,26.8437669,75.8175357,OpenStreetMap
+P002,Unnamed,highway,26.8418568,75.812033,OpenStreetMap
+P002,Unnamed,highway,26.8404423,75.8035283,OpenStreetMap
+P002,Unnamed,highway,26.8408103,75.8034023,OpenStreetMap
+P002,Unnamed,highway,26.8409567,75.8060661,OpenStreetMap
+P002,Unnamed,highway,26.9178292,75.8013179,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.917797,75.8014067,OpenStreetMap
+P002,Unnamed,highway,26.9168926,75.8008401,OpenStreetMap
+P002,Unnamed,retail,26.9510938,75.8007411,OpenStreetMap
+P002,Unnamed,highway,26.8899354,75.8192739,OpenStreetMap
+P002,Unnamed,highway,26.8900426,75.8197174,OpenStreetMap
+P002,Unnamed,highway,26.8900683,75.8191571,OpenStreetMap
+P002,Khatipura Road,highway,26.940739,75.7613664,OpenStreetMap
+P002,Jagatpura Flyover,highway,26.8356992,75.8370107,OpenStreetMap
+P002,Khatipura Road,highway,26.9230439,75.7452181,OpenStreetMap
+P002,Tonk Road Flyover,highway,26.818746,75.79734,OpenStreetMap
+P002,Tonk Road Flyover,highway,26.8187954,75.7972384,OpenStreetMap
+P002,Sirsi Road,highway,26.9209237,75.7305292,OpenStreetMap
+P002,Agra Jaipur-Bikaner Road Underpass,highway,26.904721,75.8438848,OpenStreetMap
+P002,Agra Jaipur-Bikaner Road Underpass,highway,26.904776,75.8439439,OpenStreetMap
+P002,Unnamed,highway,26.8760488,75.8206185,OpenStreetMap
+P002,Unnamed,highway,26.8756159,75.8207063,OpenStreetMap
+P002,Unnamed,highway,26.9979309,75.7700315,OpenStreetMap
+P002,Unnamed,highway,26.9686702,75.754092,OpenStreetMap
+P002,Unnamed,highway,26.8362715,75.7584414,OpenStreetMap
+P002,Unnamed,highway,26.8335017,75.7566529,OpenStreetMap
+P002,Unnamed,highway,26.8676524,75.8219277,OpenStreetMap
+P002,Unnamed,highway,26.8400392,75.7938314,OpenStreetMap
+P002,Tonk Road,highway,26.8410831,75.7936462,OpenStreetMap
+P002,Tonk Road,highway,26.8558106,75.7950996,OpenStreetMap
+P002,Tonk Road,highway,26.8559166,75.7949885,OpenStreetMap
+P002,B2 Bypass,highway,26.8393128,75.7797228,OpenStreetMap
+P002,Unnamed,highway,26.832434,75.7538055,OpenStreetMap
+P002,Unnamed,highway,26.8322806,75.7535892,OpenStreetMap
+P002,Unnamed,highway,26.8858845,75.8062003,OpenStreetMap
+P002,Gandhi Marg Circle,highway,26.8856442,75.807392,OpenStreetMap
+P002,Gandhi Marg,highway,26.8851458,75.8099914,OpenStreetMap
+P002,Unnamed,highway,26.8863778,75.8037837,OpenStreetMap
+P002,Gangauri Bazaar,highway,26.9300652,75.8197617,OpenStreetMap
+P002,Unnamed,highway,26.9269359,75.8082865,OpenStreetMap
+P002,RJ 14,food,26.8951713,75.7505953,OpenStreetMap
+P002,Volkswagen,retail,26.855435,75.7946831,OpenStreetMap
+P002,BMW,retail,26.8558164,75.7946517,OpenStreetMap
+P002,Unnamed,highway,26.8803839,75.7425976,OpenStreetMap
+P002,TeenMurti Circle,highway,26.898824,75.81618,OpenStreetMap
+P002,Ajmer Road,highway,26.8971843,75.7549532,OpenStreetMap
+P002,Ajmer Road,highway,26.9013316,75.771684,OpenStreetMap
+P002,Unnamed,highway,26.9019668,75.7933429,OpenStreetMap
+P002,Unnamed,highway,26.898223,75.801115,OpenStreetMap
+P002,Bhawani Singh Road,highway,26.8972401,75.8031116,OpenStreetMap
+P002,Sawai Mansingh Road,highway,26.8948189,75.8085918,OpenStreetMap
+P002,Nirwan Marg,highway,26.9400162,75.782182,OpenStreetMap
+P002,Nirwan Marg,highway,26.9398396,75.7779486,OpenStreetMap
+P002,Jothwara Road,highway,26.9400314,75.784297,OpenStreetMap
+P002,Sikar Road,highway,26.9400834,75.7821031,OpenStreetMap
+P002,Ambabari Shopping Complex,retail,26.9407229,75.7780276,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9166657,75.8172372,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9155054,75.8224249,OpenStreetMap
+P002,Agra Jaipur-Bikaner Road Underpass,highway,26.9058537,75.8427712,OpenStreetMap
+P002,Unnamed,highway,26.902905,75.8441938,OpenStreetMap
+P002,Unnamed,highway,26.9007278,75.8438856,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.8995721,75.8473108,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.8976522,75.8482589,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.9004987,75.8455911,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.8994678,75.8471256,OpenStreetMap
+P002,Unnamed,highway,26.9017042,75.7938314,OpenStreetMap
+P002,Unnamed,highway,26.8356147,75.8357507,OpenStreetMap
+P002,Ganga marg,highway,26.8376179,75.833528,OpenStreetMap
+P002,Suvidha Kendra,retail,26.9238549,75.7626983,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.9387998,75.8469628,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.9171291,75.8470632,OpenStreetMap
+P002,Unnamed,highway,26.8937661,75.7342784,OpenStreetMap
+P002,Gopalpura Flyover,highway,26.86476,75.796363,OpenStreetMap
+P002,Tonk Road,highway,26.8970016,75.8104553,OpenStreetMap
+P002,Unnamed,highway,26.8996042,75.8123705,OpenStreetMap
+P002,Sirsi Road,highway,26.9225713,75.7443918,OpenStreetMap
+P002,Khatipura Road,highway,26.9234156,75.7452837,OpenStreetMap
+P002,Unnamed,highway,26.9020535,75.7935351,OpenStreetMap
+P002,Bhawani Singh Road,highway,26.8947335,75.8086014,OpenStreetMap
+P002,Motidungri Marg,highway,26.8909997,75.8057271,OpenStreetMap
+P002,Motidungri Marg,highway,26.9086545,75.8154349,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9163953,75.8180442,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.9074909,75.8402749,OpenStreetMap
+P002,"Jamwa Ramgarh Road , JAIPUR",highway,26.9086509,75.8459283,OpenStreetMap
+P002,Unnamed,highway,26.8985816,75.8005944,OpenStreetMap
+P002,Unnamed,highway,26.8983043,75.8008,OpenStreetMap
+P002,Station Road,highway,26.9244252,75.8035785,OpenStreetMap
+P002,Unnamed,highway,26.9225717,75.800176,OpenStreetMap
+P002,Station Road,highway,26.9220766,75.7986328,OpenStreetMap
+P002,Unnamed,highway,26.895055,75.8082,OpenStreetMap
+P002,Sawai Mansingh Road,highway,26.9045433,75.8138885,OpenStreetMap
+P002,Agra Road,highway,26.9066695,75.8416294,OpenStreetMap
+P002,Hide out cafe,food,26.8472168,75.8603008,OpenStreetMap
+P002,Unnamed,food,26.847155,75.8600609,OpenStreetMap
+P002,Unnamed,retail,26.8513317,75.8631602,OpenStreetMap
+P002,Grocery,retail,26.8511974,75.8632314,OpenStreetMap
+P002,Khan car Repair,retail,26.8443435,75.8546955,OpenStreetMap
+P002,Agra Jaipur Bikaner Bypass,highway,26.8696891,75.8620866,OpenStreetMap
+P002,Unnamed,retail,26.8372287,75.8336759,OpenStreetMap
+P002,Unnamed,highway,26.8375559,75.8334531,OpenStreetMap
+P002,Flyover,highway,26.9125691,75.7878937,OpenStreetMap
+P002,Flyover,highway,26.9130387,75.7892413,OpenStreetMap
+P002,Acharya Shri Tulsi Setu,highway,26.9138827,75.7918355,OpenStreetMap
+P002,Flyover,highway,26.9129308,75.789269,OpenStreetMap
+P002,Flyover,highway,26.9124951,75.7879155,OpenStreetMap
+P002,Akar hero,retail,26.9153434,75.795736,OpenStreetMap
+P002,Saras Dairy,retail,26.9018314,75.7365719,OpenStreetMap
+P002,6 Ten Store,retail,26.9020448,75.7390508,OpenStreetMap
+P002,Unnamed,retail,26.9015952,75.7390553,OpenStreetMap
+P002,Unnamed,highway,26.9028833,75.7746573,OpenStreetMap
+P002,Unnamed,highway,26.9029497,75.7750732,OpenStreetMap
+P002,Sankalp Tower,retail,26.9209344,75.7532601,OpenStreetMap
+P002,Sugar Berry,retail,26.8989805,75.733749,OpenStreetMap
+P002,Saras Dairy,retail,26.9021084,75.7387878,OpenStreetMap
+P002,Rangoli Plaza,retail,26.9090544,75.7122797,OpenStreetMap
+P002,Flyover,highway,26.8908796,75.7359592,OpenStreetMap
+P002,Unnamed,highway,26.9013882,75.7305275,OpenStreetMap
+P002,Flyover,highway,26.8951757,75.7335224,OpenStreetMap
+P002,Flyover,highway,26.8952206,75.7336571,OpenStreetMap
+P002,Unnamed,highway,26.8937128,75.7344402,OpenStreetMap
+P002,Unnamed,highway,26.8795547,75.7481461,OpenStreetMap
+P002,Unnamed,food,26.9027796,75.7409262,OpenStreetMap
+P002,Decked Up By Garden Café,food,26.9136135,75.7526771,OpenStreetMap
+P002,Regus,retail,26.8396226,75.7946634,OpenStreetMap
+P002,Motidungri Marg,highway,26.9022725,75.8135784,OpenStreetMap
+P002,Bhawani Singh Road,highway,26.8920788,75.8142443,OpenStreetMap
+P002,JLN Marg,highway,26.892081,75.8143724,OpenStreetMap
+P002,Bhawani Singh Road,highway,26.8921142,75.814448,OpenStreetMap
+P002,JLN Marg,highway,26.8954619,75.8152132,OpenStreetMap
+P002,JLN Marg,highway,26.8920233,75.8144928,OpenStreetMap
+P002,JLN Marg,highway,26.8884511,75.8135683,OpenStreetMap
+P002,Bhawani Singh Road,highway,26.8934229,75.8113958,OpenStreetMap
+P002,Crown Square,retail,26.9048819,75.7447141,OpenStreetMap
+P002,Ganpati Tower,retail,26.9192378,75.7993555,OpenStreetMap
+P002,Unnamed,highway,26.8795347,75.7466937,OpenStreetMap
+P002,Amer Road,highway,26.9298959,75.8319518,OpenStreetMap
+P002,Chandpole,railway,26.9262352,75.8077587,OpenStreetMap
+P002,Flyover,highway,26.8922129,75.7352306,OpenStreetMap
+P002,Unnamed,highway,26.8905184,75.7362161,OpenStreetMap
+P002,Amer Road,highway,26.9264931,75.8288233,OpenStreetMap
+P002,Ajmer Road,highway,26.8985397,75.7589487,OpenStreetMap
+P002,Roshan Hyundai,retail,26.8984121,75.7665765,OpenStreetMap
+P002,Jaipur Kishangarh Expressway,highway,26.883358,75.7262745,OpenStreetMap
+P002,Unnamed,highway,26.8862934,75.7322102,OpenStreetMap
+P002,Gopalpura Flyover,highway,26.8597189,75.7955609,OpenStreetMap
+P002,Tonk Road,highway,26.8692,75.7968405,OpenStreetMap
+P002,Badi Chaupar,highway,26.923188,75.8269176,OpenStreetMap
+P002,Badi Chaupar,highway,26.9227509,75.8268109,OpenStreetMap
+P002,Badi Chaupar,highway,26.9231213,75.8270606,OpenStreetMap
+P002,Badi Chaupar,highway,26.9231586,75.8267353,OpenStreetMap
+P002,Elevated Hawa Sadak,highway,26.9020683,75.78207,OpenStreetMap
+P002,Elevated Hawa Sadak,highway,26.902091,75.7861808,OpenStreetMap
+P002,Unnamed,highway,26.9922266,75.7648846,OpenStreetMap
+P002,Reliance Super Market,retail,26.9908023,75.7734906,OpenStreetMap
+P002,METRO Supermarket,retail,26.9874403,75.7740647,OpenStreetMap
+P002,Crossland Tata Motors,retail,26.9882753,75.7735631,OpenStreetMap
+P002,Crossland Ford,retail,26.9881031,75.7741552,OpenStreetMap
+P002,Prem Motors (Maruti Suzuki ARENA),retail,26.9842578,75.7746107,OpenStreetMap
+P002,Roshan Hyundai,retail,26.9742927,75.7727795,OpenStreetMap
+P002,City Plaza Mall,retail,26.9354229,75.7917601,OpenStreetMap
+P002,Sansar Chandra Road,highway,26.9261323,75.8081333,OpenStreetMap
+P002,Station Road,highway,26.9262629,75.8072494,OpenStreetMap
+P002,Station Road,highway,26.9268372,75.8079637,OpenStreetMap
+P002,Chhoti Chaupar,highway,26.9245232,75.8187079,OpenStreetMap
+P002,Chhoti Chaupar,highway,26.9246849,75.8187473,OpenStreetMap
+P002,Chhoti Chaupar,highway,26.9248531,75.8184522,OpenStreetMap
+P002,Chhoti Chaupar,highway,26.9246881,75.8181401,OpenStreetMap
+P002,Chhoti Chaupar,highway,26.9245084,75.818397,OpenStreetMap
+P002,Badi Chaupar,highway,26.9229426,75.8271023,OpenStreetMap
+P002,Badi Chaupar,highway,26.9229911,75.8266216,OpenStreetMap
+P002,Unnamed,highway,26.9210296,75.8350229,OpenStreetMap
+P002,Unnamed,highway,26.9213482,75.8350392,OpenStreetMap
+P002,Unnamed,highway,26.9210828,75.8351272,OpenStreetMap
+P002,Unnamed,highway,26.9210999,75.8348122,OpenStreetMap
+P002,Unnamed,highway,26.9212592,75.8347078,OpenStreetMap
+P002,Galta Road,highway,26.9190117,75.8454215,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.9368415,75.8475016,OpenStreetMap
+P002,Unnamed,food,26.917982,75.7878793,OpenStreetMap
+P002,Green Leaf,retail,26.8716651,75.7978379,OpenStreetMap
+P002,New Ramgarh Road,highway,26.9461089,75.8400859,OpenStreetMap
+P002,Amer Road,highway,26.9547801,75.8431452,OpenStreetMap
+P002,Amer Road,highway,26.9785257,75.860766,OpenStreetMap
+P002,Amer Road,highway,26.9463207,75.840129,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.9728756,75.8691759,OpenStreetMap
+P002,Unnamed,retail,26.9419661,75.8481503,OpenStreetMap
+P002,Unnamed,retail,26.9421656,75.8482746,OpenStreetMap
+P002,Motidungri Marg,highway,26.8866945,75.8025078,OpenStreetMap
+P002,Gandhi Marg,highway,26.8862017,75.8051193,OpenStreetMap
+P002,Sawai Mansingh Road,highway,26.8927971,75.8068468,OpenStreetMap
+P002,Sawai Mansingh Road,highway,26.8867237,75.8023759,OpenStreetMap
+P002,Unnamed,highway,26.8866715,75.8024225,OpenStreetMap
+P002,Motidungri Marg,highway,26.8829452,75.8007255,OpenStreetMap
+P002,JLN Marg,highway,26.8733408,75.8096491,OpenStreetMap
+P002,JLN Marg,highway,26.8798204,75.8111933,OpenStreetMap
+P002,Jawahar Circle,highway,26.839578,75.8002243,OpenStreetMap
+P002,Jawahar Circle,highway,26.8392234,75.8029887,OpenStreetMap
+P002,Jawahar Circle,highway,26.8406948,75.8031958,OpenStreetMap
+P002,Underpass,highway,26.8442818,75.81801,OpenStreetMap
+P002,Unnamed,highway,26.8508616,75.8250429,OpenStreetMap
+P002,Unnamed,highway,26.8410343,75.8060568,OpenStreetMap
+P002,Unnamed,highway,26.841326,75.8086671,OpenStreetMap
+P002,Underpass,highway,26.8433407,75.8168366,OpenStreetMap
+P002,Unnamed,highway,26.8425109,75.815409,OpenStreetMap
+P002,Unnamed,highway,26.8425085,75.8156474,OpenStreetMap
+P002,Underpass,highway,26.8442058,75.8180848,OpenStreetMap
+P002,Unnamed,food,26.9237285,75.7623152,OpenStreetMap
+P002,Unnamed,highway,26.8826101,75.740998,OpenStreetMap
+P002,Ajmer Road,highway,26.8987061,75.7586678,OpenStreetMap
+P002,Jhotwara Road,highway,26.9403316,75.7731519,OpenStreetMap
+P002,Unnamed,highway,26.9401413,75.7733998,OpenStreetMap
+P002,Jawahar Circle,highway,26.8380707,75.8024419,OpenStreetMap
+P002,Jawahar Circle,highway,26.8378892,75.8021517,OpenStreetMap
+P002,Jawahar Circle,highway,26.8403582,75.8033217,OpenStreetMap
+P002,Velocity Yamaha,retail,26.9093545,75.7296152,OpenStreetMap
+P002,Calgiri Road,highway,26.855287,75.8224356,OpenStreetMap
+P002,Calgiri Road,highway,26.8554052,75.8224278,OpenStreetMap
+P002,JLN Marg,highway,26.8669226,75.8078656,OpenStreetMap
+P002,Gopalpura Bypass Road,highway,26.8677219,75.8079613,OpenStreetMap
+P002,JLN Marg,highway,26.8632537,75.8070584,OpenStreetMap
+P002,Sansthan Path,highway,26.8677484,75.8081581,OpenStreetMap
+P002,JLN Marg,highway,26.8681777,75.8081972,OpenStreetMap
+P002,JLN Marg,highway,26.8708741,75.8088835,OpenStreetMap
+P002,JLN Marg,highway,26.8692671,75.8086036,OpenStreetMap
+P002,JLN Marg,highway,26.8710947,75.8090549,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.8996664,75.8435429,OpenStreetMap
+P002,Shanti Path,highway,26.8823509,75.83247,OpenStreetMap
+P002,Shanti Path,highway,26.8827157,75.8320967,OpenStreetMap
+P002,Shanti Path,highway,26.8826749,75.8321108,OpenStreetMap
+P002,Shanti Path,highway,26.8824547,75.8323819,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.8794081,75.8267682,OpenStreetMap
+P002,Bhawani Singh Road,highway,26.8955239,75.8068401,OpenStreetMap
+P002,Unnamed,highway,26.9010066,75.8437963,OpenStreetMap
+P002,Unnamed,highway,26.9010756,75.8440583,OpenStreetMap
+P002,Ajmer Road,highway,26.9145933,75.7944205,OpenStreetMap
+P002,Bhaskar Flyover,highway,26.8672343,75.8032475,OpenStreetMap
+P002,Saras Parlour,retail,26.8666132,75.801778,OpenStreetMap
+P002,Tonk Road Flyover,highway,26.8791239,75.7989229,OpenStreetMap
+P002,Tonk Road Flyover,highway,26.8791472,75.7988088,OpenStreetMap
+P002,Sawai Mansingh Road,highway,26.9108528,75.8157156,OpenStreetMap
+P002,Sawai Jai Singh Circle,highway,26.9260598,75.7923374,OpenStreetMap
+P002,Sawai Jai Singh Circle,highway,26.9267231,75.7924522,OpenStreetMap
+P002,Unnamed,highway,26.9265969,75.7922544,OpenStreetMap
+P002,Sawai Jai Singh Circle,highway,26.9255389,75.7928008,OpenStreetMap
+P002,Flyover,highway,26.9435094,75.7653308,OpenStreetMap
+P002,Lata Circle,highway,26.9429037,75.7623134,OpenStreetMap
+P002,Lata Circle,highway,26.9427818,75.7623301,OpenStreetMap
+P002,Unnamed,highway,26.9427758,75.7625473,OpenStreetMap
+P002,Jhotwara Road flyover,highway,26.9410928,75.7697352,OpenStreetMap
+P002,Jhotwara Road flyover,highway,26.9426881,75.7633086,OpenStreetMap
+P002,Kalwad Road,highway,26.9431218,75.7562439,OpenStreetMap
+P002,Unnamed,highway,26.9428044,75.760004,OpenStreetMap
+P002,Lata Circle,highway,26.9427613,75.7621847,OpenStreetMap
+P002,Kalwad Road,highway,26.943619,75.7493751,OpenStreetMap
+P002,Kalwad Road,highway,26.9436994,75.7493846,OpenStreetMap
+P002,Vidyadhar Nagar Road,highway,26.957925,75.7913765,OpenStreetMap
+P002,Vidyadhar Nagar Road,highway,26.9577196,75.7915048,OpenStreetMap
+P002,Unnamed,highway,26.9564823,75.7924081,OpenStreetMap
+P002,Unnamed,highway,26.957803,75.7916178,OpenStreetMap
+P002,Saras Dairy - 11517,retail,26.9012176,75.7807973,OpenStreetMap
+P002,Ram Nagar,railway,26.901763,75.7746501,OpenStreetMap
+P002,Unnamed,highway,26.8786234,75.7702192,OpenStreetMap
+P002,Unnamed,highway,26.878264,75.7709004,OpenStreetMap
+P002,Reliance Fresh,retail,26.8738077,75.7770484,OpenStreetMap
+P002,Car World,retail,26.8817475,75.7692021,OpenStreetMap
+P002,Elevated Hawa Sadak,highway,26.9009636,75.7946951,OpenStreetMap
+P002,Elevated Hawa Sadak,highway,26.9020076,75.7904577,OpenStreetMap
+P002,Elevated Hawa Sadak,highway,26.9019111,75.7928165,OpenStreetMap
+P002,Elevated Hawa Sadak,highway,26.9020801,75.7904481,OpenStreetMap
+P002,Bais Godam Flyover,highway,26.9022146,75.793083,OpenStreetMap
+P002,Unnamed,highway,26.9020433,75.7931387,OpenStreetMap
+P002,Unnamed,highway,26.8648386,75.7296137,OpenStreetMap
+P002,Vande Mataram Road,highway,26.8412244,75.7468916,OpenStreetMap
+P002,Vande Mataram Road,highway,26.8404873,75.7476549,OpenStreetMap
+P002,Vande Mataram Road,highway,26.83735,75.749727,OpenStreetMap
+P002,Unnamed,highway,26.8340786,75.7523059,OpenStreetMap
+P002,Vande Mataram Road,highway,26.8366033,75.7504951,OpenStreetMap
+P002,Unnamed,highway,26.8393513,75.7603069,OpenStreetMap
+P002,Unnamed,highway,26.844581,75.7636254,OpenStreetMap
+P002,Unnamed,highway,26.8426675,75.7622363,OpenStreetMap
+P002,Gopalpura Bypass,highway,26.878292,75.7709218,OpenStreetMap
+P002,Motidungri Marg,highway,26.8993765,75.8122875,OpenStreetMap
+P002,Khatipura Road Flyover,highway,26.942404,75.7633395,OpenStreetMap
+P002,Khatipura Road,highway,26.9319446,75.7518055,OpenStreetMap
+P002,Khatipura Road Flyover,highway,26.9343245,75.7543496,OpenStreetMap
+P002,Khatipura Road,highway,26.9380121,75.7582914,OpenStreetMap
+P002,Khatipura Road,highway,26.9319525,75.751871,OpenStreetMap
+P002,Unnamed,highway,26.898326,75.8011694,OpenStreetMap
+P002,Sawai Mansingh Road,highway,26.895171,75.8088871,OpenStreetMap
+P002,Unnamed,highway,26.9007181,75.8441981,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9151138,75.8246366,OpenStreetMap
+P002,Unnamed,highway,26.9168414,75.8161665,OpenStreetMap
+P002,Sarathi,retail,26.896957,75.7845297,OpenStreetMap
+P002,Agra Jaipur Bikaner Bypass,highway,26.8482434,75.8552756,OpenStreetMap
+P002,Unnamed,highway,26.8696891,75.862096,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.9276869,75.8449899,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.9229614,75.8469382,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.9277072,75.8451093,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.9331914,75.8458802,OpenStreetMap
+P002,Sirsi Road,highway,26.9236178,75.6914522,OpenStreetMap
+P002,Sirsi Road,highway,26.9216759,75.6772667,OpenStreetMap
+P002,Vande Mataram Road,highway,26.8648595,75.7294768,OpenStreetMap
+P002,Vande Mataram Road,highway,26.8649481,75.7296504,OpenStreetMap
+P002,Unnamed,highway,26.8528896,75.8246736,OpenStreetMap
+P002,Unnamed,highway,26.849347,75.8260072,OpenStreetMap
+P002,Old Agra Jaipur Bikaner Road,highway,26.8902796,75.8722076,OpenStreetMap
+P002,Old Agra Jaipur Bikaner Road,highway,26.890236,75.8722423,OpenStreetMap
+P002,Vidyadhar Nagar Road,highway,26.9424933,75.7999022,OpenStreetMap
+P002,Agra Jaipur Bikaner Bypass,highway,26.8817914,75.8685678,OpenStreetMap
+P002,Agra Jaipur Bikaner Bypass,highway,26.8791238,75.8681179,OpenStreetMap
+P002,Agra Jaipur Bikaner Bypass,highway,26.8818415,75.8685391,OpenStreetMap
+P002,Vidyadhar Nagar Road,highway,26.9542748,75.7936025,OpenStreetMap
+P002,Unnamed,highway,26.9388048,75.7859453,OpenStreetMap
+P002,Unnamed,highway,26.9708308,75.7525664,OpenStreetMap
+P002,Unnamed,highway,26.929185,75.8317608,OpenStreetMap
+P002,Flyover,highway,26.9844502,75.7597045,OpenStreetMap
+P002,Unnamed,highway,26.9790258,75.755948,OpenStreetMap
+P002,Unnamed,highway,26.9915327,75.7644863,OpenStreetMap
+P002,Unnamed,highway,26.9790906,75.7558354,OpenStreetMap
+P002,Unnamed,highway,26.9147652,75.8202129,OpenStreetMap
+P002,Unnamed,highway,26.9157461,75.8203854,OpenStreetMap
+P002,Unnamed,highway,26.9159736,75.8204165,OpenStreetMap
+P002,Unnamed,highway,26.9385772,75.8017923,OpenStreetMap
+P002,Powerhouse Road,highway,26.9360797,75.8031247,OpenStreetMap
+P002,Powerhouse Road,highway,26.9370725,75.8026308,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.9013413,75.843737,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9152089,75.8246379,OpenStreetMap
+P002,Sansar Chandra Road,highway,26.9178545,75.8014022,OpenStreetMap
+P002,Amer Road,highway,26.9293911,75.8317728,OpenStreetMap
+P002,Unnamed,highway,26.9293813,75.8318161,OpenStreetMap
+P002,Sujrapol Bazaar Road,highway,26.9211417,75.8354998,OpenStreetMap
+P002,Unnamed,highway,26.9110796,75.8190551,OpenStreetMap
+P002,Sujrapol Bazaar Road,highway,26.9210371,75.8354764,OpenStreetMap
+P002,Sujrapol Bazaar Road,highway,26.9208509,75.8366132,OpenStreetMap
+P002,Galta Road,highway,26.9192377,75.8443968,OpenStreetMap
+P002,Galta Road,highway,26.9199501,75.8409125,OpenStreetMap
+P002,Galta Road,highway,26.9185595,75.8476397,OpenStreetMap
+P002,"Galta Road , JAIPUR",highway,26.9185262,75.8476391,OpenStreetMap
+P002,Unnamed,highway,26.9169556,75.8009265,OpenStreetMap
+P002,Sardar Patel Road,highway,26.9169851,75.8010247,OpenStreetMap
+P002,Unnamed,highway,26.8993487,75.8131319,OpenStreetMap
+P002,Unnamed,highway,26.9202604,75.7889358,OpenStreetMap
+P002,Unnamed,highway,26.8226648,75.7951819,OpenStreetMap
+P002,Unnamed,highway,26.8227533,75.7952657,OpenStreetMap
+P002,Sirsi Road,highway,26.9229739,75.7451042,OpenStreetMap
+P002,new cafe jagatpura,food,26.8363406,75.8271557,OpenStreetMap
+P002,hanuman rastorent,food,26.8357356,75.82805,OpenStreetMap
+P002,Unnamed,food,26.8383914,75.8271871,OpenStreetMap
+P002,sheter ki thdi,food,26.8396295,75.8248358,OpenStreetMap
+P002,Unnamed,food,26.8626392,75.7962873,OpenStreetMap
+P002,Unnamed,food,26.8628748,75.7956866,OpenStreetMap
+P002,INDIRA RASOI,food,26.8358664,75.8315161,OpenStreetMap
+P002,DMart,retail,26.8863607,75.7986306,OpenStreetMap
+P002,Jaipur Kishangarh Expressway,highway,26.8795505,75.7186899,OpenStreetMap
+P002,Jaipur Kishangarh Expressway,highway,26.8785547,75.7167275,OpenStreetMap
+P002,Tonk Road,highway,26.8541188,75.7948522,OpenStreetMap
+P002,Tonk Road,highway,26.8584523,75.79536,OpenStreetMap
+P002,Tonk Road,highway,26.8576811,75.7953739,OpenStreetMap
+P002,Unnamed,highway,26.8391734,75.8332364,OpenStreetMap
+P002,Unnamed,highway,26.9294193,75.7883088,OpenStreetMap
+P002,Unnamed,highway,26.8478365,75.8219908,OpenStreetMap
+P002,Unnamed,highway,26.8509322,75.8248464,OpenStreetMap
+P002,Unnamed,highway,26.8461684,75.828491,OpenStreetMap
+P002,Unnamed,highway,26.8529794,75.8244713,OpenStreetMap
+P002,Unnamed,highway,26.8508833,75.8249625,OpenStreetMap
+P002,Hilton Exit Flyover Ramp,highway,26.9015062,75.7834931,OpenStreetMap
+P002,Elevated Hawa Sadak,highway,26.9008832,75.7958685,OpenStreetMap
+P002,Elevated Hawa Sadak,highway,26.8990725,75.7994899,OpenStreetMap
+P002,Unnamed,highway,26.8842503,75.739826,OpenStreetMap
+P002,Jawahar Circle,highway,26.8414269,75.802385,OpenStreetMap
+P002,B2 Bypass Road,highway,26.8391432,75.7921111,OpenStreetMap
+P002,Bikaner - Agra Road,highway,26.8393949,75.7982802,OpenStreetMap
+P002,Unnamed,highway,26.8420622,75.7937189,OpenStreetMap
+P002,Saras Dairy Booth,retail,26.878604,75.8055596,OpenStreetMap
+P002,Tonk Road,highway,26.838868,75.793745,OpenStreetMap
+P002,Mansarovar Metro Station,railway,26.8795673,75.7503413,OpenStreetMap
+P002,Unnamed,highway,26.9270012,75.8078964,OpenStreetMap
+P002,Sawai Mansingh Road,highway,26.8887977,75.8037726,OpenStreetMap
+P002,JLN Marg,highway,26.8656646,75.8075429,OpenStreetMap
+P002,JLN Marg,highway,26.866472,75.807906,OpenStreetMap
+P002,Unnamed,highway,26.923574,75.8239483,OpenStreetMap
+P002,Jaipur Kishangarh Expressway,highway,26.8745878,75.7060756,OpenStreetMap
+P002,Jaipur Kishangarh Expressway,highway,26.8835553,75.7264208,OpenStreetMap
+P002,Jaipur Kishangarh Expressway,highway,26.8786663,75.7166883,OpenStreetMap
+P002,Acharya Shri Tulsi Setu,highway,26.8979592,75.7551548,OpenStreetMap
+P002,Acharya Shri Tulsi Setu,highway,26.8984849,75.7591577,OpenStreetMap
+P002,Acharya Shri Tulsi Setu,highway,26.8985652,75.7626922,OpenStreetMap
+P002,Ajmer Road,highway,26.898646,75.762776,OpenStreetMap
+P002,Ajmer Road,highway,26.8985065,75.7628024,OpenStreetMap
+P002,Elevated Hawa Sadak,highway,26.9014544,75.7810475,OpenStreetMap
+P002,Elevated Hawa Sadak,highway,26.9014689,75.7818108,OpenStreetMap
+P002,Unnamed,highway,26.9008208,75.7960839,OpenStreetMap
+P002,Elevated Hawa Sadak,highway,26.9011984,75.7951747,OpenStreetMap
+P002,Elevated Hawa Sadak,highway,26.8993924,75.7988956,OpenStreetMap
+P002,Jaipur Road,highway,26.9499094,75.7726401,OpenStreetMap
+P002,Unnamed,highway,26.9211874,75.8351568,OpenStreetMap
+P002,Galta Road,highway,26.9182344,75.8489399,OpenStreetMap
+P002,Unnamed,highway,26.9402178,75.7735723,OpenStreetMap
+P002,Meera Marg,highway,26.9280828,75.8052354,OpenStreetMap
+P002,Unnamed,highway,26.9236999,75.8033655,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9178664,75.8015094,OpenStreetMap
+P002,Sansar Chandra Road,highway,26.9265141,75.8085668,OpenStreetMap
+P002,Meera Marg,highway,26.9308797,75.8006199,OpenStreetMap
+P002,Unnamed,highway,26.9391975,75.8019431,OpenStreetMap
+P002,Kanwatia Circle,highway,26.9453915,75.7983582,OpenStreetMap
+P002,Kanwatia Circle,highway,26.945894,75.7981315,OpenStreetMap
+P002,Kanwatia Circle,highway,26.9456214,75.798111,OpenStreetMap
+P002,Unnamed,highway,26.9596396,75.7870531,OpenStreetMap
+P002,Alka Circle,highway,26.9658414,75.7742165,OpenStreetMap
+P002,Unnamed,highway,26.9665621,75.7723131,OpenStreetMap
+P002,Jaipur Road,highway,26.9687437,75.7725003,OpenStreetMap
+P002,Jaipur Road,highway,26.962893,75.7719853,OpenStreetMap
+P002,Sikar Road,highway,26.9686329,75.7723001,OpenStreetMap
+P002,Sikar Road,highway,26.9625023,75.7717746,OpenStreetMap
+P002,Alka Circle,highway,26.9657623,75.7739551,OpenStreetMap
+P002,Alka Circle,highway,26.9656192,75.7743334,OpenStreetMap
+P002,Unnamed,highway,26.9593592,75.7868377,OpenStreetMap
+P002,Unnamed,highway,26.9594254,75.787065,OpenStreetMap
+P002,Unnamed,highway,26.939316,75.8014989,OpenStreetMap
+P002,Unnamed,highway,26.9384855,75.801096,OpenStreetMap
+P002,Meera Marg,highway,26.9309333,75.8004326,OpenStreetMap
+P002,Unnamed,highway,26.9258016,75.8077447,OpenStreetMap
+P002,Motidungri Marg,highway,26.9138276,75.8165357,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9165378,75.817915,OpenStreetMap
+P002,Badi Chaupar,highway,26.922772,75.8269928,OpenStreetMap
+P002,Unnamed,highway,26.9292082,75.8317232,OpenStreetMap
+P002,Unnamed,highway,26.9228224,75.8266628,OpenStreetMap
+P002,Jaipur Road,highway,26.9923707,75.77198,OpenStreetMap
+P002,Ganga marg,highway,26.8361595,75.8350924,OpenStreetMap
+P002,Ganga marg,highway,26.8362324,75.8347959,OpenStreetMap
+P002,Sikar Road,highway,26.9923366,75.771806,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.906469,75.8417758,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9204303,75.7941183,OpenStreetMap
+P002,Waterworks Road,highway,26.9318859,75.7848104,OpenStreetMap
+P002,Unnamed,highway,26.9403753,75.7735802,OpenStreetMap
+P002,Kalwad Road,highway,26.9454644,75.7349476,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.9489802,75.8566405,OpenStreetMap
+P002,Gopalpura Bypass Flyover,highway,26.866154,75.7857102,OpenStreetMap
+P002,B2 Bypass,highway,26.8398701,75.7768321,OpenStreetMap
+P002,NH11,highway,26.8428031,75.766203,OpenStreetMap
+P002,Flyover,highway,26.8279898,75.7757597,OpenStreetMap
+P002,Flyover,highway,26.8280448,75.7758331,OpenStreetMap
+P002,Unnamed,highway,26.8340783,75.7715795,OpenStreetMap
+P002,B2 Bypass,highway,26.8394615,75.7678223,OpenStreetMap
+P002,B2 Bypass,highway,26.8397307,75.7770431,OpenStreetMap
+P002,Gopalpura Bypass Flyover,highway,26.8662239,75.785803,OpenStreetMap
+P002,Gopalpura Bypass,highway,26.8679106,75.7844819,OpenStreetMap
+P002,Gopalpura Bypass,highway,26.867799,75.7843951,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.9485346,75.856256,OpenStreetMap
+P002,Unnamed,highway,26.94607,75.850403,OpenStreetMap
+P002,Unnamed,highway,26.9461167,75.8503195,OpenStreetMap
+P002,Unnamed,highway,26.9460348,75.8502549,OpenStreetMap
+P002,New Ramgarh Road,highway,26.9459682,75.8400587,OpenStreetMap
+P002,Station Road,highway,26.9216748,75.7970004,OpenStreetMap
+P002,Station Road,highway,26.9205277,75.7913469,OpenStreetMap
+P002,Unnamed,highway,26.9203549,75.7912961,OpenStreetMap
+P002,Station Road,highway,26.9205925,75.79334,OpenStreetMap
+P002,Gandhi Marg Circle,highway,26.8857077,75.8073445,OpenStreetMap
+P002,Unnamed,highway,26.850915,75.8247268,OpenStreetMap
+P002,Unnamed,highway,26.8405624,75.8324722,OpenStreetMap
+P002,Unnamed,highway,26.8360985,75.8349908,OpenStreetMap
+P002,Unnamed,highway,26.8360555,75.8353087,OpenStreetMap
+P002,Unnamed,highway,26.8360801,75.8352433,OpenStreetMap
+P002,Jagatpura Flyover,highway,26.8392386,75.8335163,OpenStreetMap
+P002,Apex Circle,highway,26.8548932,75.8241816,OpenStreetMap
+P002,Unnamed,highway,26.8572128,75.8239875,OpenStreetMap
+P002,GANDHI CIRCLE,highway,26.8845211,75.8127729,OpenStreetMap
+P002,GANDHI CIRCLE,highway,26.8847727,75.8125005,OpenStreetMap
+P002,Gandhi Marg Circle,highway,26.8857086,75.8074173,OpenStreetMap
+P002,Gandhi Marg,highway,26.8866952,75.8026988,OpenStreetMap
+P002,Motidungri Marg,highway,26.8870123,75.8026611,OpenStreetMap
+P002,Vidyadhar Nagar Road,highway,26.9461061,75.7980773,OpenStreetMap
+P002,Tripolia Bazaar,highway,26.9242956,75.8199963,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9172934,75.8028201,OpenStreetMap
+P002,Unnamed,highway,26.9872073,75.7612857,OpenStreetMap
+P002,Unnamed,highway,26.9850876,75.7598157,OpenStreetMap
+P002,Sawai Mansingh Road,highway,26.8799842,75.7991131,OpenStreetMap
+P002,Sawai Mansingh Road,highway,26.8807651,75.7994029,OpenStreetMap
+P002,Tonk Road,highway,26.8389673,75.7938697,OpenStreetMap
+P002,Bikaner - Agra Road,highway,26.8389561,75.7977532,OpenStreetMap
+P002,Unnamed,highway,26.8833313,75.7984676,OpenStreetMap
+P002,Laxmi Mandir Underpass,highway,26.8815164,75.8000222,OpenStreetMap
+P002,Laxmi Mandir Underpass,highway,26.8819048,75.8002078,OpenStreetMap
+P002,Laxmi Mandir Underpass,highway,26.8820904,75.8003044,OpenStreetMap
+P002,Unnamed,highway,26.9402388,75.773907,OpenStreetMap
+P002,Sikar Road,highway,26.9401963,75.7757557,OpenStreetMap
+P002,Jhotwara Road flyover,highway,26.9403866,75.7755106,OpenStreetMap
+P002,Jhotwara Road flyover,highway,26.9397006,75.7810976,OpenStreetMap
+P002,Hawa sadak,highway,26.9019808,75.7806872,OpenStreetMap
+P002,Ajmer Road,highway,26.9148273,75.7948794,OpenStreetMap
+P002,JLN Marg,highway,26.8695547,75.8085463,OpenStreetMap
+P002,Coloroots,retail,26.8695082,75.8082529,OpenStreetMap
+P002,Sirsi Road,highway,26.9233951,75.7147426,OpenStreetMap
+P002,Amer Road,highway,26.9608321,75.8451378,OpenStreetMap
+P002,clothes line,retail,26.9235951,75.8245531,OpenStreetMap
+P002,Unnamed,highway,26.8334435,75.7567523,OpenStreetMap
+P002,Underpass,highway,26.8390816,75.7945757,OpenStreetMap
+P002,Underpass,highway,26.8389547,75.793864,OpenStreetMap
+P002,Unnamed,highway,26.9159461,75.8205496,OpenStreetMap
+P002,Unnamed,highway,26.9095959,75.8189608,OpenStreetMap
+P002,Unnamed,highway,26.9096314,75.8188045,OpenStreetMap
+P002,Unnamed,highway,26.9180289,75.7299799,OpenStreetMap
+P002,Flyover,highway,26.9151899,75.7297124,OpenStreetMap
+P002,Unnamed,highway,26.9180212,75.7301281,OpenStreetMap
+P002,Flyover,highway,26.9151965,75.7298619,OpenStreetMap
+P002,Kalwad Road,highway,26.9451281,75.7376199,OpenStreetMap
+P002,Chandpol Bazaar,highway,26.9263655,75.8096547,OpenStreetMap
+P002,Unnamed,highway,26.8427698,75.7664136,OpenStreetMap
+P002,Unnamed,highway,26.8460878,75.764901,OpenStreetMap
+P002,Unnamed,highway,26.9721092,75.7509895,OpenStreetMap
+P002,Benad Road,highway,26.9674375,75.7540842,OpenStreetMap
+P002,Benad Road,highway,26.972326,75.7510624,OpenStreetMap
+P002,Agra Jaipur Bikaner Bypass,highway,26.8394488,75.851704,OpenStreetMap
+P002,Agra Jaipur Bikaner Bypass,highway,26.8431542,75.8533457,OpenStreetMap
+P002,Unnamed,highway,26.8431542,75.8533457,OpenStreetMap
+P002,Unnamed,highway,26.9955103,75.7672269,OpenStreetMap
+P002,Unnamed,highway,26.9026907,75.7867317,OpenStreetMap
+P002,Unnamed,highway,26.8555123,75.8562187,OpenStreetMap
+P002,Agra Jaipur Bikaner Bypass,highway,26.8555123,75.8561642,OpenStreetMap
+P002,Agra Jaipur Bikaner Bypass,highway,26.8598152,75.8558039,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.9511793,75.8622117,OpenStreetMap
+P002,Unnamed,highway,26.9203892,75.7938513,OpenStreetMap
+P002,Unnamed,highway,26.9630409,75.8722017,OpenStreetMap
+P002,Unnamed,highway,26.9637555,75.8736358,OpenStreetMap
+P002,Unnamed,highway,26.9609721,75.8677293,OpenStreetMap
+P002,Unnamed,highway,26.9619326,75.8696778,OpenStreetMap
+P002,Unnamed,highway,26.9626471,75.8711119,OpenStreetMap
+P002,Unnamed,highway,26.8411879,75.7937923,OpenStreetMap
+P002,Unnamed,highway,26.8408647,75.7938125,OpenStreetMap
+P002,Tonk Road Flyover Ramp,highway,26.83675,75.7940501,OpenStreetMap
+P002,Unnamed,highway,26.839273,75.7935045,OpenStreetMap
+P002,Tonk Road,highway,26.8392776,75.7937325,OpenStreetMap
+P002,Jaipur - Jodhpur Highway,highway,26.8389463,75.7831452,OpenStreetMap
+P002,Jaipur - Jodhpur Highway,highway,26.8388541,75.7851069,OpenStreetMap
+P002,B2 Bypass Road,highway,26.8388256,75.7880551,OpenStreetMap
+P002,B2 Bypass Road,highway,26.8389148,75.7851308,OpenStreetMap
+P002,Jagatpura Flyover,highway,26.8323835,75.8405935,OpenStreetMap
+P002,Jagatpura Flyover,highway,26.8324406,75.8406682,OpenStreetMap
+P002,Jagatpura Flyover,highway,26.8322454,75.84079,OpenStreetMap
+P002,Jagatpura Flyover,highway,26.8323075,75.8408651,OpenStreetMap
+P002,Jagatpura Flyover,highway,26.8396156,75.8333029,OpenStreetMap
+P002,Jagatpura Flyover,highway,26.8389281,75.833573,OpenStreetMap
+P002,Unnamed,highway,26.8556318,75.8050669,OpenStreetMap
+P002,JLN Marg Flyover,highway,26.8557538,75.8050928,OpenStreetMap
+P002,JLN Marg Flyover,highway,26.8555414,75.8049262,OpenStreetMap
+P002,JLN Marg Flyover,highway,26.8605931,75.8062789,OpenStreetMap
+P002,JLN Marg Flyover,highway,26.860405,75.8062938,OpenStreetMap
+P002,Bhaskar Flyover,highway,26.8629306,75.7990638,OpenStreetMap
+P002,Bhaskar Flyover,highway,26.862854,75.7991483,OpenStreetMap
+P002,Gopalpura Flyover,highway,26.8588376,75.795428,OpenStreetMap
+P002,Gopalpura Flyover,highway,26.8586854,75.7955101,OpenStreetMap
+P002,Durgapura Flyover,highway,26.8534669,75.7946443,OpenStreetMap
+P002,Durgapura Flyover,highway,26.8533648,75.7947496,OpenStreetMap
+P002,Durgapura Flyover,highway,26.8427584,75.793662,OpenStreetMap
+P002,Durgapura Flyover,highway,26.8427614,75.7935662,OpenStreetMap
+P002,Tonk Road Flyover,highway,26.8735696,75.7974153,OpenStreetMap
+P002,Tonk Road Flyover,highway,26.8735694,75.7975076,OpenStreetMap
+P002,Gopalpura Bypass Flyover,highway,26.8670567,75.7851453,OpenStreetMap
+P002,Gopalpura Bypass Flyover,highway,26.8669374,75.785087,OpenStreetMap
+P002,Gopalpura Bypass Flyover,highway,26.8636769,75.7901691,OpenStreetMap
+P002,Gopalpura Bypass Flyover,highway,26.863749,75.7903111,OpenStreetMap
+P002,Dadi Ka Phatak Flyover,highway,26.9649903,75.7563154,OpenStreetMap
+P002,Dadi Ka Phatak Flyover,highway,26.9650375,75.7563907,OpenStreetMap
+P002,Dadi Ka Phatak Flyover,highway,26.9587976,75.7587765,OpenStreetMap
+P002,Dadi Ka Phatak Flyover,highway,26.9589185,75.7586082,OpenStreetMap
+P002,Khatipura Road Flyover,highway,26.9365677,75.7565689,OpenStreetMap
+P002,Khatipura Road Flyover,highway,26.9321319,75.7519502,OpenStreetMap
+P002,Khatipura Road Flyover,highway,26.932132,75.7520695,OpenStreetMap
+P002,Khatipura Road Flyover,highway,26.9365127,75.7566269,OpenStreetMap
+P002,Khasa Kothi Flyover,highway,26.9204886,75.7900973,OpenStreetMap
+P002,Khasa Kothi Flyover,highway,26.9215645,75.7967359,OpenStreetMap
+P002,Khasa Kothi Flyover,highway,26.9204036,75.790113,OpenStreetMap
+P002,Flyover,highway,26.8285156,75.7753845,OpenStreetMap
+P002,Flyover,highway,26.8284045,75.7753533,OpenStreetMap
+P002,Flyover,highway,26.8256894,75.7785149,OpenStreetMap
+P002,Flyover,highway,26.8256547,75.7784446,OpenStreetMap
+P002,Flyover,highway,26.8245324,75.7791939,OpenStreetMap
+P002,Flyover,highway,26.8245008,75.7791292,OpenStreetMap
+P002,Flyover,highway,26.8247398,75.7790089,OpenStreetMap
+P002,Flyover,highway,26.8247529,75.7790822,OpenStreetMap
+P002,Tonk Road Flyover Ramp,highway,26.8399047,75.7939482,OpenStreetMap
+P002,Tonk Road Flyover Ramp,highway,26.8391218,75.7939307,OpenStreetMap
+P002,Tonk Road Flyover Ramp,highway,26.8391923,75.7936933,OpenStreetMap
+P002,Tonk Road Flyover Ramp,highway,26.8380702,75.7939626,OpenStreetMap
+P002,Tonk Road Flyover Ramp,highway,26.8378867,75.793728,OpenStreetMap
+P002,Tonk Road Flyover,highway,26.821402,75.7954718,OpenStreetMap
+P002,Tonk Road Flyover,highway,26.8213357,75.7955919,OpenStreetMap
+P002,Flyover,highway,26.9443849,75.7649154,OpenStreetMap
+P002,Jhotwara Road flyover,highway,26.9427564,75.7627939,OpenStreetMap
+P002,Khatipura Road,highway,26.9420452,75.7628508,OpenStreetMap
+P002,Khatipura Road Flyover,highway,26.9421334,75.7629316,OpenStreetMap
+P002,Jhotwara Road flyover,highway,26.9404892,75.7722031,OpenStreetMap
+P002,Sikar Road,highway,26.9398621,75.7815703,OpenStreetMap
+P002,Acharya Shri Tulsi Setu,highway,26.9143934,75.7934452,OpenStreetMap
+P002,Acharya Shri Tulsi Setu,highway,26.9142834,75.7934626,OpenStreetMap
+P002,Flyover,highway,26.9124168,75.7874994,OpenStreetMap
+P002,Flyover,highway,26.9123465,75.7875384,OpenStreetMap
+P002,Acharya Shri Tulsi Setu,highway,26.8999261,75.7688553,OpenStreetMap
+P002,Acharya Shri Tulsi Setu,highway,26.8975344,75.7542553,OpenStreetMap
+P002,Hilton Exit Flyover Ramp,highway,26.9014715,75.7832286,OpenStreetMap
+P002,Jamwa Ramgarh Road Flyover,highway,26.9064038,75.8461312,OpenStreetMap
+P002,Jamwa Ramgarh Road Flyover,highway,26.9065824,75.8462396,OpenStreetMap
+P002,Jamwa Ramgarh Road,highway,26.9011795,75.8439076,OpenStreetMap
+P002,Jamwa Ramgarh Road Flyover,highway,26.9015045,75.8436264,OpenStreetMap
+P002,Unnamed,highway,26.9752302,75.7531897,OpenStreetMap
+P002,Flyover,highway,26.9766988,75.7541997,OpenStreetMap
+P002,Unnamed,highway,26.9751647,75.7532802,OpenStreetMap
+P002,Flyover,highway,26.9766317,75.7542924,OpenStreetMap
+P002,Flyover,highway,26.9708727,75.7499874,OpenStreetMap
+P002,Flyover,highway,26.9707984,75.750064,OpenStreetMap
+P002,Unnamed,highway,26.9618366,75.7387494,OpenStreetMap
+P002,Flyover,highway,26.9643472,75.7418407,OpenStreetMap
+P002,Unnamed,highway,26.9617584,75.7388399,OpenStreetMap
+P002,Flyover,highway,26.9642609,75.7419412,OpenStreetMap
+P002,Unnamed,highway,26.9133105,75.7294976,OpenStreetMap
+P002,Flyover,highway,26.9114171,75.7292823,OpenStreetMap
+P002,Unnamed,highway,26.9133105,75.7296496,OpenStreetMap
+P002,Flyover,highway,26.9114088,75.7294336,OpenStreetMap
+P002,Unnamed,highway,26.908597,75.7291111,OpenStreetMap
+P002,Flyover,highway,26.9057667,75.7287862,OpenStreetMap
+P002,Unnamed,highway,26.908612,75.7289689,OpenStreetMap
+P002,Flyover,highway,26.9057763,75.7286519,OpenStreetMap
+P002,Unnamed,highway,26.8914956,75.7354652,OpenStreetMap
+P002,Underpass,highway,26.8427501,75.8159797,OpenStreetMap
+P002,Underpass,highway,26.8432887,75.8169335,OpenStreetMap
+P002,Underpass,highway,26.8448372,75.8187094,OpenStreetMap
+P002,Underpass,highway,26.8447604,75.8187841,OpenStreetMap
+P002,Underpass,highway,26.8427813,75.816293,OpenStreetMap
+P002,Unnamed,highway,26.8836721,75.7988219,OpenStreetMap
+P002,Laxmi Mandir Underpass,highway,26.8833173,75.7998702,OpenStreetMap
+P002,Gurjar Ki Thadi Underpass,highway,26.8794072,75.7691615,OpenStreetMap
+P002,Gurjar Ki Thadi Underpass,highway,26.8803543,75.7648698,OpenStreetMap
+P002,Gurjar Ki Thadi Underpass,highway,26.8802348,75.7649345,OpenStreetMap
+P002,Agra Jaipur-Bikaner Road Underpass,highway,26.9063089,75.8422283,OpenStreetMap
+P002,Agra Jaipur-Bikaner Road Underpass,highway,26.9037296,75.844956,OpenStreetMap
+P002,Agra Jaipur-Bikaner Road Underpass,highway,26.9032592,75.84536,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.9027637,75.8456455,OpenStreetMap
+P002,Agra Jaipur-Bikaner Road Underpass,highway,26.9032227,75.8452609,OpenStreetMap
+P002,Agra Jaipur-Bikaner Road Underpass,highway,26.9063957,75.8419216,OpenStreetMap
+P002,Underpass,highway,26.8390869,75.7910644,OpenStreetMap
+P002,Underpass,highway,26.8389902,75.7912726,OpenStreetMap
+P002,Underpass,highway,26.8392091,75.7980046,OpenStreetMap
+P002,Underpass,highway,26.8390207,75.7965574,OpenStreetMap
+P002,New Sanganer Road,highway,26.9008299,75.7735991,OpenStreetMap
+P002,Unnamed,highway,26.9210201,75.7879396,OpenStreetMap
+P002,Padao Restaurant,food,26.9373593,75.812114,OpenStreetMap
+P002,Unnamed,highway,26.9380625,75.8020152,OpenStreetMap
+P002,Unnamed,highway,26.8507503,75.8249511,OpenStreetMap
+P002,Laxmi Mandir Underpass,highway,26.8836978,75.7987464,OpenStreetMap
+P002,Unnamed,highway,26.8837617,75.79827,OpenStreetMap
+P002,New Sanganer Road,highway,26.9026986,75.7748769,OpenStreetMap
+P002,Unnamed,highway,26.9024201,75.7930865,OpenStreetMap
+P002,Kalwad Road,highway,26.94325,75.7578011,OpenStreetMap
+P002,Unnamed,highway,26.9419946,75.7628614,OpenStreetMap
+P002,Unnamed,highway,26.9411696,75.7617791,OpenStreetMap
+P002,Unnamed,highway,26.9012425,75.794789,OpenStreetMap
+P002,"Jamwa Ramgarh Road , JAIPUR",highway,26.9173411,75.8486831,OpenStreetMap
+P002,ajay kirana store,retail,26.9107427,75.6951237,OpenStreetMap
+P002,Tea House,food,26.8739407,75.7766477,OpenStreetMap
+P002,patashi center,food,26.9555421,75.7712703,OpenStreetMap
+P002,IRIS Cafe,food,26.8580852,75.7257099,OpenStreetMap
+P002,Restaurant RZD,food,26.9064629,75.7381764,OpenStreetMap
+P002,Unnamed,highway,26.8961769,75.7330101,OpenStreetMap
+P002,Unnamed,highway,26.8970806,75.7325519,OpenStreetMap
+P002,Unnamed,highway,26.8962249,75.7331439,OpenStreetMap
+P002,Unnamed,highway,26.8971337,75.7326776,OpenStreetMap
+P002,"Amer Road , JAIPUR",highway,26.9470556,75.8402471,OpenStreetMap
+P002,Sikar Road,highway,26.9405063,75.7738132,OpenStreetMap
+P002,Unnamed,highway,26.9404228,75.7737729,OpenStreetMap
+P002,Sirsi Road,highway,26.9245003,75.6985088,OpenStreetMap
+P002,Station Road,highway,26.9266012,75.8076971,OpenStreetMap
+P002,Unnamed,highway,26.9262727,75.8073655,OpenStreetMap
+P002,Ram Mandir Road,highway,26.9214713,75.7879159,OpenStreetMap
+P002,Tonk Road,highway,26.8268055,75.7944629,OpenStreetMap
+P002,Sirsi Road,highway,26.9222573,75.7222791,OpenStreetMap
+P002,Laxmi Mandir Underpass,highway,26.8811651,75.7997877,OpenStreetMap
+P002,Unnamed,highway,26.902822,75.7865762,OpenStreetMap
+P002,Unnamed,food,26.8677503,75.7630527,OpenStreetMap
+P002,Unnamed,highway,26.8856613,75.8076231,OpenStreetMap
+P002,Gandhi Marg,highway,26.8856058,75.8076155,OpenStreetMap
+P002,Benad Road,highway,26.9580976,75.7591321,OpenStreetMap
+P002,Benad Road,highway,26.9580805,75.759063,OpenStreetMap
+P002,Unnamed,highway,26.8351055,75.8432615,OpenStreetMap
+P002,Unnamed,highway,26.8351241,75.8362803,OpenStreetMap
+P002,NH11,highway,26.8290708,75.7747028,OpenStreetMap
+P002,NH11,highway,26.8296969,75.7740881,OpenStreetMap
+P002,Nirwan Marg,highway,26.940105,75.7737271,OpenStreetMap
+P002,Unnamed,highway,26.9399349,75.7756622,OpenStreetMap
+P002,Meera Marg,highway,26.9287845,75.8039059,OpenStreetMap
+P002,Unnamed,highway,26.9259944,75.8070869,OpenStreetMap
+P002,Jhotwara Road,highway,26.9404185,75.7724769,OpenStreetMap
+P002,Jhotwara Road,highway,26.9403633,75.7727217,OpenStreetMap
+P002,Unnamed,highway,26.9401674,75.7729716,OpenStreetMap
+P002,Unnamed,highway,26.9401892,75.7726982,OpenStreetMap
+P002,Jaipur Mall,retail,26.9445528,75.8390405,OpenStreetMap
+P002,Unnamed,highway,26.8715212,75.731721,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9169696,75.8046955,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9166441,75.8066916,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9166715,75.8065173,OpenStreetMap
+P002,Unnamed,highway,26.8674423,75.7326164,OpenStreetMap
+P002,Unnamed,highway,26.867488,75.7324998,OpenStreetMap
+P002,Unnamed,highway,26.8682508,75.7324889,OpenStreetMap
+P002,Unnamed,highway,26.8682373,75.7323862,OpenStreetMap
+P002,Unnamed,highway,26.899611,75.8126329,OpenStreetMap
+P002,Unnamed,highway,26.8992895,75.8134956,OpenStreetMap
+P002,Narayan Singh Road,highway,26.8990693,75.8149229,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9164066,75.8085362,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9162261,75.8098763,OpenStreetMap
+P002,Kalwad Road,highway,26.9432339,75.7575946,OpenStreetMap
+P002,Kalwad Road,highway,26.9432071,75.7584237,OpenStreetMap
+P002,Unnamed,highway,26.9431925,75.7578054,OpenStreetMap
+P002,Unnamed,highway,26.830614,75.7548785,OpenStreetMap
+P002,Unnamed,highway,26.830795,75.7549676,OpenStreetMap
+P002,Unnamed,highway,26.8307434,75.755044,OpenStreetMap
+P002,Ram Mandir Road,highway,26.9233243,75.7851331,OpenStreetMap
+P002,Ram Mandir Road,highway,26.9228325,75.7857848,OpenStreetMap
+P002,Ram Mandir Road,highway,26.9232132,75.7853226,OpenStreetMap
+P002,Ram Mandir Road,highway,26.9231704,75.7852807,OpenStreetMap
+P002,Ram Mandir Road,highway,26.9232393,75.7852927,OpenStreetMap
+P002,Ram Mandir Road,highway,26.9231995,75.7852506,OpenStreetMap
+P002,Unnamed,highway,26.8795905,75.7432943,OpenStreetMap
+P002,Unnamed,highway,26.879415,75.7435974,OpenStreetMap
+P002,Unnamed,highway,26.8794019,75.7437183,OpenStreetMap
+P002,Calgiri Road,highway,26.8593505,75.8087709,OpenStreetMap
+P002,Calgiri Road,highway,26.8597894,75.8079578,OpenStreetMap
+P002,Calgiri Road,highway,26.8594119,75.8089044,OpenStreetMap
+P002,Calgiri Road,highway,26.8593144,75.8088626,OpenStreetMap
+P002,Calgiri Road,highway,26.8597071,75.8078407,OpenStreetMap
+P002,Calgiri Road,highway,26.8575997,75.8147784,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.8881785,75.8842687,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.8882087,75.884149,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.885672,75.8930272,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.8881037,75.8841067,OpenStreetMap
+P002,Agra Jaipur Bikaner Road,highway,26.8857532,75.8931475,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9166043,75.8069914,OpenStreetMap
+P002,Mirza Ismail Road,highway,26.9165653,75.8072747,OpenStreetMap
+P003,Papaya Nursery,retail,19.9860726,73.7229885,OpenStreetMap
+P003,Nashik Road,railway,19.9480582,73.8420837,OpenStreetMap
+P003,Vaibhav Gardens,food,20.0096386,73.8055117,OpenStreetMap
+P003,Maruti Service Centre,retail,19.996837,73.800868,OpenStreetMap
+P003,Mainland China,food,19.9880328,73.7852048,OpenStreetMap
+P003,Tandoor Junction,food,19.9877237,73.7838415,OpenStreetMap
+P003,Wasan Automobiles,retail,19.9879351,73.784954,OpenStreetMap
+P003,Mahindra First Choice,retail,19.9830524,73.7820494,OpenStreetMap
+P003,Mehfil,food,19.9824965,73.7814745,OpenStreetMap
+P003,Wasan Toyota  Showroom,retail,19.9578649,73.7607718,OpenStreetMap
+P003,Jitendra Motors Mahindra Showroom,retail,19.9552578,73.7559064,OpenStreetMap
+P003,Domino's,food,20.0080393,73.7577718,OpenStreetMap
+P003,McDonald's,food,20.0056644,73.7663804,OpenStreetMap
+P003,Regal Saloon,retail,20.007044,73.788017,OpenStreetMap
+P003,Chool,food,19.9867908,73.7851125,OpenStreetMap
+P003,Sagar Sweets,retail,19.9819289,73.7767377,OpenStreetMap
+P003,Kulkarni's Pav Bhaji,food,20.0044517,73.7861653,OpenStreetMap
+P003,Raj Medical,retail,20.0045172,73.7869881,OpenStreetMap
+P003,Big Bazzar,retail,20.0053325,73.7662921,OpenStreetMap
+P003,Pizza Hut,food,20.0071764,73.7634629,OpenStreetMap
+P003,KFC,food,20.0070871,73.7636529,OpenStreetMap
+P003,Viju's Dabeli & Pizza,food,20.0063834,73.7635071,OpenStreetMap
+P003,Tuljai Misal,food,20.0061588,73.7634599,OpenStreetMap
+P003,Cafe Xpress,food,20.0061802,73.7625201,OpenStreetMap
+P003,Campus Choice Bakers,food,20.0061739,73.7625621,OpenStreetMap
+P003,Unnamed,retail,19.9598484,73.8341088,OpenStreetMap
+P003,Unnamed,retail,20.0004993,73.7863919,OpenStreetMap
+P003,Unnamed,retail,19.9592747,73.7528707,OpenStreetMap
+P003,Unnamed,food,20.0078206,73.755073,OpenStreetMap
+P003,Unnamed,food,20.0091806,73.7553942,OpenStreetMap
+P003,Unnamed,retail,20.0039763,73.7897084,OpenStreetMap
+P003,Unnamed,retail,20.0055237,73.7910724,OpenStreetMap
+P003,Unnamed,food,20.0056134,73.7920578,OpenStreetMap
+P003,Unnamed,retail,20.005617,73.7925848,OpenStreetMap
+P003,Unnamed,retail,20.0051701,73.7904246,OpenStreetMap
+P003,Unnamed,food,20.0043359,73.7867966,OpenStreetMap
+P003,Unnamed,food,20.0049477,73.7839378,OpenStreetMap
+P003,Unnamed,food,20.0048184,73.7838688,OpenStreetMap
+P003,Unnamed,retail,20.0055578,73.7844556,OpenStreetMap
+P003,Unnamed,retail,20.0058046,73.7845626,OpenStreetMap
+P003,Unnamed,food,20.0063024,73.7845743,OpenStreetMap
+P003,Unnamed,food,20.005755,73.7935968,OpenStreetMap
+P003,Unnamed,retail,20.0046976,73.7904032,OpenStreetMap
+P003,Unnamed,retail,20.0047535,73.7852869,OpenStreetMap
+P003,Annapurna,food,20.0047207,73.7852136,OpenStreetMap
+P003,Unnamed,food,20.0040962,73.7889136,OpenStreetMap
+P003,Unnamed,retail,20.0051488,73.7859642,OpenStreetMap
+P003,Unnamed,retail,20.0053846,73.7840163,OpenStreetMap
+P003,Unnamed,food,20.0053012,73.7859824,OpenStreetMap
+P003,Unnamed,retail,20.0047283,73.7845887,OpenStreetMap
+P003,Unnamed,retail,20.0051064,73.7861302,OpenStreetMap
+P003,Unnamed,food,20.0060702,73.7861284,OpenStreetMap
+P003,Cafe Coffee Day,food,19.9975997,73.7901665,OpenStreetMap
+P003,Unnamed,food,20.0066882,73.7850786,OpenStreetMap
+P003,Unnamed,retail,20.0048517,73.786121,OpenStreetMap
+P003,Unnamed,food,20.0056334,73.7859773,OpenStreetMap
+P003,Unnamed,food,20.0053841,73.7859489,OpenStreetMap
+P003,Unnamed,food,19.9968745,73.7904885,OpenStreetMap
+P003,Unnamed,retail,20.0065991,73.7853731,OpenStreetMap
+P003,Unnamed,retail,20.0048893,73.7859765,OpenStreetMap
+P003,Honda,retail,19.9967643,73.7806729,OpenStreetMap
+P003,Kopa Kabana's,food,20.0046656,73.7759074,OpenStreetMap
+P003,Saundarya Bangle And General Store,retail,20.032848,73.8052501,OpenStreetMap
+P003,Ayush Traders,retail,20.0329574,73.804105,OpenStreetMap
+P003,Shakunta Bangles,retail,20.0342607,73.8031865,OpenStreetMap
+P003,Amit Wines,retail,20.0340923,73.8031613,OpenStreetMap
+P003,Raj Sweets,retail,20.0330195,73.8029285,OpenStreetMap
+P003,Cafe Cremé,food,20.0121137,73.7571766,OpenStreetMap
+P003,Veg Aroma,food,20.0120431,73.7461903,OpenStreetMap
+P003,Krishna Textile Market,retail,20.0144222,73.7378835,OpenStreetMap
+P003,Hotel Blue Leaf,food,20.0150044,73.7372505,OpenStreetMap
+P003,Curry Leaves,food,20.0126278,73.755778,OpenStreetMap
+P003,Roadside Wraps,food,20.0131054,73.7559027,OpenStreetMap
+P003,Tadka Tiffin Mess,food,20.0128597,73.7552094,OpenStreetMap
+P003,Unnamed,retail,20.0080924,73.7697305,OpenStreetMap
+P003,Sagar Sweets,retail,20.0041745,73.7694355,OpenStreetMap
+P003,Javed Habib Hair and Beauty Salon,retail,20.0039477,73.7680796,OpenStreetMap
+P003,Samradni Caterers,food,19.9804076,73.7831107,OpenStreetMap
+P003,Nasik Tiffins,food,20.0101404,73.7350917,OpenStreetMap
+P003,Luscious Layers,food,20.009121,73.7575453,OpenStreetMap
+P003,Palm Shells,food,20.0222321,73.7668839,OpenStreetMap
+P003,Tigtag Mens Clothing,retail,20.0045504,73.7543549,OpenStreetMap
+P003,Diamond And Gems Business,retail,19.9610558,73.7642893,OpenStreetMap
+P003,Hotel Papillon,food,20.0575987,73.7859246,OpenStreetMap
+P003,Serene Yard,food,20.0052704,73.7644419,OpenStreetMap
+P003,Spice Route,food,20.0134297,73.7421663,OpenStreetMap
+P003,Car Mall,retail,19.9515059,73.7541832,OpenStreetMap
+P003,Muhs Canteen,food,20.0768886,73.8014095,OpenStreetMap
+P003,Milk Dairy,retail,20.0154075,73.7857344,OpenStreetMap
+P003,Daulat Medical,retail,20.0139103,73.7881727,OpenStreetMap
+P003,Sugras,food,20.0038231,73.7392343,OpenStreetMap
+P003,The Liquor Embassy,retail,20.0104669,73.7579132,OpenStreetMap
+P003,Amma’s Tiffin,food,20.0104262,73.7580042,OpenStreetMap
+P003,Unnamed,food,19.9991217,73.7816149,OpenStreetMap
+P003,Maharashtra Darbar,food,19.9899116,73.7240415,OpenStreetMap
+P003,Namaste Nashik,food,19.9909332,73.7590081,OpenStreetMap
+P003,Budha Halwai,retail,20.001967,73.7920761,OpenStreetMap
+P003,Budha Halwai Jilebiwale,retail,20.0019169,73.7921191,OpenStreetMap
+P003,Mangoville Misal Nashik,food,20.0207644,73.7408467,OpenStreetMap
+P003,Unnamed,retail,19.958576,73.8323667,OpenStreetMap
+P003,Chicago Pizza,food,20.0108263,73.7579315,OpenStreetMap
+P003,Vishal Electricals,retail,20.0105527,73.7578805,OpenStreetMap
+P003,Shawarma Bites,food,20.0107753,73.7579356,OpenStreetMap
+P003,Rasa,food,20.0055245,73.6867806,OpenStreetMap
+P003,The Tasting Room,food,20.00543,73.6877355,OpenStreetMap
+P003,The Bodega,food,20.0054854,73.6883993,OpenStreetMap
+P003,The SSK World Club,food,19.9335176,73.7644603,OpenStreetMap
+P003,Moti Mahal,food,19.9549858,73.7556747,OpenStreetMap
+P003,Rushabh Honda,retail,19.9562985,73.7570143,OpenStreetMap
+P003,Jitendr Vihals MG,retail,19.9555485,73.7562389,OpenStreetMap
+P003,Sita Maa Rasoi,food,20.0076289,73.7962669,OpenStreetMap
+P003,Vighnaharta Enterprises,retail,19.9603547,73.7349738,OpenStreetMap
+P003,New India Electricals,retail,19.9603988,73.7349753,OpenStreetMap
+P003,Kaka Ka Dhaba,food,19.9731326,73.7747318,OpenStreetMap
+P003,Hari Om Dhaba,food,19.9748688,73.7762954,OpenStreetMap
+P003,Unnamed,food,19.9561989,73.758958,OpenStreetMap
+P003,Maruti Suzuki,retail,19.9445018,73.7428081,OpenStreetMap
+P003,Unnamed,food,19.9577516,73.7354217,OpenStreetMap
+P003,McDonald's,food,19.9566385,73.758925,OpenStreetMap
+P003,Shivsagar,food,19.9578703,73.7591283,OpenStreetMap
+P003,KFC,food,19.9561522,73.758111,OpenStreetMap
+P003,Hotel Santosh Café,food,19.9560666,73.7579841,OpenStreetMap
+P003,Unnamed,retail,19.9486745,73.8420069,OpenStreetMap
+P003,Unnamed,retail,19.9486626,73.8420871,OpenStreetMap
+P003,Unnamed,retail,19.9486699,73.8420387,OpenStreetMap
+P003,Unnamed,retail,19.948679,73.841978,OpenStreetMap
+P003,Unnamed,retail,19.9486671,73.8420559,OpenStreetMap
+P003,Unnamed,retail,19.9486717,73.8420221,OpenStreetMap
+P003,Unnamed,retail,19.9486651,73.842071,OpenStreetMap
+P003,Unnamed,retail,19.948677,73.8419919,OpenStreetMap
+P003,Nidhi Travels,retail,19.9538223,73.8382817,OpenStreetMap
+P003,Mitali Collection,retail,19.9538424,73.8382259,OpenStreetMap
+P003,Park Mens Wear,retail,19.9538809,73.8381717,OpenStreetMap
+P003,My Phone,retail,19.9537727,73.8382763,OpenStreetMap
+P003,Tyzer,retail,19.9537233,73.8383146,OpenStreetMap
+P003,Lenskart,retail,19.9536002,73.8384576,OpenStreetMap
+P003,Shri Mahapragya,retail,19.9535457,73.838512,OpenStreetMap
+P003,Bhatia's,retail,19.9533228,73.8388287,OpenStreetMap
+P003,Zahara Traders & Suppliers,retail,19.9460392,73.8419443,OpenStreetMap
+P003,Mahanand Milk Stall,retail,19.9466072,73.8420644,OpenStreetMap
+P003,Ms R. B. Patil & Sons Tea & Snacks Stall,retail,19.946804,73.842098,OpenStreetMap
+P003,A.J.S Pure Veg Restaurant,food,19.9474669,73.8419608,OpenStreetMap
+P003,Mobile & Accessories Junction,retail,19.9480215,73.8420222,OpenStreetMap
+P003,Saijyoti Khadi and Garment,retail,19.9480282,73.8419864,OpenStreetMap
+P003,P. V. Bhosle Fruits & Fruit Juice,retail,19.9478538,73.8423338,OpenStreetMap
+P003,P. V. Bhosle Fruits & Fruit Juice,retail,19.948096,73.8423996,OpenStreetMap
+P003,New Suman Hardware,retail,19.9637356,73.7319605,OpenStreetMap
+P003,Datar Auto Battery,retail,19.9640203,73.7337671,OpenStreetMap
+P003,Praveen Kirana Wholesale and Retail,retail,19.9641074,73.7337301,OpenStreetMap
+P003,Salasar Trading,retail,19.9660011,73.7321066,OpenStreetMap
+P003,Shri Krushna Sweets,retail,19.9660797,73.732111,OpenStreetMap
+P003,Saiba Amruttulaya,food,19.966124,73.732097,OpenStreetMap
+P003,New Star Mobile,retail,19.9698629,73.7294829,OpenStreetMap
+P003,New Star Collection,retail,19.9698634,73.7294248,OpenStreetMap
+P003,R. K. Mobile Shop,retail,19.9697819,73.7293879,OpenStreetMap
+P003,Sarkar Men's Wear,retail,19.9697576,73.7293963,OpenStreetMap
+P003,Selection Collection,retail,19.9697264,73.7293953,OpenStreetMap
+P003,Delhi Collection,retail,19.9696278,73.7293942,OpenStreetMap
+P003,Rehan E-Services,retail,19.9696827,73.7293938,OpenStreetMap
+P003,Famous Collection,retail,19.9695806,73.7293863,OpenStreetMap
+P003,Asif Traders Eggs and Chicken,retail,19.969526,73.7293824,OpenStreetMap
+P003,Bombay Collection,retail,19.9694747,73.7293784,OpenStreetMap
+P003,New Mumbai Fashion Sale,retail,19.9694078,73.7293717,OpenStreetMap
+P003,Mane Chinese Corner,food,19.9689867,73.7289353,OpenStreetMap
+P003,SS Mobile,retail,19.9690421,73.7288223,OpenStreetMap
+P003,Amol Kirana Stores,retail,19.9691678,73.7288837,OpenStreetMap
+P003,Dhanya Bhandar,retail,19.9691691,73.7288592,OpenStreetMap
+P003,A S Collection,retail,19.9688681,73.728815,OpenStreetMap
+P003,MH15 Collection and Mens Wear,retail,19.9688273,73.7288132,OpenStreetMap
+P003,R. P. Mobile,retail,19.9687684,73.7288102,OpenStreetMap
+P003,Arman Traders,retail,19.9692229,73.7285295,OpenStreetMap
+P003,Asian Hardware,retail,19.9723152,73.7292087,OpenStreetMap
+P003,Khan Cushion and Furniture,retail,19.9724028,73.7291555,OpenStreetMap
+P003,Golden Furniture,retail,19.9709577,73.7296498,OpenStreetMap
+P003,New Asrar Kirana,retail,19.9711774,73.7300908,OpenStreetMap
+P003,Navkar Industries,retail,19.9629979,73.738573,OpenStreetMap
+P003,Swaraj Amruttulya,food,19.9616533,73.7434811,OpenStreetMap
+P003,Sai Hairdressers,retail,19.9616555,73.7435483,OpenStreetMap
+P003,Shubhda Kirana and General Stores,retail,19.9614175,73.7447621,OpenStreetMap
+P003,Sairaj Dhanya Bhadar,retail,19.9611743,73.7448284,OpenStreetMap
+P003,Devaj Hair Craft,retail,19.9612125,73.744817,OpenStreetMap
+P003,Kotkar Sales Corporation,retail,19.9609837,73.7450732,OpenStreetMap
+P003,New Fresh Bakers,retail,19.9609405,73.7450211,OpenStreetMap
+P003,Unnamed,retail,19.960943,73.7450049,OpenStreetMap
+P003,Lakshmi Jewellers,retail,19.9609611,73.7449817,OpenStreetMap
+P003,Jay Dresses and Sarees,retail,19.9609626,73.744955,OpenStreetMap
+P003,Shuriya Amruttulya,food,19.9609462,73.7449226,OpenStreetMap
+P003,New Vardhan Mobile,retail,19.9609283,73.7448169,OpenStreetMap
+P003,A. S. Mobile Accessories and Spare Parts,retail,19.9609135,73.7447301,OpenStreetMap
+P003,Matoshri Dhanya and Kirana,retail,19.9609101,73.7446457,OpenStreetMap
+P003,Desha,food,20.0240582,73.7219073,OpenStreetMap
+P003,MR.DIY,retail,19.9483652,73.7715964,OpenStreetMap
+P003,Burger King,food,19.9501013,73.7702164,OpenStreetMap
+P003,Reliance Digital,retail,19.9545544,73.7640529,OpenStreetMap
+P003,Zudio (Burkule Hall),retail,19.967918,73.7531603,OpenStreetMap
+P003,Chotu Kolhapuri,food,19.9692781,73.7551238,OpenStreetMap
+P003,Jeans Junction,retail,19.9693873,73.7550227,OpenStreetMap
+P003,Chirag Biryani,food,19.9692544,73.7552158,OpenStreetMap
+P003,Pradatta Medical Store,retail,19.9692941,73.7549776,OpenStreetMap
+P003,Biryani House,food,19.969264,73.7551835,OpenStreetMap
+P003,Om Stationers,retail,19.9692917,73.7550264,OpenStreetMap
+P003,Archit Zerox,retail,20.0136338,73.7616889,OpenStreetMap
+P003,The Brew House,food,20.0154839,73.763395,OpenStreetMap
+P003,OM Xerox Centre,retail,20.0108614,73.7641542,OpenStreetMap
+P003,Dhiraj stationery Book store,retail,20.0130342,73.7644364,OpenStreetMap
+P003,The Calisto multi Cuisine restaurant,food,20.0141503,73.7385386,OpenStreetMap
+P003,D Mart,retail,20.0063367,73.7431636,OpenStreetMap
+P003,Two Sister Kitchen and Cafe,food,20.0124834,73.7465558,OpenStreetMap
+P003,Nashik Lunch Home,food,20.0104055,73.7449626,OpenStreetMap
+P003,Madhur Food Plaza,retail,20.0109147,73.74534,OpenStreetMap
+P003,Vinayaka - Veg & Non Veg,food,20.0111288,73.7454072,OpenStreetMap
+P003,SS Mobile,retail,20.0117418,73.7452736,OpenStreetMap
+P003,kaka ka shop,food,20.0353386,73.862528,OpenStreetMap
+P003,Anand kirana store,retail,19.9476207,73.8437798,OpenStreetMap
+P003,Akash kirana store,retail,19.9480147,73.843693,OpenStreetMap
+P003,Shekhar Kirana store,retail,19.9474731,73.8433739,OpenStreetMap
+P003,Unnamed,highway,20.0549465,73.7869362,OpenStreetMap
+P003,Old Agra Road,highway,20.0121581,73.7905698,OpenStreetMap
+P003,Unnamed,highway,20.0050178,73.8134162,OpenStreetMap
+P003,Pathardi Road,highway,19.9425088,73.7926439,OpenStreetMap
+P003,Ambad Satpur Link Road,highway,19.9730171,73.7297565,OpenStreetMap
+P003,Gangapur-Satpur Link Road,highway,20.0009195,73.714973,OpenStreetMap
+P003,Trimbak Road,highway,19.9845172,73.7208783,OpenStreetMap
+P003,Pune Nashik Highway,highway,19.9941326,73.7930586,OpenStreetMap
+P003,Tilak Road,highway,20.0047127,73.7871941,OpenStreetMap
+P003,Ahilyabai Holkar Bridge,highway,20.008612,73.7907564,OpenStreetMap
+P003,Unnamed,highway,20.0090526,73.8036132,OpenStreetMap
+P003,Ambad Link Road (M17),highway,19.9741892,73.7542947,OpenStreetMap
+P003,Tilak Road,highway,20.0022501,73.7869855,OpenStreetMap
+P003,Trimbak Road,highway,19.9944525,73.7718929,OpenStreetMap
+P003,Ambad Satpur Link Road,highway,19.984505,73.7239455,OpenStreetMap
+P003,Ambad Satpur Link Road,highway,19.9830775,73.7243622,OpenStreetMap
+P003,Dindori Road,highway,20.0236042,73.7995739,OpenStreetMap
+P003,Unnamed,highway,20.0234383,73.7852302,OpenStreetMap
+P003,Unnamed,highway,20.0461722,73.7843709,OpenStreetMap
+P003,Tilak Road,highway,20.0072921,73.7897052,OpenStreetMap
+P003,Jail Road,highway,19.9506406,73.8373014,OpenStreetMap
+P003,Unnamed,highway,19.968206,73.7936607,OpenStreetMap
+P003,Old Agra Road,highway,20.0099226,73.7855876,OpenStreetMap
+P003,Tilak Road,highway,19.9966904,73.7883581,OpenStreetMap
+P003,Unnamed,highway,20.0087661,73.7727664,OpenStreetMap
+P003,Old Agra Road,highway,20.0108521,73.7866157,OpenStreetMap
+P003,Ahilyabai Holkar Road,highway,19.9892943,73.7797336,OpenStreetMap
+P003,Unnamed,highway,20.0010701,73.811302,OpenStreetMap
+P003,Unnamed,highway,19.9928427,73.7743359,OpenStreetMap
+P003,Pujya Ravi Shankar Marg,highway,19.973632,73.8032708,OpenStreetMap
+P003,Unnamed,highway,20.0042549,73.8440601,OpenStreetMap
+P003,SH26,highway,20.0529856,73.7334951,OpenStreetMap
+P003,Bhabha Nagar Road,highway,19.9876828,73.7887324,OpenStreetMap
+P003,Bhujbal Farm Road,highway,19.9775322,73.7735064,OpenStreetMap
+P003,Gangapur Road,highway,20.0340579,73.7027055,OpenStreetMap
+P003,Lam Road,highway,19.9128025,73.8328391,OpenStreetMap
+P003,SH26,highway,20.0511874,73.7226637,OpenStreetMap
+P003,College road,highway,20.004646,73.768704,OpenStreetMap
+P003,Canada Corner Link Road,highway,20.0052057,73.7709096,OpenStreetMap
+P003,Unnamed,highway,19.912137,73.7074232,OpenStreetMap
+P003,Unnamed,highway,19.9120845,73.7075487,OpenStreetMap
+P003,Nashik Pune Highway Flyover,highway,19.950882,73.8440956,OpenStreetMap
+P003,Pune Nashik Road,highway,19.9389228,73.8562368,OpenStreetMap
+P003,Nashik Pune Highway,highway,19.9707234,73.8185707,OpenStreetMap
+P003,Mahatma Nagar Link Road,highway,20.0056636,73.755003,OpenStreetMap
+P003,Unnamed,highway,19.9998812,73.8104585,OpenStreetMap
+P003,Tapovan Road,highway,19.9932304,73.8092907,OpenStreetMap
+P003,Nashik Pune Highway,highway,19.9872961,73.8009891,OpenStreetMap
+P003,Wadala Road,highway,19.9902821,73.7932593,OpenStreetMap
+P003,Unnamed,highway,20.0005272,73.7695425,OpenStreetMap
+P003,Unnamed,highway,19.9934906,73.7741076,OpenStreetMap
+P003,Unnamed,highway,20.0076837,73.7729012,OpenStreetMap
+P003,Trimbak Road,highway,19.9972315,73.7810382,OpenStreetMap
+P003,Canal Link Road,highway,19.9923077,73.7588437,OpenStreetMap
+P003,Ambad Police Station Road,highway,19.9687999,73.7567448,OpenStreetMap
+P003,Maharana Pratap Chowk Road,highway,19.9733059,73.765299,OpenStreetMap
+P003,Unnamed,highway,19.9691436,73.7849385,OpenStreetMap
+P003,Mahatmanagar Link Road,highway,20.0103165,73.7557247,OpenStreetMap
+P003,Unnamed,highway,20.01386,73.7561305,OpenStreetMap
+P003,Unnamed,highway,19.9385594,73.8105762,OpenStreetMap
+P003,Meri-Rasbihari Link Road,highway,20.025206,73.8240727,OpenStreetMap
+P003,Takli Road,highway,19.9716119,73.819869,OpenStreetMap
+P003,Unnamed,highway,19.9743024,73.7751677,OpenStreetMap
+P003,SH 30,highway,20.0011824,73.8771013,OpenStreetMap
+P003,Unnamed,highway,19.9422026,73.8355221,OpenStreetMap
+P003,Unnamed,highway,19.9396824,73.8350102,OpenStreetMap
+P003,Nashik Road Railway Station Exit,highway,19.9513368,73.8416978,OpenStreetMap
+P003,Unnamed,highway,20.0156791,73.7564032,OpenStreetMap
+P003,DK Nagar Road,highway,20.018031,73.7568127,OpenStreetMap
+P003,Mhasrul Adgaon Road,highway,20.0445404,73.8161625,OpenStreetMap
+P003,Trimbak Road,highway,19.9909976,73.7364728,OpenStreetMap
+P003,Unnamed,highway,20.0280677,73.78358,OpenStreetMap
+P003,Unnamed,highway,20.0372599,73.7805207,OpenStreetMap
+P003,Unnamed,highway,20.0115566,73.8437948,OpenStreetMap
+P003,वडाळा रस्ता,highway,19.9853928,73.7923208,OpenStreetMap
+P003,Unnamed,highway,19.9355041,73.8106877,OpenStreetMap
+P003,Dr Nanasaheb Dharmadhikari Marg,highway,20.0240086,73.8105424,OpenStreetMap
+P003,VIBGYOR School Road,highway,20.0268025,73.7940031,OpenStreetMap
+P003,Unnamed,highway,19.935389,73.8227521,OpenStreetMap
+P003,Unnamed,highway,19.9813612,73.7914504,OpenStreetMap
+P003,Unnamed,highway,20.0185106,73.8428784,OpenStreetMap
+P003,Unnamed,highway,19.9941155,73.8446235,OpenStreetMap
+P003,Unnamed,highway,19.9896313,73.8455562,OpenStreetMap
+P003,Pune Nashik Road,highway,19.9871002,73.801317,OpenStreetMap
+P003,Nashik Pune Highway,highway,19.9865986,73.801451,OpenStreetMap
+P003,Unnamed,highway,20.0108346,73.7971081,OpenStreetMap
+P003,Unnamed,highway,20.0089116,73.8008511,OpenStreetMap
+P003,Nashik Pune Highway,highway,19.9867366,73.8011987,OpenStreetMap
+P003,Nashik Pune Highway,highway,19.9862196,73.8014102,OpenStreetMap
+P003,SH 26,highway,20.0519995,73.7589586,OpenStreetMap
+P003,Tilak Road,highway,19.9996067,73.7865835,OpenStreetMap
+P003,Ambad Link Road,highway,19.9901021,73.762335,OpenStreetMap
+P003,Ambad Link Road,highway,19.9926034,73.7671452,OpenStreetMap
+P003,Unnamed,highway,20.011462,73.7760445,OpenStreetMap
+P003,Unnamed,highway,20.0107332,73.7747312,OpenStreetMap
+P003,Ashirwad Medical,retail,19.9895553,73.717533,OpenStreetMap
+P003,Unnamed,highway,19.9744725,73.7750991,OpenStreetMap
+P003,Old Agra Road,highway,20.0111275,73.7878773,OpenStreetMap
+P003,Unnamed,highway,19.969283,73.7070034,OpenStreetMap
+P003,Canada Corner Link Road,highway,20.0051402,73.7707659,OpenStreetMap
+P003,Sharanpur Road,highway,20.0029993,73.7706531,OpenStreetMap
+P003,Unnamed,highway,19.9576321,73.7590118,OpenStreetMap
+P003,Unnamed,highway,19.9760196,73.8358687,OpenStreetMap
+P003,Unnamed,highway,19.9852621,73.8185649,OpenStreetMap
+P003,Unnamed,highway,19.9774217,73.83935,OpenStreetMap
+P003,Vikrikar Bhavan Road,highway,19.9495534,73.7499155,OpenStreetMap
+P003,SH27,highway,19.9607316,73.7459556,OpenStreetMap
+P003,SH27,highway,19.9566602,73.7581915,OpenStreetMap
+P003,Mumbai Naka Circle,highway,19.9869635,73.7842183,OpenStreetMap
+P003,Unnamed,highway,19.9872449,73.7837318,OpenStreetMap
+P003,Unnamed,highway,19.9873342,73.7838578,OpenStreetMap
+P003,Unnamed,highway,19.9873786,73.783894,OpenStreetMap
+P003,Agra Mumbai Road,highway,20.0310767,73.8569389,OpenStreetMap
+P003,Agra Mumbai Road,highway,20.0311357,73.8568276,OpenStreetMap
+P003,Agra Mumbai Road,highway,20.0299377,73.8544175,OpenStreetMap
+P003,Agra Mumbai Road,highway,20.0328957,73.8593048,OpenStreetMap
+P003,Agra Mumbai Road,highway,20.0358285,73.8638079,OpenStreetMap
+P003,Unnamed,highway,19.9612542,73.7631578,OpenStreetMap
+P003,Unnamed,highway,20.0193984,73.829663,OpenStreetMap
+P003,Unnamed,highway,19.9827082,73.7816759,OpenStreetMap
+P003,Agra Mumbai Highway,highway,19.9826206,73.7819563,OpenStreetMap
+P003,Unnamed,highway,20.0182938,73.825966,OpenStreetMap
+P003,SH 30,highway,20.0012691,73.8771723,OpenStreetMap
+P003,SH 30,highway,20.0004831,73.8696737,OpenStreetMap
+P003,SH 30,highway,19.9979578,73.8402821,OpenStreetMap
+P003,SH 30,highway,20.0004017,73.8696894,OpenStreetMap
+P003,SH 30,highway,19.9978821,73.8402669,OpenStreetMap
+P003,SH 30,highway,20.0007307,73.8731978,OpenStreetMap
+P003,SH 30,highway,20.0006476,73.8732095,OpenStreetMap
+P003,SH 30,highway,19.9999845,73.8661731,OpenStreetMap
+P003,SH 30,highway,20.0000656,73.8661407,OpenStreetMap
+P003,SH 30,highway,19.9970514,73.8440562,OpenStreetMap
+P003,SH 30,highway,19.9969621,73.8440631,OpenStreetMap
+P003,SH 30,highway,19.998575,73.8551303,OpenStreetMap
+P003,SH 30,highway,19.998488,73.8551468,OpenStreetMap
+P003,SH 30,highway,20.004971,73.8234906,OpenStreetMap
+P003,SH 30,highway,20.0049341,73.8234699,OpenStreetMap
+P003,Agra Mumbai Road,highway,20.0300258,73.8543722,OpenStreetMap
+P003,Agra Mumbai Road,highway,20.0360653,73.8638998,OpenStreetMap
+P003,Agra Mumbai Road,highway,20.0326912,73.8592395,OpenStreetMap
+P003,Unnamed,highway,20.0085549,73.755429,OpenStreetMap
+P003,College road,highway,20.0081581,73.7564896,OpenStreetMap
+P003,College Road,highway,20.0079224,73.7569254,OpenStreetMap
+P003,College Road,highway,20.0083215,73.7559296,OpenStreetMap
+P003,College road,highway,20.0075837,73.7580312,OpenStreetMap
+P003,College road,highway,20.006465,73.7614439,OpenStreetMap
+P003,College Road,highway,20.0066008,73.76087,OpenStreetMap
+P003,Mumbai Agra Highway,highway,19.9412356,73.7412267,OpenStreetMap
+P003,Bhabha Nagar Road,highway,19.9896544,73.7959909,OpenStreetMap
+P003,Wadala Road,highway,19.9870848,73.7925994,OpenStreetMap
+P003,Wadala Road,highway,19.9902445,73.7931826,OpenStreetMap
+P003,Unnamed,highway,19.9922651,73.7937069,OpenStreetMap
+P003,Wadala Road,highway,19.9870695,73.7925571,OpenStreetMap
+P003,Nashik Pune Highway,highway,19.9921561,73.7982606,OpenStreetMap
+P003,Nashik Pune Highway,highway,19.989108,73.8000319,OpenStreetMap
+P003,Pune Nashik Highway,highway,19.9905289,73.7993105,OpenStreetMap
+P003,Nashik Pune Highway,highway,19.9617178,73.8276566,OpenStreetMap
+P003,Nashik Pune Highway,highway,19.9559863,73.8350324,OpenStreetMap
+P003,Nashik Pune Highway Flyover,highway,19.9549945,73.8363295,OpenStreetMap
+P003,Nashik Pune Highway Flyover,highway,19.9528335,73.8402918,OpenStreetMap
+P003,Subhash Road,highway,19.9471584,73.8386243,OpenStreetMap
+P003,Nashik Pune Highway Flyover,highway,19.9527709,73.840244,OpenStreetMap
+P003,Pune Nashik Road,highway,19.9456059,73.8486654,OpenStreetMap
+P003,Nashik Pune Highway Flyover,highway,19.9501124,73.844865,OpenStreetMap
+P003,Nashik Pune Highway Flyover,highway,19.9548972,73.8362931,OpenStreetMap
+P003,Unnamed,highway,19.9528164,73.8390201,OpenStreetMap
+P003,Nashik Road Railway Station Exit,highway,19.9508256,73.8437561,OpenStreetMap
+P003,Nashik Road Railway Station Exit,highway,19.9517531,73.8405108,OpenStreetMap
+P003,Nashik Road Railway Station Exit,highway,19.9510398,73.8428813,OpenStreetMap
+P003,Pune Road,highway,19.9530628,73.8390707,OpenStreetMap
+P003,Pune Road Flyover,highway,19.9516348,73.8415496,OpenStreetMap
+P003,Pune Road Flyover,highway,19.9513542,73.8424381,OpenStreetMap
+P003,College Road,highway,20.0043175,73.7693759,OpenStreetMap
+P003,Canal Link Road,highway,20.0035664,73.7581534,OpenStreetMap
+P003,College road,highway,20.0072356,73.7590651,OpenStreetMap
+P003,College Road,highway,20.0075357,73.7579731,OpenStreetMap
+P003,Canal Link Road,highway,19.9922578,73.7587123,OpenStreetMap
+P003,Unnamed,highway,20.0121424,73.7943241,OpenStreetMap
+P003,Unnamed,highway,20.0210788,73.7670589,OpenStreetMap
+P003,Unnamed,highway,20.0199669,73.7662225,OpenStreetMap
+P003,Unnamed,highway,20.0224097,73.7680755,OpenStreetMap
+P003,Datta Chowk,highway,20.0190906,73.7656563,OpenStreetMap
+P003,Unnamed,highway,20.0462846,73.7724085,OpenStreetMap
+P003,Unnamed,highway,20.0380907,73.7712123,OpenStreetMap
+P003,Unnamed,highway,19.989205,73.8225269,OpenStreetMap
+P003,Ramdas Swami Marg,highway,19.9822801,73.8124562,OpenStreetMap
+P003,Unnamed,highway,19.9758671,73.8180559,OpenStreetMap
+P003,Juna Saikheda Road,highway,19.9742702,73.8291402,OpenStreetMap
+P003,Shivaji Road,highway,20.0009712,73.7850915,OpenStreetMap
+P003,Trimbak Road,highway,19.9941553,73.7629547,OpenStreetMap
+P003,Swami Vivekanand Road,highway,20.013118,73.7688208,OpenStreetMap
+P003,Swami Vivekanand Road,highway,20.0192284,73.7635911,OpenStreetMap
+P003,Jail Road,highway,19.9700676,73.8414525,OpenStreetMap
+P003,Trimbak Road,highway,19.9957203,73.7758265,OpenStreetMap
+P003,Unnamed,highway,19.9970253,73.7802388,OpenStreetMap
+P003,Trimbak Road,highway,19.9946429,73.7676369,OpenStreetMap
+P003,Trimbak Road,highway,19.994299,73.7588127,OpenStreetMap
+P003,Trimbak Road,highway,19.9937563,73.7531702,OpenStreetMap
+P003,Trimbak Road,highway,19.9935166,73.7517099,OpenStreetMap
+P003,Trimbak Road,highway,19.9933282,73.7506206,OpenStreetMap
+P003,Unnamed,highway,19.9928852,73.7481198,OpenStreetMap
+P003,Unnamed,highway,19.9924854,73.7458142,OpenStreetMap
+P003,Unnamed,highway,19.9923553,73.7450195,OpenStreetMap
+P003,Trimbak Road,highway,19.9883474,73.7273182,OpenStreetMap
+P003,Unnamed,highway,20.0483145,73.8033517,OpenStreetMap
+P003,Unnamed,highway,20.0335861,73.7991038,OpenStreetMap
+P003,Shree Sant Savata Mali Marg,highway,19.9726096,73.7939248,OpenStreetMap
+P003,Nirmala Convent Road,highway,20.0192949,73.7593352,OpenStreetMap
+P003,Gangapur Road,highway,20.0140954,73.746315,OpenStreetMap
+P003,Unnamed,highway,19.9690946,73.7849015,OpenStreetMap
+P003,Wadala-Pathardi Road,highway,19.9615709,73.7791783,OpenStreetMap
+P003,Gangapur Road,highway,20.0227741,73.7248125,OpenStreetMap
+P003,Nashik Pune Highway,highway,19.994253,73.793047,OpenStreetMap
+P003,Pathardi Roade,highway,19.944141,73.7740589,OpenStreetMap
+P003,Unnamed,highway,20.0222575,73.79943,OpenStreetMap
+P003,Unnamed,highway,19.9869089,73.8208781,OpenStreetMap
+P003,Trimbak Road,highway,19.9816669,73.7142489,OpenStreetMap
+P003,Trimbakeshwar Road,highway,19.973614,73.6859176,OpenStreetMap
+P003,Trimbak Road,highway,19.9792328,73.7064311,OpenStreetMap
+P003,Unnamed,highway,19.9793175,73.7065718,OpenStreetMap
+P003,Trimbakeshwar Road,highway,19.9731162,73.6851683,OpenStreetMap
+P003,SH 26,highway,20.0477191,73.7741308,OpenStreetMap
+P003,SH 26,highway,20.0470498,73.7758214,OpenStreetMap
+P003,Unnamed,highway,20.0367896,73.7803448,OpenStreetMap
+P003,Unnamed,highway,20.0363037,73.7783934,OpenStreetMap
+P003,Anil Vasantrao Jagtap,retail,20.011521,73.8302251,OpenStreetMap
+P003,Dindori Road,highway,20.0442937,73.8050438,OpenStreetMap
+P003,Hotel Zakkas Pure Veg,food,20.0317912,73.8135956,OpenStreetMap
+P003,Shree Mahalaxmi Ice cream and Nashta Centre,food,20.0325968,73.8073106,OpenStreetMap
+P003,Trimbak Road,highway,19.9943767,73.7718626,OpenStreetMap
+P003,VIBGYOR School Road,highway,20.0257289,73.785859,OpenStreetMap
+P003,VIBGYOR School Road,highway,20.0262148,73.7869774,OpenStreetMap
+P003,Trimbak Road,highway,19.9799553,73.7101418,OpenStreetMap
+P003,Trimbak Road,highway,19.9796641,73.7092314,OpenStreetMap
+P003,Unnamed,highway,20.0313241,73.7695587,OpenStreetMap
+P003,Unnamed,highway,20.0273272,73.7692083,OpenStreetMap
+P003,Shree Sant Savata Mali Marg,highway,19.9747398,73.7904004,OpenStreetMap
+P003,Old Canal Link Road,highway,19.9796029,73.7798588,OpenStreetMap
+P003,Old Agra Highway,highway,19.9882782,73.7833993,OpenStreetMap
+P003,Old Agra Highway,highway,19.9881599,73.7833274,OpenStreetMap
+P003,Old Agra Road,highway,19.9913452,73.7828278,OpenStreetMap
+P003,Unnamed,highway,19.9937138,73.7863438,OpenStreetMap
+P003,Old Agra Road,highway,19.9953817,73.7820289,OpenStreetMap
+P003,Old Agra Road,highway,19.9911916,73.7827417,OpenStreetMap
+P003,Sarda Circle,highway,19.9943458,73.790222,OpenStreetMap
+P003,Tilak Road,highway,19.9971109,73.7882204,OpenStreetMap
+P003,Tilak Road,highway,20.000096,73.7864412,OpenStreetMap
+P003,Tilak Road,highway,20.002297,73.7863598,OpenStreetMap
+P003,Shivaji Road,highway,20.0007836,73.7864259,OpenStreetMap
+P003,Shivaji Road,highway,20.0009349,73.7833248,OpenStreetMap
+P003,Shivaji Road,highway,20.0010734,73.7850185,OpenStreetMap
+P003,Shivaji Road,highway,20.0008519,73.7833015,OpenStreetMap
+P003,Ahilyabai Holkar Road,highway,19.9905366,73.7760691,OpenStreetMap
+P003,Ahilyabai Holkar Road,highway,19.9901603,73.7794296,OpenStreetMap
+P003,Ahilyabai Holkar Road,highway,19.9921382,73.7759676,OpenStreetMap
+P003,Chandak Circle,highway,19.9930205,73.7762952,OpenStreetMap
+P003,Unnamed,highway,19.9938476,73.7862674,OpenStreetMap
+P003,Unnamed,highway,19.9962203,73.7693563,OpenStreetMap
+P003,Unnamed,highway,19.9939303,73.7691806,OpenStreetMap
+P003,Unnamed,highway,19.9962152,73.7692803,OpenStreetMap
+P003,Model Colony Circle,highway,20.0077183,73.7575073,OpenStreetMap
+P003,Ahilyabai Holkar Road,highway,19.9921107,73.7760589,OpenStreetMap
+P003,Unnamed,highway,19.9934475,73.7721784,OpenStreetMap
+P003,Canal Link Road,highway,19.9848586,73.7724282,OpenStreetMap
+P003,Mahatma Nagar Link Road,highway,19.9982957,73.7541864,OpenStreetMap
+P003,Unnamed,highway,19.9940001,73.7539453,OpenStreetMap
+P003,Unnamed,highway,19.9940282,73.7542319,OpenStreetMap
+P003,Unnamed,highway,19.9935816,73.7540158,OpenStreetMap
+P003,Unnamed,highway,19.9936363,73.7543182,OpenStreetMap
+P003,Unnamed,highway,20.0028205,73.8245031,OpenStreetMap
+P003,Mahatmanagar Link Road,highway,20.0103342,73.7556011,OpenStreetMap
+P003,Shaheed Smarak Circle,highway,20.0119512,73.7582814,OpenStreetMap
+P003,Gangapur Road,highway,20.0116912,73.7594805,OpenStreetMap
+P003,Gangapur Road,highway,20.0120385,73.757084,OpenStreetMap
+P003,Gangapur Road,highway,20.0120235,73.7532482,OpenStreetMap
+P003,Prasad Circle,highway,20.0113076,73.7606479,OpenStreetMap
+P003,Gangapur Road,highway,20.0107971,73.7624311,OpenStreetMap
+P003,Gangapur Road,highway,20.0115978,73.7594615,OpenStreetMap
+P003,Gangapur Road,highway,20.0097942,73.7654552,OpenStreetMap
+P003,Saptarang Circle,highway,20.0102089,73.764144,OpenStreetMap
+P003,Gangapur Road,highway,20.0107158,73.762383,OpenStreetMap
+P003,Vidya Vikas CIrcle,highway,20.0092995,73.7667722,OpenStreetMap
+P003,Gangapur Road,highway,20.0082988,73.7692052,OpenStreetMap
+P003,Gangapur Road,highway,20.0097039,73.7654286,OpenStreetMap
+P003,Gangapur Road,highway,20.0066098,73.7745927,OpenStreetMap
+P003,Gangapur Road,highway,20.0082194,73.7690915,OpenStreetMap
+P003,Gangapur Road,highway,20.0065259,73.7745057,OpenStreetMap
+P003,Gangapur Road,highway,20.0065048,73.7835149,OpenStreetMap
+P003,Gangapur Road Flyover,highway,20.005956,73.7787503,OpenStreetMap
+P003,Gangapur Road Flyover,highway,20.0058861,73.7787506,OpenStreetMap
+P003,Gangapur Road,highway,20.0060133,73.7804432,OpenStreetMap
+P003,Gangapur Road,highway,20.0059307,73.780662,OpenStreetMap
+P003,Old Agra Road,highway,20.0081246,73.7853358,OpenStreetMap
+P003,Raviwar Peth,highway,20.0069101,73.7871986,OpenStreetMap
+P003,Ashok Stambh Circle,highway,20.0068465,73.7848994,OpenStreetMap
+P003,Gangapur Road,highway,20.0063942,73.7830977,OpenStreetMap
+P003,Raviwar Karanja Circle,highway,20.0066934,73.7893514,OpenStreetMap
+P003,Old Agra Road,highway,20.0069116,73.7850299,OpenStreetMap
+P003,Old Agra Road,highway,20.0069664,73.7849796,OpenStreetMap
+P003,Old Agra Road,highway,20.0020206,73.7830432,OpenStreetMap
+P003,Old Agra Road,highway,20.0020004,73.7831235,OpenStreetMap
+P003,Tilak Road,highway,20.0059096,73.7883652,OpenStreetMap
+P003,Trimbak Road,highway,19.995773,73.7766758,OpenStreetMap
+P003,Sharanpur Road,highway,20.0006709,73.7818678,OpenStreetMap
+P003,Sharanpur Road,highway,20.0007256,73.7818887,OpenStreetMap
+P003,Sharanpur Road,highway,20.0007886,73.7793935,OpenStreetMap
+P003,Sharanpur Road,highway,20.0009885,73.7769162,OpenStreetMap
+P003,Sharanpur Road,highway,20.0009962,73.7769162,OpenStreetMap
+P003,Sharanpur Road,highway,20.0013051,73.7760448,OpenStreetMap
+P003,Sharanpur Road,highway,20.0019149,73.7741372,OpenStreetMap
+P003,Sharanpur Road,highway,20.0016076,73.7753039,OpenStreetMap
+P003,Sharanpur Road,highway,20.0016076,73.7753039,OpenStreetMap
+P003,Sharanpur Road,highway,20.0022125,73.773032,OpenStreetMap
+P003,Sharanpur Road,highway,20.0022125,73.773032,OpenStreetMap
+P003,Sharanpur Road,highway,20.0026138,73.7718665,OpenStreetMap
+P003,Sharanpur Road,highway,20.0029549,73.770637,OpenStreetMap
+P003,Mahatma Nagar Link Road,highway,19.9983036,73.7542891,OpenStreetMap
+P003,Trimbak Road,highway,19.9933129,73.7519354,OpenStreetMap
+P003,Gangapur Road,highway,20.0142641,73.7421966,OpenStreetMap
+P003,Unnamed,highway,20.0165755,73.7358622,OpenStreetMap
+P003,Gangapur Road,highway,20.0164382,73.7361599,OpenStreetMap
+P003,Gangapur-Satpur Link Road,highway,20.0236632,73.721426,OpenStreetMap
+P003,Gangapur-Satpur Link Road,highway,20.0236278,73.7215013,OpenStreetMap
+P003,Gangapur-Satpur Link Road,highway,20.0208037,73.7199109,OpenStreetMap
+P003,Gangapur-Satpur Link Road,highway,19.9912692,73.7149275,OpenStreetMap
+P003,Unnamed,highway,19.985727,73.7236321,OpenStreetMap
+P003,Trimbak Road,highway,19.9865598,73.7249911,OpenStreetMap
+P003,Trimbak Road,highway,19.9867792,73.7251101,OpenStreetMap
+P003,Unnamed,highway,19.9894155,73.72895,OpenStreetMap
+P003,Trimbak Road,highway,19.9881298,73.7272102,OpenStreetMap
+P003,Trimbak Road,highway,19.9912291,73.7367847,OpenStreetMap
+P003,Trimbak Road,highway,19.9891707,73.7284829,OpenStreetMap
+P003,Trimbak Road,highway,19.9890753,73.7285318,OpenStreetMap
+P003,Trimbak Road,highway,19.9899155,73.7298897,OpenStreetMap
+P003,Trimbak Road,highway,19.9898135,73.7299745,OpenStreetMap
+P003,Unnamed,highway,19.9903253,73.7309205,OpenStreetMap
+P003,Trimbak Road,highway,19.9904731,73.7313024,OpenStreetMap
+P003,Unnamed,highway,19.9835241,73.7182174,OpenStreetMap
+P003,Trimbak Road,highway,19.9808958,73.7117037,OpenStreetMap
+P003,Trimbak Road,highway,19.9799943,73.7103129,OpenStreetMap
+P003,Trimbak Road,highway,19.9796002,73.7091231,OpenStreetMap
+P003,Gangapur Road,highway,20.0268035,73.7192868,OpenStreetMap
+P003,Gangapur Road,highway,20.0293621,73.7165687,OpenStreetMap
+P003,Unnamed,highway,20.0079031,73.7718463,OpenStreetMap
+P003,Unnamed,highway,20.0093911,73.7731869,OpenStreetMap
+P003,Unnamed,highway,20.0106086,73.7747116,OpenStreetMap
+P003,Unnamed,highway,20.0115544,73.7820176,OpenStreetMap
+P003,Unnamed,highway,20.0113347,73.7760333,OpenStreetMap
+P003,Unnamed,highway,20.0126204,73.7560172,OpenStreetMap
+P003,Unnamed,highway,20.0133037,73.7559659,OpenStreetMap
+P003,DK Nagar Road,highway,20.018031,73.7568375,OpenStreetMap
+P003,Unnamed,highway,20.0156113,73.7830083,OpenStreetMap
+P003,Unnamed,highway,20.0136617,73.7798526,OpenStreetMap
+P003,Unnamed,highway,19.9593063,73.7546781,OpenStreetMap
+P003,Ambad Link Road (M17),highway,19.9742016,73.7543467,OpenStreetMap
+P003,Ambad Link Road (M17),highway,19.9634776,73.7540179,OpenStreetMap
+P003,Ambad Link Road (M17),highway,19.9857548,73.7582051,OpenStreetMap
+P003,Ambad Link Road (M17),highway,19.9634652,73.753978,OpenStreetMap
+P003,Ambad Link Road (M17),highway,19.9896307,73.7616287,OpenStreetMap
+P003,Ambad Link Road,highway,19.9901066,73.7621992,OpenStreetMap
+P003,Ambad Link Road,highway,19.9922518,73.7663091,OpenStreetMap
+P003,Ambad Link Road,highway,19.9912657,73.7642934,OpenStreetMap
+P003,Ambad Link Road (M17),highway,19.9896319,73.7617023,OpenStreetMap
+P003,Unnamed,highway,19.9681185,73.7906817,OpenStreetMap
+P003,Unnamed,highway,19.9680904,73.7954196,OpenStreetMap
+P003,Shree Sant Savata Mali Marg,highway,19.9689975,73.7990268,OpenStreetMap
+P003,Shree Sant Savata Mali Marg,highway,19.9682921,73.799087,OpenStreetMap
+P003,Shree Sant Savata Mali Marg,highway,19.9710646,73.7970957,OpenStreetMap
+P003,Unnamed,highway,19.9684047,73.7880024,OpenStreetMap
+P003,Pujya Ravi Shankar Marg,highway,19.9795328,73.8074859,OpenStreetMap
+P003,Pujya Ravi Shankar Marg,highway,19.9792935,73.8071039,OpenStreetMap
+P003,Unnamed,highway,19.9736464,73.8031618,OpenStreetMap
+P003,Unnamed,highway,20.0116407,73.795748,OpenStreetMap
+P003,Unnamed,highway,20.0113677,73.7957473,OpenStreetMap
+P003,Gangapur Road,highway,20.0188784,73.7318251,OpenStreetMap
+P003,Gangapur Road,highway,20.0210484,73.727935,OpenStreetMap
+P003,Unnamed,highway,20.0198713,73.7865117,OpenStreetMap
+P003,Unnamed,highway,20.0168984,73.7851941,OpenStreetMap
+P003,Unnamed,highway,20.0136011,73.7799496,OpenStreetMap
+P003,Unnamed,highway,19.9822139,73.812437,OpenStreetMap
+P003,Unnamed,highway,20.0095483,73.7995084,OpenStreetMap
+P003,Unnamed,highway,20.0106836,73.7971301,OpenStreetMap
+P003,Gangapur Road,highway,20.0060355,73.7815434,OpenStreetMap
+P003,Canal Link Road,highway,19.9902126,73.7643118,OpenStreetMap
+P003,NashikRoad Railway-sation road,highway,19.9502509,73.8406174,OpenStreetMap
+P003,Canal Link Road,highway,19.9901654,73.764206,OpenStreetMap
+P003,Canal Link Road,highway,19.9848564,73.7720263,OpenStreetMap
+P003,Unnamed,highway,20.0088375,73.8008275,OpenStreetMap
+P003,Unnamed,highway,20.0094543,73.7995253,OpenStreetMap
+P003,Unnamed,highway,20.0089443,73.8036028,OpenStreetMap
+P003,Tapovan Road,highway,19.9849503,73.8097431,OpenStreetMap
+P003,Tapovan Road,highway,19.9884289,73.8091886,OpenStreetMap
+P003,Unnamed,highway,20.0088422,73.7722386,OpenStreetMap
+P003,Unnamed,highway,19.9936997,73.7828098,OpenStreetMap
+P003,Jail Road,highway,19.9518469,73.8373507,OpenStreetMap
+P003,Jail Road,highway,19.9558664,73.8381192,OpenStreetMap
+P003,Unnamed,highway,19.9347299,73.834425,OpenStreetMap
+P003,Unnamed,highway,19.9381777,73.8346011,OpenStreetMap
+P003,Unnamed,highway,19.9347335,73.8343263,OpenStreetMap
+P003,Pathardi Road,highway,19.9501107,73.7695528,OpenStreetMap
+P003,Pathardi Roade,highway,19.944268,73.7739,OpenStreetMap
+P003,Dindori Road,highway,20.0652932,73.8055052,OpenStreetMap
+P003,Unnamed,highway,20.0502125,73.8054697,OpenStreetMap
+P003,Unnamed,highway,20.0453998,73.8057037,OpenStreetMap
+P003,Unnamed,highway,20.0445796,73.8055837,OpenStreetMap
+P003,Unnamed,highway,20.0436662,73.8054409,OpenStreetMap
+P003,Unnamed,highway,20.0426955,73.8053008,OpenStreetMap
+P003,Unnamed,highway,20.0417205,73.805154,OpenStreetMap
+P003,Unnamed,highway,20.0402887,73.8048073,OpenStreetMap
+P003,Unnamed,highway,20.0375404,73.8041063,OpenStreetMap
+P003,Dindori Road,highway,20.0343929,73.8034859,OpenStreetMap
+P003,Dr Nanasaheb Dharmadhikari Marg,highway,20.0201546,73.8184371,OpenStreetMap
+P003,Wadala-Pathardi Road,highway,19.9491615,73.774945,OpenStreetMap
+P003,Wadala-Pathardi Road,highway,19.949149,73.7750438,OpenStreetMap
+P003,Unnamed,highway,19.9401408,73.8352249,OpenStreetMap
+P003,Unnamed,highway,19.9401676,73.8351718,OpenStreetMap
+P003,Unnamed,highway,19.9397455,73.8348993,OpenStreetMap
+P003,Unnamed,highway,19.9392405,73.8346966,OpenStreetMap
+P003,Unnamed,highway,19.9392042,73.8347648,OpenStreetMap
+P003,Canada Corner Link Road,highway,20.0030745,73.7702533,OpenStreetMap
+P003,Unnamed,highway,19.9713821,73.7764718,OpenStreetMap
+P003,Unnamed,highway,19.9731734,73.7859603,OpenStreetMap
+P003,XLO Paint/CTR Circle,highway,19.9632151,73.7351491,OpenStreetMap
+P003,Doctor Gaware Road,highway,19.9534247,73.7395925,OpenStreetMap
+P003,Unnamed,highway,20.0408882,73.793033,OpenStreetMap
+P003,Unnamed,highway,20.0357511,73.79439,OpenStreetMap
+P003,Unnamed,highway,20.017433,73.7937781,OpenStreetMap
+P003,Unnamed,highway,20.0306872,73.7952508,OpenStreetMap
+P003,Unnamed,highway,19.9482845,73.8408347,OpenStreetMap
+P003,NashikRoad railway station road,highway,19.9502637,73.8405291,OpenStreetMap
+P003,Subhash Road,highway,19.9472303,73.8386196,OpenStreetMap
+P003,Pune Nashik Road,highway,19.9385586,73.8564291,OpenStreetMap
+P003,Tapovan Road,highway,19.9812804,73.810351,OpenStreetMap
+P003,Unnamed,highway,19.9729285,73.774084,OpenStreetMap
+P003,Gangapur-Satpur Link Road,highway,20.0089532,73.7150527,OpenStreetMap
+P003,Meri-Rasbihari Link Road,highway,20.0325009,73.8068282,OpenStreetMap
+P003,Meri-Rasbihari Link Road,highway,20.0320781,73.810639,OpenStreetMap
+P003,Mhasrul Adgaon Road,highway,20.043055,73.8217053,OpenStreetMap
+P003,Mhasrul Adgaon Road,highway,20.0369411,73.8393994,OpenStreetMap
+P003,Zila Parishad Road,highway,19.9973136,73.7813398,OpenStreetMap
+P003,Zila Parishad Road,highway,19.9972071,73.7813612,OpenStreetMap
+P003,Unnamed,highway,20.0079382,73.7900745,OpenStreetMap
+P003,Ahilyabai Holkar Bridge,highway,20.0079751,73.7900493,OpenStreetMap
+P003,Ahilyabai Holkar Bridge,highway,20.0086782,73.7906855,OpenStreetMap
+P003,Unnamed,highway,20.0096652,73.7929812,OpenStreetMap
+P003,Unnamed,highway,20.0105791,73.795243,OpenStreetMap
+P003,Panchavati Karanja,highway,20.0098877,73.7948125,OpenStreetMap
+P003,Unnamed,highway,20.0095861,73.7930316,OpenStreetMap
+P003,Unnamed,highway,20.0106621,73.795147,OpenStreetMap
+P003,Unnamed,highway,20.0112623,73.7955092,OpenStreetMap
+P003,Unnamed,highway,20.02513,73.7949174,OpenStreetMap
+P003,Old Agra Road,highway,20.0251258,73.7948477,OpenStreetMap
+P003,Old Agra Road,highway,20.0195673,73.7940105,OpenStreetMap
+P003,Unnamed,highway,20.02248,73.7945103,OpenStreetMap
+P003,Old Agra Road,highway,20.0126073,73.7929616,OpenStreetMap
+P003,Old Agra Road,highway,20.0142881,73.793195,OpenStreetMap
+P003,Old Agra Road,highway,20.0163009,73.7934755,OpenStreetMap
+P003,Unnamed,highway,20.0169755,73.7936391,OpenStreetMap
+P003,Unnamed,highway,19.9346074,73.8108619,OpenStreetMap
+P003,Unnamed,highway,19.9301022,73.8340152,OpenStreetMap
+P003,Unnamed,highway,19.9300987,73.8340789,OpenStreetMap
+P003,Mhasrul Adgaon Road,highway,20.0469047,73.8083612,OpenStreetMap
+P003,Mhasrul Adgaon Road,highway,20.0460045,73.8107089,OpenStreetMap
+P003,Unnamed,highway,19.9416864,73.7410901,OpenStreetMap
+P003,Service Road,highway,19.9404693,73.7403142,OpenStreetMap
+P003,Mahatma Nagar Link Road,highway,20.0056974,73.7549026,OpenStreetMap
+P003,Unnamed,highway,20.0027742,73.754493,OpenStreetMap
+P003,Jail Road,highway,19.9544615,73.837835,OpenStreetMap
+P003,Jail Road,highway,19.9545296,73.8378551,OpenStreetMap
+P003,Unnamed,highway,19.9547062,73.8379943,OpenStreetMap
+P003,Unnamed,highway,19.9674195,73.8398852,OpenStreetMap
+P003,Unnamed,highway,19.971853,73.8405877,OpenStreetMap
+P003,Unnamed,highway,19.9721827,73.840682,OpenStreetMap
+P003,Unnamed,highway,19.9731302,73.8408741,OpenStreetMap
+P003,Unnamed,highway,19.9740156,73.8410495,OpenStreetMap
+P003,Unnamed,highway,19.9758539,73.8416062,OpenStreetMap
+P003,Unnamed,highway,19.977714,73.8421958,OpenStreetMap
+P003,Unnamed,highway,19.9783943,73.8424275,OpenStreetMap
+P003,Unnamed,highway,19.9796973,73.8431834,OpenStreetMap
+P003,Unnamed,highway,19.9821847,73.8444338,OpenStreetMap
+P003,Unnamed,highway,19.9807791,73.8438781,OpenStreetMap
+P003,Unnamed,highway,19.9810688,73.8440408,OpenStreetMap
+P003,Unnamed,highway,19.987718,73.845409,OpenStreetMap
+P003,Unnamed,highway,19.9896128,73.8456792,OpenStreetMap
+P003,Unnamed,highway,19.9902487,73.8457701,OpenStreetMap
+P003,Unnamed,highway,19.990801,73.8456285,OpenStreetMap
+P003,Unnamed,highway,19.9785038,73.8423652,OpenStreetMap
+P003,Unnamed,highway,19.9576411,73.838563,OpenStreetMap
+P003,Unnamed,highway,19.9617041,73.8391422,OpenStreetMap
+P003,Unnamed,highway,19.9853767,73.8450754,OpenStreetMap
+P003,Jail Road,highway,19.986032,73.8450087,OpenStreetMap
+P003,Unnamed,highway,19.983767,73.8448383,OpenStreetMap
+P003,Unnamed,highway,19.9907069,73.8455855,OpenStreetMap
+P003,Pune Road,highway,19.9548938,73.8365275,OpenStreetMap
+P003,Jail Road,highway,19.9542518,73.8377522,OpenStreetMap
+P003,Jail Road,highway,19.9542005,73.8378382,OpenStreetMap
+P003,Pune Road,highway,19.9540425,73.837721,OpenStreetMap
+P003,Ambad Link Road (M17),highway,19.9888886,73.7607523,OpenStreetMap
+P003,Unnamed,highway,19.9863362,73.7585208,OpenStreetMap
+P003,Ambad Link Road (M17),highway,19.9819504,73.7557484,OpenStreetMap
+P003,Unnamed,highway,19.9836276,73.7565048,OpenStreetMap
+P003,College road,highway,20.0056218,73.765124,OpenStreetMap
+P003,College Road,highway,20.0054913,73.7655462,OpenStreetMap
+P003,College Road,highway,20.0050588,73.7676243,OpenStreetMap
+P003,Unnamed,highway,20.0005371,73.7694444,OpenStreetMap
+P003,Unnamed,highway,19.9827447,73.8175911,OpenStreetMap
+P003,Takli Road,highway,19.9827447,73.8176391,OpenStreetMap
+P003,Shree Sant Savata Mali Marg,highway,19.9787471,73.7834907,OpenStreetMap
+P003,Shree Sant Savata Mali Marg,highway,19.9727651,73.7927234,OpenStreetMap
+P003,Unnamed,highway,19.973131,73.7860552,OpenStreetMap
+P003,Maharana Pratap Chowk Road,highway,19.9732548,73.765323,OpenStreetMap
+P003,Unnamed,highway,19.9573933,73.7574519,OpenStreetMap
+P003,Unnamed,highway,19.9564301,73.7589923,OpenStreetMap
+P003,Pathardi Road,highway,19.9563689,73.7589656,OpenStreetMap
+P003,SH27,highway,19.9575046,73.757142,OpenStreetMap
+P003,Unnamed,highway,19.9582185,73.7563776,OpenStreetMap
+P003,Unnamed,highway,19.9377617,73.7371994,OpenStreetMap
+P003,Unnamed,highway,19.9389456,73.7381552,OpenStreetMap
+P003,Unnamed,highway,20.0712762,73.7807069,OpenStreetMap
+P003,Unnamed,highway,20.0618925,73.7828912,OpenStreetMap
+P003,Wadala-Pathardi Road,highway,19.9616101,73.7790564,OpenStreetMap
+P003,Unnamed,highway,19.9958716,73.8095577,OpenStreetMap
+P003,Unnamed,highway,19.9849616,73.8098035,OpenStreetMap
+P003,Tapovan Road,highway,19.9815601,73.8102626,OpenStreetMap
+P003,Tapovan Road,highway,19.9985738,73.8099383,OpenStreetMap
+P003,Unnamed,highway,19.9632251,73.7353954,OpenStreetMap
+P003,SH27,highway,19.9631679,73.7354139,OpenStreetMap
+P003,Ambad Satpur Link Road,highway,19.9730621,73.7298359,OpenStreetMap
+P003,Ambad Satpur Link Road,highway,19.9845344,73.7240277,OpenStreetMap
+P003,Ambad Satpur Link Road,highway,19.9831211,73.7244744,OpenStreetMap
+P003,Unnamed,highway,20.0026413,73.7865811,OpenStreetMap
+P003,Nashik Pune Highway,highway,19.9814782,73.8059207,OpenStreetMap
+P003,Pune Road,highway,19.9541808,73.8375353,OpenStreetMap
+P003,Jail Road,highway,19.946987,73.8363248,OpenStreetMap
+P003,Old Agra Road,highway,20.0092841,73.7855804,OpenStreetMap
+P003,Unnamed,highway,19.9913812,73.8091182,OpenStreetMap
+P003,Unnamed,highway,19.9884427,73.8092874,OpenStreetMap
+P003,Unnamed,highway,20.0145829,73.7561546,OpenStreetMap
+P003,Unnamed,highway,20.027994,73.7835463,OpenStreetMap
+P003,Unnamed,highway,19.9713821,73.7764718,OpenStreetMap
+P003,Unnamed,highway,19.9696596,73.7809855,OpenStreetMap
+P003,Kabra Emporium,retail,20.001687,73.7768447,OpenStreetMap
+P003,Unnamed,highway,20.0131633,73.7688522,OpenStreetMap
+P003,Unnamed,highway,20.0089055,73.7723012,OpenStreetMap
+P003,Unnamed,highway,20.0181766,73.7655793,OpenStreetMap
+P003,Agra Mumbai Road,highway,20.0287622,73.8511329,OpenStreetMap
+P003,Agra Mumbai Road,highway,20.0286544,73.8511295,OpenStreetMap
+P003,Unnamed,highway,20.0166329,73.8250393,OpenStreetMap
+P003,Unnamed,highway,20.0168202,73.8254036,OpenStreetMap
+P003,Unnamed,highway,20.0270005,73.845872,OpenStreetMap
+P003,Meri-Rasbihari Link Road,highway,20.0316313,73.8134749,OpenStreetMap
+P003,Meri-Rasbihari Link Road,highway,20.0311698,73.8162915,OpenStreetMap
+P003,Pune Nashik Road,highway,19.9459531,73.8484434,OpenStreetMap
+P003,Unnamed,highway,19.9310448,73.7265603,OpenStreetMap
+P003,Unnamed,highway,19.9252811,73.7170031,OpenStreetMap
+P003,Unnamed,highway,19.93113,73.7264524,OpenStreetMap
+P003,Unnamed,highway,19.9253515,73.716881,OpenStreetMap
+P003,College Road,highway,20.0057562,73.763729,OpenStreetMap
+P003,The Terotale,food,19.9915047,73.7607048,OpenStreetMap
+P003,SSRF,retail,19.9905158,73.7597535,OpenStreetMap
+P003,Tilak Road,highway,19.9989256,73.7865693,OpenStreetMap
+P003,Nashik Pune Highway,highway,19.9697595,73.8175775,OpenStreetMap
+P003,Unnamed,highway,20.0255296,73.8419397,OpenStreetMap
+P003,State Highway 26,highway,20.060467,73.7028682,OpenStreetMap
+P003,Unnamed,highway,19.943863,73.7743132,OpenStreetMap
+P003,Pathardi Road,highway,19.9438989,73.7743679,OpenStreetMap
+P003,Pathardi Roade,highway,19.9445895,73.7737743,OpenStreetMap
+P003,Pathardi Road,highway,19.9446755,73.7736745,OpenStreetMap
+P003,Unnamed,highway,20.0335008,73.7990908,OpenStreetMap
+P003,Unnamed,highway,20.0328538,73.8031766,OpenStreetMap
+P003,Meri-Rasbihari Link Road,highway,20.0329043,73.8031934,OpenStreetMap
+P003,Pathardi Road,highway,19.9546621,73.7632373,OpenStreetMap
+P003,Unnamed,highway,19.9532029,73.7669308,OpenStreetMap
+P003,Unnamed,highway,19.9558076,73.7609982,OpenStreetMap
+P003,Unnamed,highway,19.9543064,73.7646896,OpenStreetMap
+P003,Karda Constructions- Mega Commercial & Residential Projects,retail,19.9584842,73.8324799,OpenStreetMap
+P003,Old Agra Road,highway,20.0120806,73.7905757,OpenStreetMap
+P003,Unnamed,highway,20.0121146,73.7943224,OpenStreetMap
+P003,Old Agra Road,highway,20.010821,73.7866383,OpenStreetMap
+P003,Old Agra Road,highway,20.011056,73.7878812,OpenStreetMap
+P003,Doctor Gaware Road,highway,19.9534192,73.7396403,OpenStreetMap
+P003,Vikrikar Bhavan Road,highway,19.9493034,73.7502456,OpenStreetMap
+P003,Unnamed,highway,19.970963,73.7717439,OpenStreetMap
+P003,Unnamed,highway,20.0187065,73.7186368,OpenStreetMap
+P003,Gangapur-Satpur Link Road,highway,20.0186852,73.7186619,OpenStreetMap
+P003,Jail Road,highway,19.9538968,73.8377175,OpenStreetMap
+P003,Unnamed,highway,19.9546003,73.8366298,OpenStreetMap
+P003,Jail Road,highway,19.9539577,73.8376376,OpenStreetMap
+P003,Unnamed,highway,19.953812,73.8376341,OpenStreetMap
+P003,Unnamed,highway,19.9458093,73.8362468,OpenStreetMap
+P003,Unnamed,highway,19.946176,73.8364086,OpenStreetMap
+P003,Unnamed,highway,19.9462722,73.836447,OpenStreetMap
+P003,Unnamed,highway,20.018667,73.8429093,OpenStreetMap
+P003,Unnamed,highway,20.025686,73.841945,OpenStreetMap
+P003,Unnamed,highway,20.0466707,73.8059029,OpenStreetMap
+P003,Unnamed,highway,20.049622,73.803225,OpenStreetMap
+P003,Dr Nanasaheb Dharmadhikari Marg,highway,20.0238468,73.8111916,OpenStreetMap
+P003,Dr Nanasaheb Dharmadhikari Marg,highway,20.024099,73.8101097,OpenStreetMap
+P003,Unnamed,highway,20.025259,73.7847666,OpenStreetMap
+P003,Dr Nanasaheb Dharmadhikari Marg,highway,20.0247017,73.8073426,OpenStreetMap
+P003,Dharmveer Chhatrapati Sambhajiraje Chowk,highway,20.0253871,73.8046234,OpenStreetMap
+P003,VIBGYOR School Road,highway,20.0268785,73.7939854,OpenStreetMap
+P003,Dr Nanasaheb Dharmadhikari Marg,highway,20.0247483,73.8073667,OpenStreetMap
+P003,VIBGYOR School Road,highway,20.0257686,73.7858442,OpenStreetMap
+P003,VIBGYOR School Road,highway,20.026287,73.7869315,OpenStreetMap
+P003,Dr Nanasaheb Dharmadhikari Marg,highway,20.0201208,73.8183672,OpenStreetMap
+P003,Unnamed,highway,20.0459478,73.79212,OpenStreetMap
+P003,Dr Nanasaheb Dharmadhikari Marg,highway,20.0260431,73.8027453,OpenStreetMap
+P003,Dr Nanasaheb Dharmadhikari Marg,highway,20.0259624,73.8027285,OpenStreetMap
+P003,Unnamed,highway,20.0084439,73.8150937,OpenStreetMap
+P003,Unnamed,highway,20.0084439,73.8150989,OpenStreetMap
+P003,Unnamed,highway,20.0465215,73.7918408,OpenStreetMap
+P003,Unnamed,highway,20.0477925,73.7965002,OpenStreetMap
+P003,Unnamed,highway,20.0465376,73.7918408,OpenStreetMap
+P003,Unnamed,highway,20.0058579,73.7632612,OpenStreetMap
+P003,College road,highway,20.0058773,73.7633015,OpenStreetMap
+P003,Shraddha Mall Road,highway,20.0058414,73.763329,OpenStreetMap
+P003,Unnamed,highway,20.0156871,73.7831129,OpenStreetMap
+P003,Unnamed,highway,19.9762259,73.8361788,OpenStreetMap
+P003,Unnamed,highway,19.9761726,73.8362168,OpenStreetMap
+P003,Unnamed,highway,19.9758765,73.8355194,OpenStreetMap
+P003,Juna Saikheda Road,highway,19.975811,73.8355567,OpenStreetMap
+P003,Shree Sant Savata Mali Marg,highway,19.978581,73.7833562,OpenStreetMap
+P003,Agra Mumbai Highway,highway,19.9863189,73.7842481,OpenStreetMap
+P003,Agra Mumbai Highway,highway,19.9858039,73.7839285,OpenStreetMap
+P003,Unnamed,highway,19.9863804,73.7840182,OpenStreetMap
+P003,Unnamed,highway,19.9859394,73.7837796,OpenStreetMap
+P003,Unnamed,highway,19.9908444,73.7637739,OpenStreetMap
+P003,Shree Sant Savata Mali Marg,highway,19.972541,73.7950504,OpenStreetMap
+P003,Shree Sant Savata Mali Marg,highway,19.9724953,73.795047,OpenStreetMap
+P003,Shree Sant Savata Mali Marg,highway,19.9728036,73.7927264,OpenStreetMap
+P003,Canal Link Road,highway,19.9937785,73.754063,OpenStreetMap
+P003,Trimbak Road,highway,19.993677,73.7541465,OpenStreetMap
+P003,Mahatma Nagar Link Road,highway,19.9937975,73.7541933,OpenStreetMap
+P003,Trimbak Road,highway,19.993899,73.7541098,OpenStreetMap
+P003,Trimbak Road,highway,19.993879,73.7539665,OpenStreetMap
+P003,Pathardi Road,highway,19.9460226,73.7728341,OpenStreetMap
+P003,Trimbak Road,highway,19.9920685,73.7432757,OpenStreetMap
+P003,Unnamed,highway,19.978034,73.7900678,OpenStreetMap
+P003,Unnamed,highway,19.9813612,73.7914467,OpenStreetMap
+P003,Unnamed,highway,19.9843118,73.7921791,OpenStreetMap
+P003,Unnamed,highway,19.9766918,73.789208,OpenStreetMap
+P003,Shree Sant Savata Mali Marg,highway,19.9770698,73.7879295,OpenStreetMap
+P003,Unnamed,highway,19.9766582,73.7892442,OpenStreetMap
+P003,Unnamed,highway,19.9724547,73.8407453,OpenStreetMap
+P003,Nashik Pune Highway,highway,19.9745315,73.8123184,OpenStreetMap
+P003,Unnamed,highway,19.9853296,73.8185618,OpenStreetMap
+P003,Nashik Road Railway Station Exit,highway,19.9505699,73.8446159,OpenStreetMap
+P003,Nashik Pune Highway Flyover,highway,19.9506105,73.8446967,OpenStreetMap
+P003,Nashik Pune Highway Flyover,highway,19.9497943,73.845412,OpenStreetMap
+P003,Nashik Pune Highway Flyover,highway,19.948624,73.8462117,OpenStreetMap
+P003,Nashik Road Railway Station Exit,highway,19.9516214,73.8407237,OpenStreetMap
+P003,Pune Road Flyover,highway,19.9519909,73.8405913,OpenStreetMap
+P003,Nashik Pune Highway Flyover,highway,19.9554605,73.8357118,OpenStreetMap
+P003,Nashik Pune Highway Flyover,highway,19.9553182,73.8357199,OpenStreetMap
+P003,Nashik Pune Highway Flyover,highway,19.9485887,73.8461214,OpenStreetMap
+P003,Gangapur Road Flyover,highway,20.005925,73.7777067,OpenStreetMap
+P003,Gangapur Road Flyover,highway,20.0058419,73.7777043,OpenStreetMap
+P003,Gangapur Road Flyover,highway,20.0059938,73.7798375,OpenStreetMap
+P003,Gangapur Road Flyover,highway,20.0059298,73.7798295,OpenStreetMap
+P003,Chaitanya Bakery,retail,20.0182512,73.7899932,OpenStreetMap
+P003,Shanghai Chinese,food,19.9679104,73.8192978,OpenStreetMap
+P003,Canal Link Road,highway,19.9905622,73.7636993,OpenStreetMap
+P003,Ambad Link Road,highway,19.990558,73.7628852,OpenStreetMap
+P003,Canal Link Road,highway,19.9906293,73.763808,OpenStreetMap
+P003,Ambad Link Road,highway,19.9908886,73.7634096,OpenStreetMap
+P003,Unnamed,highway,20.0168428,73.7852014,OpenStreetMap
+P003,Unnamed,highway,20.015538,73.783091,OpenStreetMap
+P003,Unnamed,highway,19.9918478,73.7420474,OpenStreetMap
+P003,Trimbak Road,highway,19.9923686,73.7459813,OpenStreetMap
+P003,Unnamed,highway,19.9674593,73.7690706,OpenStreetMap
+P003,Ambad Police Station Road,highway,19.9679611,73.7599783,OpenStreetMap
+P003,Ambad Police Station Road,highway,19.9679893,73.7599931,OpenStreetMap
+P003,Bhujbal Farm Road,highway,19.9774631,73.7735129,OpenStreetMap
+P003,Nashik City Center Mall,retail,19.9904797,73.7616223,OpenStreetMap
+P003,Unnamed,highway,19.9932142,73.7794708,OpenStreetMap
+P003,Unnamed,highway,19.9932968,73.7794479,OpenStreetMap
+P003,Wadala Road,highway,19.9922259,73.7936315,OpenStreetMap
+P003,Unnamed,highway,19.9904402,73.7907972,OpenStreetMap
+P003,Unnamed,highway,19.9906121,73.790722,OpenStreetMap
+P003,Unnamed,highway,20.0099443,73.8082298,OpenStreetMap
+P003,Unnamed,highway,20.0100995,73.8080749,OpenStreetMap
+P003,Agra Mumbai Road,highway,20.0281441,73.8495661,OpenStreetMap
+P003,Old Agra Road,highway,19.9953637,73.7819059,OpenStreetMap
+P003,Unnamed,highway,19.969392,73.7826568,OpenStreetMap
+P003,Unnamed,highway,19.9694348,73.7825356,OpenStreetMap
+P003,Dr Nanasaheb Dharmadhikari Marg,highway,20.0161288,73.8254536,OpenStreetMap
+P003,Dr Nanasaheb Dharmadhikari Marg,highway,20.016099,73.8253702,OpenStreetMap
+P003,Unnamed,highway,20.0265977,73.7841131,OpenStreetMap
+P003,Unnamed,highway,20.0198713,73.7865117,OpenStreetMap
+P003,Unnamed,highway,20.0182061,73.787021,OpenStreetMap
+P003,Unnamed,highway,20.0148287,73.7883039,OpenStreetMap
+P003,Ambad Link Road,highway,19.9905117,73.7629793,OpenStreetMap
+P003,Ambad Link Road,highway,19.9939622,73.7704256,OpenStreetMap
+P003,Ambad Link Road,highway,19.9938519,73.7704506,OpenStreetMap
+P003,Unnamed,highway,19.9684215,73.7985657,OpenStreetMap
+P003,Shree Sant Savata Mali Marg,highway,19.9690519,73.7982477,OpenStreetMap
+P003,Takli Road,highway,19.984875,73.8174811,OpenStreetMap
+P003,Unnamed,highway,19.9851223,73.8175004,OpenStreetMap
+P003,Pinnacle Mall,retail,19.9966031,73.7810114,OpenStreetMap
+P003,Unnamed,highway,19.9583206,73.7602164,OpenStreetMap
+P003,Unnamed,highway,19.9685439,73.7693,OpenStreetMap
+P003,Unnamed,highway,19.9632603,73.7644569,OpenStreetMap
+P003,DMart,retail,19.935923,73.7359614,OpenStreetMap
+P003,The Furniture Shop,retail,19.9345018,73.732509,OpenStreetMap
+P003,Booking Office,retail,19.9412166,73.7487555,OpenStreetMap

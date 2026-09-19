@@ -1,4 +1,4 @@
 property_id,education_accessibility,education_evidence,healthcare_accessibility,healthcare_evidence,market_accessibility,market_evidence,transport_connectivity,transport_evidence,food_retail_availability,food_retail_evidence,pollution,pollution_evidence
-P001,,No verified data available,,No verified data available,,No verified data available,3,Verified transport data available,,No verified food/retail data available,,No verified pollution data available
-P002,,No verified data available,,No verified data available,,No verified data available,1,Verified transport data available,,No verified food/retail data available,,No verified pollution data available
-P003,,No verified data available,,No verified data available,,No verified data available,1,Verified transport data available,,No verified food/retail data available,,No verified pollution data available
+P001,4.0,1 school(s) within 3 km,4.0,1 hospital(s) within 3 km,4.0,1 market(s) within 3 km,3,Verified transport data available,,No verified food/retail data available,,No verified pollution data available
+P002,,No verified data available,,No verified data available,,No verified data available,5,Verified transport data available,5.0,Verified food/retail data available,,No verified pollution data available
+P003,,No verified data available,,No verified data available,,No verified data available,5,Verified transport data available,5.0,Verified food/retail data available,,No verified pollution data available
