@@ -1,0 +1,138 @@
+{
+  "name": "ValueProof Valuation Pipeline",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "valueproof-webhook",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "1",
+      "name": "Webhook Ingestion",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [100, 300]
+    },
+    {
+      "parameters": {
+        "functionCode": "// Validate subject property input before sending to ValueProof backend\nconst body = items[0].json.body || items[0].json;\n\nif (!body.location || !body.location.city || !body.location.locality) {\n  throw new Error('Validation Error: Missing required location (city, locality).');\n}\nif (!body.area_sqft || body.area_sqft <= 0) {\n  throw new Error('Validation Error: area_sqft must be strictly positive.');\n}\nif (!body.property_type) {\n  throw new Error('Validation Error: Missing property_type.');\n}\n\nreturn [{ json: { property: body, asking_price: body.asking_price || null, include_ai_explanation: false } }];"
+      },
+      "id": "2",
+      "name": "Validate Input",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [320, 300]
+    },
+    {
+      "parameters": {
+        "requestMethod": "POST",
+        "url": "={{ $env.VALUEPROOF_BACKEND_URL || 'http://localhost:8000' }}/api/v1/valuate",
+        "jsonParameters": true,
+        "options": {},
+        "bodyParametersJson": "={{ JSON.stringify($json) }}"
+      },
+      "id": "3",
+      "name": "Call ValueProof Valuation Engine",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [540, 300]
+    },
+    {
+      "parameters": {
+        "model": "gemini-2.5-flash",
+        "prompt": "=Explain this deterministic property valuation strictly using the provided structured evidence:\n\nValuation Payload:\n{{ JSON.stringify($json) }}\n\nStrict Rules:\n1. Do NOT modify any numbers.\n2. Do NOT invent amenities, unverified features, or comparables.\n3. Do NOT provide financial or investment directives.",
+        "options": {
+          "temperature": 0.2
+        }
+      },
+      "id": "4",
+      "name": "Optional Gemini AI Synthesis",
+      "type": "n8n-nodes-base.googleGemini",
+      "typeVersion": 1,
+      "position": [760, 300]
+    },
+    {
+      "parameters": {
+        "functionCode": "// Merge structured valuation with workflow orchestration output\nconst valuation = items[0].json;\nconst aiSummary = items[0].json.text || valuation.ai_explanation || '';\n\nreturn [{\n  json: {\n    status: 'success',\n    orchestrator: 'n8n',\n    estimated_value: valuation.estimated_value,\n    valuation_range: valuation.valuation_range,\n    representative_price_per_sqft: valuation.representative_price_per_sqft,\n    price_breakdown: valuation.price_breakdown,\n    evidence_passport: valuation.evidence_passport,\n    location_intelligence: valuation.location_intelligence,\n    negotiation_lens: valuation.negotiation_lens,\n    ai_explanation: aiSummary\n  }\n}];"
+      },
+      "id": "5",
+      "name": "Format Orchestrated Response",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [980, 300]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ JSON.stringify($json) }}",
+        "options": {}
+      },
+      "id": "6",
+      "name": "Respond to Webhook",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1,
+      "position": [1200, 300]
+    }
+  ],
+  "connections": {
+    "Webhook Ingestion": {
+      "main": [
+        [
+          {
+            "node": "Validate Input",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Validate Input": {
+      "main": [
+        [
+          {
+            "node": "Call ValueProof Valuation Engine",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Call ValueProof Valuation Engine": {
+      "main": [
+        [
+          {
+            "node": "Optional Gemini AI Synthesis",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Optional Gemini AI Synthesis": {
+      "main": [
+        [
+          {
+            "node": "Format Orchestrated Response",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Format Orchestrated Response": {
+      "main": [
+        [
+          {
+            "node": "Respond to Webhook",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}
