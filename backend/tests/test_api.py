@@ -152,3 +152,57 @@ def test_explain_endpoint():
     assert response.status_code == 200
     data = response.json()
     assert len(data["explanation"]) > 0
+
+
+def test_frontend_flat_valuation_payload():
+    payload = {
+        "intent": "sell",
+        "location": "Rajpura, Punjab",
+        "localityPincode": "Focal Point Road",
+        "propertyType": "house",
+        "area": 1500,
+        "areaUnit": "sqft",
+        "age": "1_5",
+        "roadWidth": "30ft",
+        "bedrooms": 3,
+        "isCornerPlot": True,
+        "dealerQuote": 7500000
+    }
+    response = client.post("/api/v1/valuate", json=payload)
+    assert response.status_code == 200
+    data = response.json()
+
+    # Verify frontend fields are populated
+    assert "estimatedValueMid" in data
+    assert data["estimatedValueMid"] > 0
+    assert data["estimatedValueMin"] < data["estimatedValueMid"] < data["estimatedValueMax"]
+    assert "ratePerSqFt" in data
+    assert "comparables" in data
+    assert len(data["comparables"]) > 0
+    assert "amenities" in data
+    assert len(data["amenities"]) > 0
+    assert "locationSignals" in data
+    assert len(data["locationSignals"]) > 0
+    assert "price_breakdown" in data
+    assert len(data["price_breakdown"]) > 0
+    assert data["propertySummary"]["location"] != ""
+    assert data["propertySummary"]["areaSqFt"] == 1500
+
+
+def test_frontend_renovation_payload():
+    payload = {
+        "currentValue": 7500000,
+        "renovationCost": 300000,
+        "renovationType": "kitchen_bath"
+    }
+    response = client.post("/api/v1/renovation-scenario", json=payload)
+    assert response.status_code == 200
+    data = response.json()
+
+    assert data["currentValue"] == 7500000
+    assert data["renovationCost"] == 300000
+    assert data["potentialValueChange"] > 300000
+    assert data["potentialPostRenovationValue"] > 7500000
+    assert data["roiPercentage"] > 0
+    assert len(data["breakdownFactors"]) > 0
+

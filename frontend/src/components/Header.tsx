@@ -1,78 +1,85 @@
-'use client';
-
 import React from 'react';
-import { ShieldCheck, Activity, Globe, Sparkles } from 'lucide-react';
-import { SUPPORTED_LANGUAGES, SupportedLanguage, TRANSLATIONS } from '@/lib/i18n';
+import { useTranslation } from '../context/LanguageContext';
+import { useValuation } from '../context/ValuationContext';
+import { BrandHouse3DIcon } from './BrandHouse3DIcon';
+import { Globe, RotateCcw, Sparkles, ChevronDown } from 'lucide-react';
 
-interface HeaderProps {
-  currentLang: SupportedLanguage;
-  onLanguageChange: (lang: SupportedLanguage) => void;
-  backendOnline: boolean;
-  onLoadDemo: () => void;
-}
-
-export const Header: React.FC<HeaderProps> = ({
-  currentLang,
-  onLanguageChange,
-  backendOnline,
-  onLoadDemo,
-}) => {
-  const t = TRANSLATIONS[currentLang] || TRANSLATIONS.en;
+export const Header: React.FC = () => {
+  const { currentLanguageOption, setIsLanguageModalOpen, t } = useTranslation();
+  const { currentStep, resetToNewIntake, valuationResult, setStep } = useValuation();
 
   return (
-    <header className="border-b border-slate-800 bg-slate-950/80 backdrop-blur-md sticky top-0 z-50">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-        {/* Brand */}
-        <div className="flex items-center space-x-3">
-          <div className="w-10 h-10 rounded-lg bg-emerald-500/10 border border-emerald-500/30 flex items-center justify-center text-emerald-400 shadow-sm shadow-emerald-500/10">
-            <ShieldCheck className="w-6 h-6" />
-          </div>
+    <header className="sticky top-0 z-30 bg-[#072b17] border-b border-brand-800/80 text-white shadow-lg no-print">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
+        {/* Brand Logo & Name: MoolyaSetu (मूल्यसेतु) with 3D House Icon */}
+        <div
+          onClick={() => setStep('home')}
+          className="flex items-center gap-3 cursor-pointer group select-none"
+        >
+          {/* 3D House Logo */}
+          <BrandHouse3DIcon size="md" />
+
           <div>
-            <div className="flex items-center space-x-2">
-              <span className="text-xl font-bold tracking-tight text-white">ValueProof</span>
-              <span className="text-[10px] uppercase font-semibold px-2 py-0.5 rounded-full bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
-                Evidence Engine
+            <div className="flex items-center gap-2">
+              <span className="text-xl font-black tracking-tight text-white flex items-center">
+                Moolya<span className="text-emerald-400">Setu</span>
+              </span>
+              <span className="text-xs font-bold text-amber-300 font-serif hidden sm:inline">
+                (मूल्यसेतु)
+              </span>
+              <span className="hidden md:inline-block text-[9px] uppercase font-black tracking-wider px-2 py-0.5 rounded-full bg-amber-500/20 text-amber-300 border border-amber-400/30">
+                {t('tagline_short')}
               </span>
             </div>
-            <p className="text-xs text-slate-400 hidden sm:block">
-              {t.tagline}
+            <p className="text-[10px] sm:text-[11px] text-cream-200/90 font-medium hidden sm:block">
+              {t('tagline')}
             </p>
           </div>
         </div>
 
-        {/* Action Controls */}
-        <div className="flex items-center space-x-3">
-          {/* Quick Demo Preload */}
-          <button
-            onClick={onLoadDemo}
-            className="hidden md:flex items-center space-x-1.5 text-xs font-medium px-3 py-1.5 rounded-md bg-indigo-950/60 text-indigo-300 border border-indigo-800/60 hover:bg-indigo-900/60 transition-colors"
-            title="Pre-fill Rajpura independent house demo dataset"
-          >
-            <Sparkles className="w-3.5 h-3.5 text-indigo-400" />
-            <span>{t.loadDemo}</span>
-          </button>
-
-          {/* Language Selector */}
-          <div className="relative flex items-center">
-            <Globe className="w-4 h-4 text-slate-400 absolute left-2.5 pointer-events-none" />
-            <select
-              value={currentLang}
-              onChange={(e) => onLanguageChange(e.target.value as SupportedLanguage)}
-              className="pl-8 pr-3 py-1.5 text-xs font-medium rounded-md bg-slate-900 text-slate-200 border border-slate-700 hover:border-slate-600 focus:outline-none focus:ring-1 focus:ring-emerald-500 transition-colors"
+        {/* Right Action Controls */}
+        <div className="flex items-center gap-2 sm:gap-3">
+          {/* Home button */}
+          {currentStep !== 'home' && (
+            <button
+              onClick={() => setStep('home')}
+              className="text-xs font-bold px-3 py-1.5 rounded-xl bg-brand-900/90 hover:bg-brand-800 text-cream-100 border border-brand-700 transition-colors shadow-xs cursor-pointer"
             >
-              {SUPPORTED_LANGUAGES.map((lang) => (
-                <option key={lang.code} value={lang.code} className="bg-slate-900 text-slate-200">
-                  {lang.native} ({lang.label})
-                </option>
-              ))}
-            </select>
-          </div>
+              {t('nav.home')}
+            </button>
+          )}
 
-          {/* Backend Status Indicator */}
-          <div className="flex items-center space-x-1.5 px-2.5 py-1 rounded-full bg-slate-900 border border-slate-800 text-xs text-slate-300">
-            <Activity className={`w-3.5 h-3.5 ${backendOnline ? 'text-emerald-400 animate-pulse' : 'text-amber-400'}`} />
-            <span className="hidden sm:inline">{backendOnline ? 'Deterministic Engine Ready' : 'Connecting API...'}</span>
-          </div>
+          {/* New / Reset Valuation Button */}
+          {currentStep !== 'home' && currentStep !== 'language' && currentStep !== 'intent' && currentStep !== 'intake' && (
+            <button
+              onClick={resetToNewIntake}
+              className="flex items-center gap-1.5 text-xs font-bold px-3 py-1.5 rounded-xl bg-brand-900/80 hover:bg-brand-800 text-cream-100 border border-brand-700 transition-colors shadow-xs cursor-pointer"
+              title="Start a new property valuation"
+            >
+              <RotateCcw className="w-3.5 h-3.5 text-amber-400" />
+              <span className="hidden sm:inline">{t('nav.new_check')}</span>
+            </button>
+          )}
+
+          {/* Registry Comps badge */}
+          {valuationResult && (
+            <div className="hidden md:flex items-center gap-1.5 px-3 py-1 rounded-full bg-brand-900 border border-brand-600/50 text-emerald-300 text-xs font-bold">
+              <Sparkles className="w-3.5 h-3.5 text-amber-400 animate-pulse" />
+              <span>{valuationResult.comparableCount} {t('result.verified_comps')}</span>
+            </div>
+          )}
+
+          {/* Language Selector Trigger in Navbar: 🌐 English ▾ */}
+          <button
+            type="button"
+            onClick={() => setIsLanguageModalOpen(true)}
+            className="flex items-center gap-1.5 sm:gap-2 px-3 py-1.5 rounded-xl bg-brand-900/95 hover:bg-brand-800 border border-brand-600/80 text-white font-bold text-xs sm:text-sm transition-all shadow-md active:scale-95 cursor-pointer ring-1 ring-white/10"
+            aria-label={t('common.change_language')}
+          >
+            <Globe className="w-4 h-4 text-emerald-400 shrink-0" />
+            <span className="tracking-tight">{currentLanguageOption.nativeName}</span>
+            <ChevronDown className="w-3.5 h-3.5 text-amber-300 shrink-0" />
+          </button>
         </div>
       </div>
     </header>
