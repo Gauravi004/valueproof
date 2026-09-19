@@ -1,0 +1,41 @@
+[
+    {
+        "property_id": "P001",
+        "location": {
+            "school_km": 0.5301722723187208,
+            "hospital_km": 0.88876482138525,
+            "market_km": 0.5876980790825883,
+            "bank_km": 0.7842840037175707,
+            "park_km": 0.7351115626069008,
+            "main_road_km": 1.0180023273542882
+        },
+        "location_score": 7.666666666666667,
+        "data_quality": "HIGH"
+    },
+    {
+        "property_id": "P002",
+        "location": {
+            "school_km": 363.3763662945783,
+            "hospital_km": 362.59088269950126,
+            "market_km": 362.8903058395783,
+            "bank_km": 363.63386078767047,
+            "park_km": 362.2517445767338,
+            "main_road_km": 363.3914246658208
+        },
+        "location_score": 2.0,
+        "data_quality": "HIGH"
+    },
+    {
+        "property_id": "P003",
+        "location": {
+            "school_km": 1158.6678478308313,
+            "hospital_km": 1157.9221801350889,
+            "market_km": 1158.1340233825697,
+            "bank_km": 1158.8979444379684,
+            "park_km": 1157.5101249990394,
+            "main_road_km": 1158.7239558532278
+        },
+        "location_score": 2.0,
+        "data_quality": "HIGH"
+    }
+]
