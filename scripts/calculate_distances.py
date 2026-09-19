@@ -1,18 +1,15 @@
 import pandas as pd
 import math
 
-# Read our demo amenities data
-df = pd.read_csv("data/amenities.csv")
+# Read property locations
+properties = pd.read_csv("data/property_location.csv")
 
-# Property location
-property_lat = 30.12
-property_lon = 76.46
+# Read nearby amenities
+amenities = pd.read_csv("data/amenities.csv")
 
 
-# Function to calculate distance
 def calculate_distance(lat1, lon1, lat2, lon2):
-
-    R = 6371  # Earth's radius in kilometres
+    R = 6371
 
     lat1 = math.radians(lat1)
     lon1 = math.radians(lon1)
@@ -34,26 +31,46 @@ def calculate_distance(lat1, lon1, lat2, lon2):
     return R * c
 
 
-# Calculate distance for every place
-df["distance_km"] = df.apply(
-    lambda row: calculate_distance(
-        property_lat,
-        property_lon,
-        row["latitude"],
-        row["longitude"]
-    ),
-    axis=1
-)
+results = []
 
-# Save result
-df.to_csv("output/amenities_with_distance.csv", index=False)
+# Calculate distances for every property
+for _, property_row in properties.iterrows():
+
+    property_id = property_row["property_id"]
+    property_lat = property_row["latitude"]
+    property_lon = property_row["longitude"]
+
+    for _, amenity in amenities.iterrows():
+
+        distance = calculate_distance(
+            property_lat,
+            property_lon,
+            amenity["latitude"],
+            amenity["longitude"]
+        )
+
+        results.append({
+            "property_id": property_id,
+            "name": amenity["name"],
+            "type": amenity["type"],
+            "distance_km": distance
+        })
+
+
+result_df = pd.DataFrame(results)
+
+result_df.to_csv(
+    "output/amenities_with_distance.csv",
+    index=False
+)
 
 print("Distance calculation completed!")
 
 print("\nNearest places:")
 
 print(
-    df.sort_values("distance_km")[
-        ["name", "type", "distance_km"]
-    ].head(10)
+    result_df
+    .sort_values(["property_id", "distance_km"])
+    .groupby("property_id")
+    .head(5)
 )

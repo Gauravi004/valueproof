@@ -1,12 +1,14 @@
-{
-    "property_id": "P001",
-    "location_features": {
-        "school_km": 0.5301722723187208,
-        "hospital_km": 0.88876482138525,
-        "market_km": 0.5876980790825883,
-        "bank_km": 0.7842840037175707,
-        "park_km": 0.7351115626069008,
-        "main_road_km": 1.0180023273542882
-    },
-    "location_score": 7.666666666666667
-}
+[
+    {
+        "property_id": "P001",
+        "location_features": {
+            "school_km": 0.5301722723187208,
+            "hospital_km": 0.88876482138525,
+            "market_km": 0.5876980790825883,
+            "bank_km": 0.7842840037175707,
+            "park_km": 0.7351115626069008,
+            "main_road_km": 1.0180023273542882
+        },
+        "location_score": 7.666666666666667
+    }
+]
