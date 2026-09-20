@@ -2,6 +2,8 @@
     {
         "property_id": "P001",
         "location": {
+            "latitude": 30.12,
+            "longitude": 76.46,
             "source": "DEMO + OpenStreetMap",
             "school_km": 0.53,
             "hospital_km": 0.889,
@@ -41,6 +43,8 @@
     {
         "property_id": "P002",
         "location": {
+            "latitude": 26.91,
+            "longitude": 75.79,
             "source": "DEMO + OpenStreetMap",
             "school_km": null,
             "hospital_km": null,
@@ -80,6 +84,8 @@
     {
         "property_id": "P003",
         "location": {
+            "latitude": 19.99,
+            "longitude": 73.78,
             "source": "DEMO + OpenStreetMap",
             "school_km": null,
             "hospital_km": null,
