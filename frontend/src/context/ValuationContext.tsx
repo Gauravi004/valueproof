@@ -43,9 +43,23 @@ interface ValuationContextType {
 
 const ValuationContext = createContext<ValuationContextType | undefined>(undefined);
 
+const getInitialStep = (): AppStep => {
+  if (typeof window !== 'undefined') {
+    const params = new URLSearchParams(window.location.search);
+    const stepParam = params.get('step') as AppStep;
+    if (stepParam && ['intro', 'home', 'language', 'intent', 'intake', 'valuation'].includes(stepParam)) {
+      return stepParam;
+    }
+    if (window.location.hash === '#home') {
+      return 'home';
+    }
+  }
+  return 'intro';
+};
+
 export const ValuationProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
-  // Start on the Language Selection Screen First with Background Video
-  const [currentStep, setCurrentStep] = useState<AppStep>('language');
+  // Start on the Cinematic Intro Screen First
+  const [currentStep, setCurrentStep] = useState<AppStep>(getInitialStep);
   const [propertyInput, setPropertyInput] = useState<PropertyInputState>(DEFAULT_INPUT);
   const [valuationResult, setValuationResult] = useState<ValuationResponse | null>(null);
   const [isLoading, setIsLoading] = useState(false);

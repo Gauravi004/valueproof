@@ -15,11 +15,21 @@ import { EvidencePassport } from './components/EvidencePassport';
 import { NegotiationLens } from './components/NegotiationLens';
 import { RenovationCalculator } from './components/RenovationCalculator';
 import { CinematicLandingPage } from './components/CinematicLandingPage';
+import { CinematicIntroScreen } from './components/CinematicIntroScreen';
 
 const MainContent: React.FC = () => {
   const { currentStep } = useValuation();
 
-  // 1. Language Selection First (With Full-Screen Video Background)
+  // 1. Cinematic Intro Screen (First Screen)
+  if (currentStep === 'intro') {
+    return (
+      <main className="min-h-screen">
+        <CinematicIntroScreen />
+      </main>
+    );
+  }
+
+  // 2. Language Selection Screen (With Full-Screen Video Background)
   if (currentStep === 'language') {
     return (
       <main className="min-h-screen">
@@ -29,7 +39,7 @@ const MainContent: React.FC = () => {
     );
   }
 
-  // 2. Cinematic Landing Page
+  // 3. Existing ValueProof Home Page (CinematicLandingPage)
   if (currentStep === 'home') {
     return (
       <main className="min-h-screen">

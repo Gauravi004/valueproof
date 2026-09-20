@@ -121,6 +121,7 @@ export interface RenovationResponse {
 }
 
 export type AppStep =
+  | 'intro'
   | 'home'
   | 'language'
   | 'intent'
