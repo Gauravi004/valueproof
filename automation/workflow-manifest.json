@@ -1,0 +1,5 @@
+{
+  "name": "ValueProof Valuation Pipeline",
+  "description": "Orchestrates input validation, calls ValueProof backend, synthesizes evidence explanation, and responds to webhook.",
+  "workflow_file": "../n8n/valueproof-workflow.json"
+}

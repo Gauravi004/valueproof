@@ -1,0 +1,21 @@
+id,source,source_type,date,locality,city,property_type,area_sqft,price,price_per_sqft,latitude,longitude,age_years,road_width_ft,bedrooms,bathrooms,corner_plot,condition,is_synthetic
+COMP-RAJ-001,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - Punjab Land Records Mock,government_registry_mock,2026-06-15,Focal Point Road,Rajpura,independent_house,1800,7200000,4000.0,30.4852,76.5931,7,30,3,2,True,good,True
+COMP-RAJ-002,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - Local Broker Verified Listing,verified_listing_mock,2026-07-20,Kasturba Road,Rajpura,independent_house,1750,6800000,3885.71,30.4891,76.5975,9,25,3,2,False,good,True
+COMP-RAJ-003,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - Punjab Land Records Mock,government_registry_mock,2026-05-10,Dalima Vihar,Rajpura,independent_house,1900,7600000,4000.0,30.4815,76.5889,5,35,4,3,True,excellent,True
+COMP-RAJ-004,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - Aggregator Index Mock,market_index_mock,2026-04-18,Old Rajpura,Rajpura,independent_house,1600,5900000,3687.5,30.479,76.602,18,20,3,2,False,fair,True
+COMP-RAJ-005,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - Local Broker Listing Mock,verified_listing_mock,2026-08-01,Focal Point Road,Rajpura,residential_plot,1800,4500000,2500.0,30.486,76.594,0,30,0,0,True,new,True
+COMP-RAJ-006,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - Registry Mock,government_registry_mock,2026-03-25,Patiala Road Colony,Rajpura,independent_house,2000,7900000,3950.0,30.478,76.582,6,30,4,3,False,good,True
+COMP-RAJ-007,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - Verified Listing Mock,verified_listing_mock,2026-06-30,Focal Point Road,Rajpura,apartment,1350,4400000,3259.26,30.4875,76.5925,4,40,3,2,False,good,True
+COMP-MOH-001,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - GMADA Registry Mock,government_registry_mock,2026-07-12,Sector 68,Mohali,independent_house,2250,16500000,7333.33,30.702,76.712,6,40,4,4,True,excellent,True
+COMP-MOH-002,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - Verified Listing Mock,verified_listing_mock,2026-08-14,Sector 68,Mohali,independent_house,2000,14200000,7100.0,30.704,76.715,8,35,4,3,False,good,True
+COMP-MOH-003,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - Builder Direct Registry,government_registry_mock,2026-06-05,Sector 82,Mohali,apartment,1650,9500000,5757.58,30.68,76.73,3,60,3,3,False,excellent,True
+COMP-MOH-004,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - Verified Listing Mock,verified_listing_mock,2026-05-22,Sector 70,Mohali,independent_house,1800,13800000,7666.67,30.708,76.705,10,30,3,3,False,good,True
+COMP-MOH-005,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - GMADA Auction Mock,government_registry_mock,2026-04-11,Sector 79,Mohali,residential_plot,2250,12000000,5333.33,30.692,76.721,0,40,0,0,True,new,True
+COMP-CHD-001,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - Chandigarh Sub-Registrar Mock,government_registry_mock,2026-07-02,Sector 34,Chandigarh,independent_house,2700,31000000,11481.48,30.722,76.768,14,40,4,4,True,good,True
+COMP-CHD-002,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - Housing Board Mock,government_registry_mock,2026-05-18,Sector 49,Chandigarh,apartment,1400,12500000,8928.57,30.698,76.755,9,45,3,2,False,good,True
+COMP-CHD-003,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - Prime Registry Mock,government_registry_mock,2026-08-08,Sector 18,Chandigarh,independent_house,3600,54000000,15000.0,30.738,76.786,18,50,5,5,True,excellent,True
+COMP-CHD-004,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - Commercial Registry Mock,government_registry_mock,2026-06-28,Sector 22,Chandigarh,commercial_property,1200,24000000,20000.0,30.731,76.772,15,60,0,1,False,good,True
+COMP-CHD-005,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - Society Listing Mock,verified_listing_mock,2026-07-29,Sector 48,Chandigarh,apartment,1750,14500000,8285.71,30.701,76.758,7,50,3,3,True,excellent,True
+COMP-RAJ-008,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - Rajpura Mandi Commercial Mock,market_index_mock,2026-05-30,Grain Market Road,Rajpura,commercial_property,1500,10500000,7000.0,30.483,76.599,12,40,0,1,True,fair,True
+COMP-RAJ-009,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - Gated Enclave Mock,verified_listing_mock,2026-08-11,Focal Point Road,Rajpura,villa,2400,10800000,4500.0,30.487,76.591,2,35,4,4,True,excellent,True
+COMP-MOH-006,DEMO / SYNTHETIC / ILLUSTRATIVE DATA - Aerocity Mohali Mock,government_registry_mock,2026-07-04,Aerocity,Mohali,villa,2700,21500000,7962.96,30.648,76.782,2,50,4,4,True,excellent,True
